@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TVP &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/tvp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Tue, 01 May 2018 12:05:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Pytanie na śniadanie &#8211; wywiad</title>
+		<link>/2016/08/27/pytanie-na-sniadanie-wywiad/</link>
+		<pubDate>Sat, 27 Aug 2016 21:19:35 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Brexit]]></category>
+		<category><![CDATA[Polacy w UK]]></category>
+		<category><![CDATA[pszczoły]]></category>
+		<category><![CDATA[Pytanie na Śniadanie]]></category>
+		<category><![CDATA[TVP]]></category>
+		<category><![CDATA[TVP1]]></category>
+
+		<guid isPermaLink="false">http://joannabagniewska.com/?p=1568</guid>
+		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie:]]></description>
+				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>:</p>
+<p><a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe"><img class="alignnone size-full wp-image-1572" src="https://jbagniewska.files.wordpress.com/2016/08/pns.png" alt="PnS" width="1037" height="609" /></a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

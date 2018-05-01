@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>polskie stowarzyszenia studenckie w UK &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/polskie-stowarzyszenia-studenckie-w-uk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Tue, 01 May 2018 12:05:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Kongres polskich studentów w Wielkiej Brytanii</title>
+		<link>/2014/03/08/kongres-polskich-studentow-w-wielkiej-brytanii/</link>
+		<pubDate>Sat, 08 Mar 2014 23:16:09 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[kongres]]></category>
+		<category><![CDATA[Oxford University]]></category>
+		<category><![CDATA[Polskie Radio]]></category>
+		<category><![CDATA[polskie stowarzyszenia studenckie w UK]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[Wielka Brytania]]></category>
+
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=587</guid>
+		<description><![CDATA[Rozmowa prowadzona przez Marię Wieczorkiewicz  &#8211; audycja radiowa.  ]]></description>
+				<content:encoded><![CDATA[<p><a href="http://external.polskieradio.pl/8/80/Artykul/164553,Kongres-polskich-studentow-w-Wielkiej-Brytanii"><img class="alignnone size-full wp-image-588" src="http://jbagniewska.files.wordpress.com/2014/04/pr-kongres.png" alt="PR-kongres" width="500" height="351" /></a></p>
+<p>Rozmowa prowadzona przez Marię Wieczorkiewicz  &#8211; <a href="http://external.polskieradio.pl/Player">audycja</a> radiowa.</p>
+<p> </p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Drugi biegun inwazji&#8230;</title>
+		<link>/2011/04/03/drugi-biegun-inwazji/</link>
+		<pubDate>Sun, 03 Apr 2011 22:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Polacy w UK]]></category>
+		<category><![CDATA[polscy studenci]]></category>
+		<category><![CDATA[polskie stowarzyszenia studenckie w UK]]></category>
+		<category><![CDATA[reforma szkolnictwa wyższego]]></category>
+		<category><![CDATA[studia zagraniczne]]></category>
+		<category><![CDATA[Wielka Brytania]]></category>
+
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=334</guid>
+		<description><![CDATA[Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.]]></description>
+				<content:encoded><![CDATA[<p>Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.</p>
+<p><a href="http://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg"><img class="alignnone size-large wp-image-114" alt="Drugi biegun inwazji" src="http://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg?w=500" width="500" height="620" /></a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

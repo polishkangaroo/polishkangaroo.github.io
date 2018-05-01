@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rice Unviersity &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/rice-unviersity/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Tue, 01 May 2018 12:05:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Wywiad dla portalu Edukator.pl</title>
+		<link>/2014/02/13/wywiad-dla-portalu-edukator-pl/</link>
+		<pubDate>Thu, 13 Feb 2014 00:10:40 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[badania]]></category>
+		<category><![CDATA[Cambridge University]]></category>
+		<category><![CDATA[Houston]]></category>
+		<category><![CDATA[Jacobs University]]></category>
+		<category><![CDATA[nauka]]></category>
+		<category><![CDATA[Niemcy]]></category>
+		<category><![CDATA[Oxford University]]></category>
+		<category><![CDATA[Polacy w UK]]></category>
+		<category><![CDATA[polscy naukowcy]]></category>
+		<category><![CDATA[polscy studenci]]></category>
+		<category><![CDATA[Polska nauka]]></category>
+		<category><![CDATA[Rice Unviersity]]></category>
+		<category><![CDATA[studenci polscy]]></category>
+		<category><![CDATA[studia zagraniczne]]></category>
+		<category><![CDATA[UK]]></category>
+		<category><![CDATA[USA]]></category>
+		<category><![CDATA[Wielka Brytania]]></category>
+		<category><![CDATA[zoologia]]></category>
+		<category><![CDATA[zwierzęta]]></category>
+
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=476</guid>
+		<description><![CDATA[&#160; [youtube=http://www.youtube.com/watch?v=ecGffDnOsR4] Resztę wywiadów można obejrzeć na stronie Edukator.pl &#160;]]></description>
+				<content:encoded><![CDATA[<p><a href="http://jbagniewska.files.wordpress.com/2014/02/edukator.png"><img class="alignnone size-full wp-image-477" alt="edukator" src="http://jbagniewska.files.wordpress.com/2014/02/edukator.png" width="500" height="430" /></a></p>
+<p>&nbsp;</p>
+<p>[youtube=http://www.youtube.com/watch?v=ecGffDnOsR4]</p>
+<p><span style="line-height:1.7;">Resztę wywiadów można obejrzeć na stronie </span><a style="line-height:1.7;" href="http://media.edukator.pl/Polskie-Perspektywy,9854.html">Edukator.pl</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

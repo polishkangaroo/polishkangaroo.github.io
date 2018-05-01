@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Polki &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/polki/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Tue, 01 May 2018 12:05:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Córy Curie</title>
+		<link>/2015/03/12/cory-curie/</link>
+		<comments>/2015/03/12/cory-curie/#respond</comments>
+		<pubDate>Thu, 12 Mar 2015 23:29:31 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[O mojej pracy]]></category>
+		<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Kamila Stokawa-Sołtys]]></category>
+		<category><![CDATA[Kobiety w nauce]]></category>
+		<category><![CDATA[Marta Łuksza]]></category>
+		<category><![CDATA[Olga Malinkiewicz]]></category>
+		<category><![CDATA[Polacy za granicą]]></category>
+		<category><![CDATA[Polki]]></category>
+		<category><![CDATA[Polska nauka]]></category>
+		<category><![CDATA[Zwierciadło]]></category>
+
+		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=885</guid>
+		<description><![CDATA[Tekst Joanny Woźniczko-Czeczott z marcowego numeru Zwierciadła.]]></description>
+				<content:encoded><![CDATA[<p>Tekst Joanny Woźniczko-Czeczott z marcowego numeru <em><a href="www.zwierciadlo.pl">Zwierciadła</a>.</em></p>
+<p><a href="https://jbagniewska.files.wordpress.com/2015/03/1.jpg"><img class="aligncenter size-full wp-image-886" src="https://jbagniewska.files.wordpress.com/2015/03/1.jpg" alt="1" width="500" height="667" /></a></p>
+<p><span id="more-885"></span></p>
+<p><a href="https://jbagniewska.files.wordpress.com/2015/03/2.jpg"><img class="aligncenter size-full wp-image-887" src="https://jbagniewska.files.wordpress.com/2015/03/2.jpg" alt="2" width="500" height="667" /></a> <a href="https://jbagniewska.files.wordpress.com/2015/03/3.jpg"><img class="aligncenter size-full wp-image-888" src="https://jbagniewska.files.wordpress.com/2015/03/3.jpg" alt="3" width="500" height="667" /></a> <a href="https://jbagniewska.files.wordpress.com/2015/03/4.jpg"><img class="aligncenter size-full wp-image-889" src="https://jbagniewska.files.wordpress.com/2015/03/4.jpg" alt="4" width="500" height="667" /></a> <a href="https://jbagniewska.files.wordpress.com/2015/03/5.jpg"><img class="aligncenter size-full wp-image-890" src="https://jbagniewska.files.wordpress.com/2015/03/5.jpg" alt="5" width="500" height="667" /></a> <a href="https://jbagniewska.files.wordpress.com/2015/03/6.jpg"><img class="aligncenter size-full wp-image-891" src="https://jbagniewska.files.wordpress.com/2015/03/6.jpg" alt="6" width="500" height="667" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/03/12/cory-curie/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

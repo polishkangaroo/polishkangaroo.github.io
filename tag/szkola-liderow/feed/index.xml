@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Szkoła Liderów &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/szkola-liderow/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Tue, 01 May 2018 12:05:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Rozmowa z dr Joanną Bagniewską</title>
+		<link>/2015/01/18/rozmowa-z-dr-joanna-bagniewska/</link>
+		<pubDate>Sun, 18 Jan 2015 13:55:26 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[O mojej pracy]]></category>
+		<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Polacy w UK]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[FameLab]]></category>
+		<category><![CDATA[gatunki inwazyjne]]></category>
+		<category><![CDATA[jądra]]></category>
+		<category><![CDATA[Kongres obywatelski]]></category>
+		<category><![CDATA[melatonina]]></category>
+		<category><![CDATA[pszczoły]]></category>
+		<category><![CDATA[Szkoła Liderów]]></category>
+		<category><![CDATA[zoologia]]></category>
+
+		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=862</guid>
+		<description><![CDATA[Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica.]]></description>
+				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2015/01/pradio.png"><img class=" size-full wp-image-863 alignnone" src="https://jbagniewska.files.wordpress.com/2015/01/pradio.png" alt="PRadio" width="500" height="569" /></a></p>
+<p><a href="http://www.radiozagranica.pl/8/251/Artykul/193837,Rozmowa-z-Dr-Joanna-Bagniewska">Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

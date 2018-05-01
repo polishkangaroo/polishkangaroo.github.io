@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>biomedycyna &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/biomedycyna/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Tue, 01 May 2018 12:05:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Płeć ma kapitalne znaczenie</title>
+		<link>/2017/03/19/plec-ma-kapitalne-znaczenie/</link>
+		<pubDate>Sun, 19 Mar 2017 20:35:34 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[Moje teksty]]></category>
+		<category><![CDATA[biomedycyna]]></category>
+		<category><![CDATA[gender]]></category>
+		<category><![CDATA[gendered innovations]]></category>
+		<category><![CDATA[medycyna]]></category>
+		<category><![CDATA[płeć]]></category>
+		<category><![CDATA[Tygodnik Powszechny]]></category>
+
+		<guid isPermaLink="false">http://joannabagniewska.com/?p=1731</guid>
+		<description><![CDATA[Mój artykuł w Tygodniku Powszechnym Samce i samice różnią się na tyle poważnie, że rzutuje to na wyniki badań biomedycznych. Naukowcy właśnie zaczęli to sobie uświadamiać. Fot. Henrik Sorensen / Getty Images Jestem zoologiem, specjalizuję się w ekologii behawioralnej. Ja i moi koledzy po fachu uwielbiamy grzebać w różnicach między samcami...]]></description>
+				<content:encoded><![CDATA[<div class="views-field views-field-field-summary">
+<div><em>Mój artykuł w <a href="https://www.tygodnikpowszechny.pl/plec-ma-kapitalne-znaczenie-147233">Tygodniku Powszechnym</a></em></div>
+</div>
+<div></div>
+<div class="views-field views-field-field-summary">
+<div class="field-content">Samce i samice różnią się na tyle poważnie, że rzutuje to na wyniki badań biomedycznych. Naukowcy właśnie zaczęli to sobie uświadamiać.</div>
+</div>
+<div class="views-field views-field-field-zdjecia">
+<div class="field-content"><img src="https://www.tygodnikpowszechny.pl/files/styles/660x420/public/import/1713-hist-bagniewska.jpg?itok=3OcGMiGm" width="660" height="420" /></div>
+</div>
+<div class="views-field views-field-field-zdjecia-2">
+<div class="field-content">Fot. Henrik Sorensen / Getty Images</div>
+</div>
+<div class="field-content initial_char initial_J"></div>
+<div></div>
+<div class="views-field views-field-body">
+<div class="field-content">
+<p>Jestem zoologiem, specjalizuję się w ekologii behawioralnej. Ja i moi koledzy po fachu uwielbiamy grzebać w różnicach między samcami i samicami danego gatunku. Zwierzęta różnej płci często zachowują się odmiennie, zajmują różne terytoria, jedzą inne pożywienie. Dlaczego więc mielibyśmy zakładać, że są identyczne pod względem ekologicznym i ewolucyjnym?</p>
+<p>Dziwi zatem fakt, że uwzględnianie różnic płciowych nie jest równie powszechne w innych dziedzinach biologii, zwłaszcza w badaniach z zakresu biomedycyny. Do niedawna w projektach biomedycznych z udziałem zwierząt samice traktowano po prostu jak samce ze zmianami hormonalnymi. Przez tę hormonalną „niedogodność” do eksperymentów wykorzystywano niemal wyłącznie samce. Takie uproszczenie często okazuje się niewystarczające lub wręcz błędne i w rezultacie niesie za sobą poważne konsekwencje. [Ciąg dalszy artykułu dostępny w <a href="https://www.tygodnikpowszechny.pl/plec-ma-kapitalne-znaczenie-147233">Tygodniku Powszechnym</a>]</p>
+</div>
+</div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

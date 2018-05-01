@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>krzyk &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/krzyk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Tue, 01 May 2018 12:05:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>Focus: Jak bronią się rośliny?</title>
+		<link>/2014/03/03/focus-jak-bronia-sie-rosliny/</link>
+		<pubDate>Mon, 03 Mar 2014 23:07:13 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[jasmonidy]]></category>
+		<category><![CDATA[komunikacja roślin]]></category>
+		<category><![CDATA[krzyk]]></category>
+		<category><![CDATA[rośliny]]></category>
+
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=573</guid>
+		<description><![CDATA[Czy wiesz, że niektóre rośliny potrafią krzyczeć, gdy ktoś je ugryzie? Posłuchaj wystąpienia dr Joanny Bagniewskiej, która wzięła udział w półfinale konkursu FameLab i dowiedz się więcej! Dr Joanna Bagniewska jest zoolożką. Jej doktorat na Uniwersytecie Oksfordzkim dotyczył biotelemetrii, czyli dyskretnego podglądactwa prywatnego życia dzikich zwierząt. Dotychczas prowadziła badania na kretoszczurach...]]></description>
+				<content:encoded><![CDATA[<p><a href="http://jbagniewska.files.wordpress.com/2014/03/focus.png"><img class="alignnone size-full wp-image-574" alt="focus" src="http://jbagniewska.files.wordpress.com/2014/03/focus.png" width="500" height="391" /></a></p>
+<p>Czy wiesz, że niektóre rośliny potrafią krzyczeć, gdy ktoś je ugryzie? Posłuchaj wystąpienia dr Joanny Bagniewskiej, która wzięła udział w półfinale konkursu FameLab i dowiedz się więcej!</p>
+<div></div>
+<p>Dr Joanna Bagniewska jest zoolożką. Jej doktorat na Uniwersytecie Oksfordzkim dotyczył biotelemetrii, czyli dyskretnego podglądactwa prywatnego życia dzikich zwierząt. Dotychczas prowadziła badania na kretoszczurach (Teksas), wombatach (Australia), szakalach i lisach (RPA) oraz norkach (UK). Jej ostatni projekt dotyczył wykrywania narkotyków przez pszczoły.</p>
+<p>Obecnie dr Bagniewska prowadzi zajęcia z ekologii i bioróżnorodności na Nottingham Trent University. Odwiedziła 40 krajów, mieszkała i uczyła się w siedmiu. Interesuje się polityką migracyjną, działa w organizacjach polonijnych. Jest założycielką Federacji Polskich Stowarzyszeń Studenckich w UK. Pierwszym osiągnięciem krasomówczym była nagroda w szkolnym konkursie w Szanghaju &#8211; mowę wygłosiła po chińsku.</p>
+<p>Dr Joanna Bagniewska jest także finalistką trzeciej polskiej edycji międzynarodowego konkursu FameLab. Zobacz jej wystąpienie z półfinału konkursu, który odbył się 1 marca 2014 r. w Centrum Nauki Kopernik!</p>
+<p><a href="http://www.focus.pl/przyroda/jak-bronia-sie-rosliny-10947">Focus.pl &#8211; Redakcja</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

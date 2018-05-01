@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bird &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/bird/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Tue, 01 May 2018 12:05:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>What does the bird say?</title>
+		<link>/2014/06/09/what-does-the-bird-say/</link>
+		<pubDate>Mon, 09 Jun 2014 17:02:34 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[In English]]></category>
+		<category><![CDATA[My writing]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Attenborough]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[bird]]></category>
+		<category><![CDATA[camera shutter]]></category>
+		<category><![CDATA[funny]]></category>
+		<category><![CDATA[lyrebird]]></category>
+		<category><![CDATA[sound mimicry]]></category>
+
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=690</guid>
+		<description><![CDATA[A fascinating example of mimicry by the superb lyrebird, Menura novaehollandiae. I have taken this &#8211; somewhat shaky &#8211; footage in Healesville Sanctuary, Victoria, Australia, in December 2013. It&#8217;s the first time I have seen a lyrebird display outside of David Attenborough&#8217;s documentaries! Chain saw, shooting game, camera shutter, kookaburra, car alarm...]]></description>
+				<content:encoded><![CDATA[<p style="text-align:justify;">A fascinating example of mimicry by the superb lyrebird, <em>Menura novaehollandiae.</em> I have taken this &#8211; somewhat shaky &#8211; footage in Healesville Sanctuary, Victoria, Australia, in December 2013. It&#8217;s the first time I have seen a lyrebird display outside of David Attenborough&#8217;s documentaries!</p>
+<h6 style="text-align:justify;">Chain saw, shooting game, camera shutter, kookaburra, car alarm &#8211; what else can you hear?</h6>
+<p><iframe width="790" height="444" src="https://www.youtube.com/embed/oMP0ZijxQ0g?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<h6 style="text-align:justify;">Lyrebird says: &#8220;No sunblock!&#8221; (an Aussie, after all!)</h6>
+<p><iframe width="790" height="444" src="https://www.youtube.com/embed/eP_Gsceq6gQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
