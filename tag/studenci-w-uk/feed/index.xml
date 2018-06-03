@@ -12,11 +12,19 @@
 	<atom:link href="/tag/studenci-w-uk/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>studenci w UK &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Film promocyjny The Kings Foundation</title>
 		<link>/2013/07/22/film-promocyjny-the-kings-foundation/</link>
@@ -29,7 +37,6 @@
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[studenci w UK]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
-		<category><![CDATA[The Kings Foundation]]></category>
 		<category><![CDATA[uniwersytety]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=375</guid>

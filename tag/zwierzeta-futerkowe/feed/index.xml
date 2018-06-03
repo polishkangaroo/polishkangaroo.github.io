@@ -12,29 +12,38 @@
 	<atom:link href="/tag/zwierzeta-futerkowe/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>zwierzęta futerkowe &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Zoolog: zamknięciu ferm norek powinna towarzyszyć akcja uświadamiająca</title>
-		<link>/2017/12/16/zoolog-zamknieciu-ferm-norek-powinna-towarzyszyc-akcja-uswiadamiajaca/</link>
-		<pubDate>Sat, 16 Dec 2017 21:26:47 +0000</pubDate>
+		<link>/2017/12/17/zoolog-zamknieciu-ferm-norek-powinna-towarzyszyc-akcja-uswiadamiajaca/</link>
+		<pubDate>Sun, 17 Dec 2017 21:26:47 +0000</pubDate>
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[fermy futerkowe]]></category>
-		<category><![CDATA[nauka w Polsce]]></category>
+		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[norka amerykańska]]></category>
-		<category><![CDATA[pap]]></category>
+		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[zwierzęta futerkowe]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1764</guid>
-		<description><![CDATA[Wywiad dla PAP &#8211; Nauka w Polsce. Zamknięcie ferm, w których hodowane są norki, miałoby sens, gdyby jednocześnie przeprowadzono akcje uświadamiające skierowane do konsumentów. Jeśli popyt na futra utrzyma się, problem przeniesie się do innych krajów &#8211; powiedziała PAP zoolog dr Joanna Bagniewska. Posłowie PiS złożyli w Sejmie projekt nowelizacji...]]></description>
+		<description><![CDATA[Wywiad dla PAP &#8211; Nauka w Polsce. &#124; Zamknięcie ferm, w których hodowane są norki, miałoby sens, gdyby jednocześnie przeprowadzono akcje uświadamiające skierowane do konsumentów. Jeśli popyt na futra utrzyma się, problem przeniesie się do innych krajów &#8211; powiedziała PAP zoolog dr Joanna Bagniewska. Posłowie PiS złożyli w Sejmie projekt...]]></description>
 				<content:encoded><![CDATA[<div class="titleAuthorWrapper">
-<p class="title" style="text-align: justify;"><em>Wywiad dla <a href="http://naukawpolsce.pap.pl/aktualnosci/news%2C27281%2Czoolog-zamknieciu-ferm-norek-powinna-towarzyszyc-akcja-uswiadamiajaca.html">PAP &#8211; Nauka w Polsce</a>.</em></p>
+<p class="title" style="text-align: justify;"><em>Wywiad dla <a href="http://naukawpolsce.pap.pl/aktualnosci/news%2C27281%2Czoolog-zamknieciu-ferm-norek-powinna-towarzyszyc-akcja-uswiadamiajaca.html">PAP &#8211; Nauka w Polsce</a>. </em>|<em><br />
+</em></p>
 </div>
 <div class="field field--name-field-image field--type-image field--label-hidden imageWrapper article" style="text-align: justify;"></div>
 <div style="text-align: justify;"></div>

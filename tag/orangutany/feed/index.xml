@@ -12,11 +12,19 @@
 	<atom:link href="/tag/orangutany/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>orangutany &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>&#8220;Orangutany dorównują inteligencją dziesięciolatkom.&#8221; W Polsce też mamy wpływ na to, czy przeżyją</title>
 		<link>/2014/11/17/orangutany-dorownuja-inteligencja-dziesieciolatkom-w-polsce-tez-mamy-wplyw-na-to-czy-przezyja/</link>
@@ -32,8 +40,6 @@
 		<category><![CDATA[ochrona gatunków]]></category>
 		<category><![CDATA[olej palmowy]]></category>
 		<category><![CDATA[orangutany]]></category>
-		<category><![CDATA[Pongo abelii]]></category>
-		<category><![CDATA[Pongo pygmaeus]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=828</guid>
 		<description><![CDATA[Mój artykuł w Gazecie Wyborczej. To samica Beki. Mieszka w Parku Narodowym Tanjung Puting na indonezyjskim Borneo. Szacuje się, że na wolności żyje 60 tys. orangutanów (IRWIN EDRIANSYAH/AP) Wiele orangutanów swoimi zdolnościami poznawczymi dorównuje ludzkim dziesięciolatkom. rozumieją ludzką mowę, planują swoje dni i znają pojęcie przyszłości. przeżywają żal po stracie...]]></description>

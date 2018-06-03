@@ -12,11 +12,19 @@
 	<atom:link href="/tag/bats/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>bats &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>White nose syndrome is killing millions of bats via a contagious fungus – here’s how to stop it</title>
 		<link>/2018/03/21/white-nose-syndrome-is-killing-millions-of-bats-via-a-contagious-fungus-heres-how-to-stop-it/</link>
@@ -27,16 +35,17 @@
 		<category><![CDATA[bats]]></category>
 		<category><![CDATA[conservation]]></category>
 		<category><![CDATA[fungal diseases]]></category>
+		<category><![CDATA[The Conversation]]></category>
 		<category><![CDATA[wildlife]]></category>
 		<category><![CDATA[wildlife diseases]]></category>
 		<category><![CDATA[WNS]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1781</guid>
-		<description><![CDATA[My article for The Conversation A dangerous fungus has been sweeping across North America with devastating consequences. In the past decade, between 5m and 7m bats in the US and Canada have been wiped out as a result of the fungal disease known as white nose syndrome, which alters their...]]></description>
+		<description><![CDATA[My article for The Conversation &#124; A dangerous fungus has been sweeping across North America with devastating consequences. In the past decade, between 5m and 7m bats in the US and Canada have been wiped out as a result of the fungal disease known as white nose syndrome, which alters their...]]></description>
 				<content:encoded><![CDATA[<div class="wrapper">
 <div class="grid-twelve large-grid-eleven">
 <div class="top">
-<aside class="grid-two content-share"><em>My article for <a href="https://theconversation.com/white-nose-syndrome-is-killing-millions-of-bats-via-a-contagious-fungus-heres-how-to-stop-it-91698">The Conversation</a></em></aside>
+<aside class="grid-two content-share"><em>My article for <a href="https://theconversation.com/white-nose-syndrome-is-killing-millions-of-bats-via-a-contagious-fungus-heres-how-to-stop-it-91698">The Conversation </a></em><a href="https://theconversation.com/white-nose-syndrome-is-killing-millions-of-bats-via-a-contagious-fungus-heres-how-to-stop-it-91698">|</a></aside>
 <aside></aside>
 <aside></aside>
 <aside class="grid-two content-share"><strong>A dangerous fungus has been sweeping across North America with devastating consequences. In the past decade, between 5m and 7m bats in the US and Canada have been wiped out as a result of the fungal disease known as white nose syndrome, which alters their behaviour in potentially deadly ways. But the <a href="https://www.nature.com/articles/s41467-017-02441-z">latest research</a> shows there might be hope for researchers trying to battle the disease, following the discovery that UV light appears to destroy the fungus’s DNA.</strong></aside>

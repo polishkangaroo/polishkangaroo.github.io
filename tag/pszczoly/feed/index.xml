@@ -12,11 +12,19 @@
 	<atom:link href="/tag/pszczoly/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>pszczoły &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Pytanie na śniadanie &#8211; wywiad</title>
 		<link>/2016/08/27/pytanie-na-sniadanie-wywiad/</link>
@@ -29,12 +37,10 @@
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Pytanie na Śniadanie]]></category>
 		<category><![CDATA[TVP]]></category>
-		<category><![CDATA[TVP1]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1568</guid>
-		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie:]]></description>
-				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>:</p>
-<p><a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe"><img class="alignnone size-full wp-image-1572" src="https://jbagniewska.files.wordpress.com/2016/08/pns.png" alt="PnS" width="1037" height="609" /></a></p>
+		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie.]]></description>
+				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>.</p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -157,7 +163,7 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[FameLab]]></category>
-		<category><![CDATA[gatunki inwazyjne]]></category>
+		<category><![CDATA[gatunek inwazyjny]]></category>
 		<category><![CDATA[jądra]]></category>
 		<category><![CDATA[Kongres obywatelski]]></category>
 		<category><![CDATA[melatonina]]></category>
@@ -254,8 +260,7 @@
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[pszczoły]]></category>
-		<category><![CDATA[taniec]]></category>
-		<category><![CDATA[zoologia]]></category>
+		<category><![CDATA[Tydzień Polski]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=730</guid>
 		<description><![CDATA[&#160; &#160; 26 czerwca 2014, 17:43 &#124; Autor: Magdalena Grzymkowska fot. Marten Collins Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca?...]]></description>
@@ -266,7 +271,8 @@
 <div class="left"><span class="date"><span class="time">26 czerwca 2014, 17:43 | Autor: Magdalena Grzymkowska</span></span></div>
 </div>
 <div class="content">
-<div class="img alignleft  wp-image-30329"><a href="http://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
+<div class="img alignleft wp-image-30329">
+<p><a href="http://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
 <div>fot. Marten Collins</div>
 </div>
 <p>Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca? Joanna Bagniewska jest nie tylko piękną kobietą i niezwykle interesującą osobą, lecz też zdolnym, ambitnym polskim naukowcem robiącym karierę w Wielkiej Brytanii.</p>
@@ -277,14 +283,16 @@
 <div class="content">
 <p><b>Jądra ciemności</b></p>
 <p>– Czy wy też potrzebujecie więcej snu? Chyba wszyscy mamy go za mało… Ale, drodzy panowie, czy tak chętnie kładlibyście się spać, gdybym Wam powiedziała, że od snu kurczą wam się jądra? Zanim wpadniecie w panikę posłuchajcie mnie przez trzy minuty – tak Joanna rozpoczęła swoją prezentację podczas polskiej edycji konkursu dla badaczy FameLab, mającego na celu popularyzowanie nauki. Jego uczestnicy mają za zadanie w przystępny i atrakcyjny sposób przedstawić zagadnienie naukowe. Tak, aby stało się ono zrozumiałe również dla laików. Mają na to właśnie 3 minuty.</p>
-<div class="img  wp-image-30332 alignright"><img src="http://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot.  Wojciech Surdziel" width="360" height="240" /></p>
+<div class="img wp-image-30332 alignright">
+<p><img src="http://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel" width="360" height="240" /></p>
 <div>Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel</div>
 </div>
 <p>Dr Bagniewska w swoim wystąpieniu zatytułowanym „Jądra ciemności” wytłumaczyła zgromadzonej w Centrum Nauki Kopernik w Warszawie publiczności, że należy być bardzo ostrożnym przy interpretowaniu wyników badań prowadzonych na zwierzętach, ponieważ nie zawsze mają one przełożenie na ludzi. – Jeśli karmimy chomiki coraz większą dawką melatoniny, będącym u zwierząt hormonem snu, jest to dla nich sygnał, że noce stają się coraz dłuższe i nadchodzi zima. Zimą chomiki zapadają w torpor, czyli stan odrętwienia. Spowalnia się metabolizm, dookoła jest zimno, jedzenia jest mało i trzeb „odciąć prąd” organom, które nie są niezbędne, czyli jądrom. Ale czy to przekłada się na ludzi? Nie! My nie hibernujemy zimą, męskie jądra są takiej samej wielkości przez cały rok – konkludowała badaczka. Tą prezentacją ujęła jury, które przyznało jej główną nagrodę – 30 tysięcy złotych na cele naukowe i 5 tysięcy złotych na cele prywatne.</p>
 <p>– Radość była olbrzymia. Gdy stałam na scenie z tym wielkim czekiem, wystrzeliła armatka z confetti, z głośników leciało „We are the champions”, to była jedna z najlepszych chwil mojego życia. Mój narzeczony powiedział, że miałam wtedy taką samą minę, gdy mi się oświadczył – wspomina laureatka.</p>
 <p><b>Pracowita jak pszczółki</b></p>
 <p>Wygrana w polskiej edycji zapewniła jej też możliwość wystąpienia na FameLab International w Cheltenham w Anglii. Tam dostała się finału, gdzie również została wyróżniona nagrodą laureatów, tym razem dzięki prezentacji swoich badań na temat wykorzystania pszczół do… wykrywania narkotyków i materiałów wybuchowych.</p>
-<div class="img alignleft  wp-image-30331"><a href="http://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
+<div class="img alignleft wp-image-30331">
+<p><a href="http://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
 <div>Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>– Pszczoły lubią cukier, a gdy wyczują go w powietrzu, wysuwają język. Ach, pewnie większość z Was nie wiedziała, że pszczoły mają język! Otóż, mają – tłumaczyła Joanna. Przeszkolenie owadów, aby nauczyły się rozpoznawać również inne zapachy, jest tańsze i trwa krócej niż w przypadku psa. Fotokomórki zainstalowane w małym, przenośnym ulu, rejestrują wysunięcie się języka pszczoły w momencie, gdy ta wyczuje niebezpieczną substancję, a na wyświetlaczu pojawia się wynik takiego testu i… voilà! Tak powstaje naturalny, tani w utrzymaniu i bardzo dokładny detektor kokainy lub trotylu.</p>
@@ -293,7 +301,8 @@
 <p>Co prawda przed finałem konkursu uczestnicy wzięli udział w warsztatach z autoprezentacji, jednak dla Joanny najlepszym i najbardziej surowym trenerem była jej mama. – Moja mama potrafi być dla mnie bardzo krytyczna, ale wiem, że robi to dla mojego dobra. Dlatego zawsze, jak mam jakiś problem, zwracam się do niej po pomoc – mówi.</p>
 <p>Dzięki swoim rodzicom już za młodych lat miała okazję mieszkać w innych krajach. Kiedy miała 6 lat wyjechała z nimi do Włoch, mieszkała również w Tajlandii i w Chinach. Potem wrócili do Polski, gdzie Joanna skończyła w liceum, jednak miłość do podróżowania została. Mając doświadczenie ze szkołami międzynarodowymi postanowiła na studia iść na uczelnię zagraniczną. Wybrała Jacobs University Bremen w Niemczech, gdzie zrobiła licencjat. – Robiłam praktyki w Australii, byłam na wymianie studenckiej w Teksasie, a następnie wyjechałam do Wielkiej Brytanii, gdzie zrobiłam magisterkę i doktorat, przy czym część swojej pracy pisałam w RPA, gdzie badałam populacje psowatych, czyli szakali i listów. Obecnie pracuję na Nottingham Trent University, uczę ekologii, ochrony bioróżnorodności, zachowania zwierząt i rozrodu zwierząt – wymienia.</p>
 <p>&nbsp;</p>
-<div class="img wp-image-30333 alignright"><b><b><a href="http://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
+<div class="img wp-image-30333 alignright">
+<p><b><b><a href="http://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
 <div>To również pani doktor / fot. archium Joanny Bagniewskiej</div>
 </div>
 <p><b>Wykład rano, turniej wieczorem</b></p>
@@ -304,7 +313,8 @@
 <p><b>Wiara w siebie i w ludzi</b></p>
 <p>Joanna Bagniewska udziela się również społecznie. Swoimi doświadczeniami dzieli się z innymi młodymi Polakami, pragnącymi studiować w Wielkiej Brytanii w ramach The Kings Foundation. Ta organizacja ma na celu zachęcać, pomagać i motywować, ale przyszły student też musi się wykazać inicjatywą.</p>
 <p>– Nie można siedzieć jak tabaka w rogu i czekać, aż coś spadnie z nieba. Jeżeli ktoś ma takie nastawienie, to nie dostanie się na Oxford, bo to oznacza, że nie jest przedsiębiorczy i nie poradzi sobie na uczelni. Dlatego nie wystarczy napisać do nas: „jak dostać się na Oxford?” Trzeba zadać konkretne pytanie, dotyczące określonego kierunku studiów, wtedy możemy udzielić kompetentnej rady – mówi.</p>
-<div class="img alignleft"><a href="http://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
+<div class="img alignleft">
+<p><a href="http://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
 <div>Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>Patrząc na wspaniałą karierę, ogromny entuzjazm i zaangażowanie Joanny Bagniewskiej, aż się ciśnie na usta pytanie, jak ona do tego wszystkiego doszła i czy istnieje uniwersalna recepta na osiągnięcie sukcesu za granicą.</p>

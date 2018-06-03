@@ -12,11 +12,19 @@
 	<atom:link href="/tag/cecil-the-lion/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>Cecil the lion &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Podcast at the Sofia Science Festival: Would you ban trophy hunting in Africa?</title>
 		<link>/2017/05/25/podcast-at-the-sofia-science-festival-would-you-ban-trophy-hunting-in-africa/</link>
@@ -29,14 +37,14 @@
 		<category><![CDATA[Cecil the lion]]></category>
 		<category><![CDATA[conservation]]></category>
 		<category><![CDATA[hunting]]></category>
-		<category><![CDATA[trophy hunting]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Sofia Science Festival]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1715</guid>
 		<description><![CDATA[Oxford graduate zoologist Dr Joanna Bagniewska, a teaching fellow at the School of Biological Sciences at the University of Reading, took an enraptured audience at the 2017 Sofia Science Festival through the debates on trophy hunting and conservation. Listen to the podcast with Bulgaria Now’s Lance Nelson and The Sofia Globe’s...]]></description>
-				<content:encoded><![CDATA[<p style="text-align:justify;">Oxford graduate zoologist Dr Joanna Bagniewska, a teaching fellow at the School of Biological Sciences at the University of Reading, took an enraptured audience at the 2017 Sofia Science Festival through the debates on trophy hunting and conservation.</p>
-<p style="text-align:justify;">Listen to the podcast with Bulgaria Now’s Lance Nelson and The Sofia Globe’s Clive Leviev-Sawyer <a href="http://sofiaglobe.com/2017/05/14/podcast-at-the-sofia-science-festival-would-you-ban-trophy-hunting-in-africa/">here</a>.</p>
-<p style="text-align:justify;"><img style="max-width:100%;" src="http://sofiaglobe.com/wp-content/uploads/2017/05/photo_2017-05-14_12-04-17.jpg" /></p>
-<p style="text-align:justify;">
+				<content:encoded><![CDATA[<p style="text-align: justify;">Oxford graduate zoologist Dr Joanna Bagniewska, a teaching fellow at the School of Biological Sciences at the University of Reading, took an enraptured audience at the 2017 Sofia Science Festival through the debates on trophy hunting and conservation.</p>
+<p style="text-align: justify;">Listen to the podcast with Bulgaria Now’s Lance Nelson and The Sofia Globe’s Clive Leviev-Sawyer <a href="http://sofiaglobe.com/2017/05/14/podcast-at-the-sofia-science-festival-would-you-ban-trophy-hunting-in-africa/">here</a>.</p>
+<p style="text-align: justify;">
 <p>&nbsp;</p>
 ]]></content:encoded>
 			</item>

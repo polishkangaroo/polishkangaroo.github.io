@@ -12,11 +12,19 @@
 	<atom:link href="/tag/tvp/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>TVP &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Pytanie na śniadanie &#8211; wywiad</title>
 		<link>/2016/08/27/pytanie-na-sniadanie-wywiad/</link>
@@ -29,12 +37,10 @@
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Pytanie na Śniadanie]]></category>
 		<category><![CDATA[TVP]]></category>
-		<category><![CDATA[TVP1]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1568</guid>
-		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie:]]></description>
-				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>:</p>
-<p><a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe"><img class="alignnone size-full wp-image-1572" src="https://jbagniewska.files.wordpress.com/2016/08/pns.png" alt="PnS" width="1037" height="609" /></a></p>
+		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie.]]></description>
+				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>.</p>
 ]]></content:encoded>
 			</item>
 	</channel>

@@ -12,11 +12,19 @@
 	<atom:link href="/tag/american-mink/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>American mink &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Learning from animals: Jacobs alumna talks at TEDxWarsaw</title>
 		<link>/2013/04/04/learning-from-animals-jacobs-alumna-talks-at-tedxwarsaw/</link>
@@ -28,10 +36,8 @@
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[American mink]]></category>
 		<category><![CDATA[animal behaviour]]></category>
-		<category><![CDATA[biological invasives]]></category>
 		<category><![CDATA[invasive species]]></category>
 		<category><![CDATA[Jacobs University]]></category>
-		<category><![CDATA[semi-aquatic animals]]></category>
 		<category><![CDATA[TEDx]]></category>
 		<category><![CDATA[TEDxWarsaw]]></category>
 
@@ -94,7 +100,6 @@ For more photos of Joanna talking at the TEDxWarsaw event, please see her websit
 		<category><![CDATA[diving behaviour]]></category>
 		<category><![CDATA[TDR]]></category>
 		<category><![CDATA[WildCRU]]></category>
-		<category><![CDATA[Wildwood]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=318</guid>
 		<description><![CDATA[Article from Cryptozoology Online   Wildwood is hosting researchers from Oxford to test equipment to learn more about mink in the wild. The team from Oxford University WildCRU (Wildlife Conservation Research Unit), have put a collar on the mink which will record depth and temperature. This will allow future researchers...]]></description>

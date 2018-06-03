@@ -12,11 +12,19 @@
 	<atom:link href="/tag/kretoszczury/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>kretoszczury &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Popołudnie RDC: Broad Peak, wirus MERS, recykling komórek i chomiki</title>
 		<link>/2014/05/14/popoludnie-rdc-broad-peak-wirus-mers-recykling-komorek-i-chomiki/</link>
@@ -29,11 +37,13 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[chomiki]]></category>
-		<category><![CDATA[konferencja]]></category>
 		<category><![CDATA[kretoszczury]]></category>
 		<category><![CDATA[Oksford]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[Radio Dla Ciebie]]></category>
 		<category><![CDATA[Science. Polish Perspectives]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
+		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=673</guid>
 		<description><![CDATA[Audycja Radia Dla Ciebie, prowadzona przez Tomasza Kwaśniewskiego. Link tutaj. &#160;]]></description>

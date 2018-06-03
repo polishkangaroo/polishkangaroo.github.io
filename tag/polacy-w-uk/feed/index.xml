@@ -12,11 +12,19 @@
 	<atom:link href="/tag/polacy-w-uk/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>Polacy w UK &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Pytanie na śniadanie &#8211; wywiad</title>
 		<link>/2016/08/27/pytanie-na-sniadanie-wywiad/</link>
@@ -29,12 +37,10 @@
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Pytanie na Śniadanie]]></category>
 		<category><![CDATA[TVP]]></category>
-		<category><![CDATA[TVP1]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1568</guid>
-		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie:]]></description>
-				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>:</p>
-<p><a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe"><img class="alignnone size-full wp-image-1572" src="https://jbagniewska.files.wordpress.com/2016/08/pns.png" alt="PnS" width="1037" height="609" /></a></p>
+		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie.]]></description>
+				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>.</p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -44,6 +50,7 @@
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[badania]]></category>
+		<category><![CDATA[Brexit]]></category>
 		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
@@ -52,7 +59,7 @@
 		<description><![CDATA[Piotr Cieśliński,Tomasz Ulanowski &#8211; Gazeta Wyborcza Stephen Hawking podczas gali BAFTA Film Awards w Londynie (STEPHEN LOCK / EAST NEWS) Co oznacza Brexit dla brytyjskiej nauki? Znikną miliardy funtów na badania, wyschnie dopływ nowych talentów, osłabnie wymiana naukowa. Kiedy w marcu tygodnik &#8220;Nature&#8221; przeprowadził sondaż wśród przeszło 2 tys. brytyjskich...]]></description>
 				<content:encoded><![CDATA[<div id="top_wrap">
 <div id="holder_101" class="holder_top">
-<p style="text-align:justify;"><em>Piotr Cieśliński,Tomasz Ulanowski &#8211;<a href="http://wyborcza.pl/1,75400,20355639,brytyjscy-uczeni-sa-zrozpaczeni-brexitem.html"> Gazeta Wyborcza</a></em></p>
+<p style="text-align: justify;"><em>Piotr Cieśliński,Tomasz Ulanowski &#8211;<a href="http://wyborcza.pl/1,75400,20355639,brytyjscy-uczeni-sa-zrozpaczeni-brexitem.html"> Gazeta Wyborcza</a></em></p>
 </div>
 </div>
 <div id="columns_wrap">
@@ -64,10 +71,10 @@
 <p><img title="Stephen Hawking podczas gali BAFTA Film Awards w Londynie " src="http://bi.gazeta.pl/im/cf/93/10/z17380815Q,Stephen-Hawking-podczas-gali-BAFTA-Film-Awards-w-L.jpg" alt="Stephen Hawking podczas gali BAFTA Film Awards w Londynie " border="0" /></p>
 <p class="desc">Stephen Hawking podczas gali BAFTA Film Awards w Londynie (STEPHEN LOCK / EAST NEWS)</p>
 </div>
-<p id="gazeta_article_lead" style="text-align:justify;">Co oznacza Brexit dla brytyjskiej nauki? Znikną miliardy funtów na badania, wyschnie dopływ nowych talentów, osłabnie wymiana naukowa.</p>
+<p id="gazeta_article_lead" style="text-align: justify;">Co oznacza Brexit dla brytyjskiej nauki? Znikną miliardy funtów na badania, wyschnie dopływ nowych talentów, osłabnie wymiana naukowa.</p>
 <div id="article">
 <div id="article_body">
-<div id="artykul" style="text-align:justify;">
+<div id="artykul" style="text-align: justify;">
 <p>Kiedy w marcu tygodnik &#8220;Nature&#8221; przeprowadził sondaż wśród przeszło 2 tys. brytyjskich naukowców, aż 83 proc. z nich było przeciw wyjściu Wielkiej Brytanii z UE. Wyniki czerwcowego referendum ich przygnębiły.</p>
 <p>&#8211; To katastrofa dla brytyjskiej nauki &#8211; komentuje Stephen Hawking.</p>
 <p>&#8211; Moi znajomi są załamani &#8211; mówi dr Joanna Bagniewska, wykładowczyni Uniwersytetu w Reading.</p>
@@ -105,35 +112,36 @@
 		<category><![CDATA[Brexit]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
+		<category><![CDATA[Tydzień Polski]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1491</guid>
 		<description><![CDATA[Wypowiedź dla Magdaleny Grzymkowskiej &#8211; Tydzień Polski   Dr Joanna Bagniewska, University of Reading Do nauki potrzeba dwóch rzeczy: po pierwsze współpracy, po drugie pieniędzy. Badania można prowadzić we własnym zakresie, ale na naukę wysokiej jakości potrzeba dość znacznych środków. Do tej pory Unia zapewniała zarówno warunki do współpracy międzynarodowej,...]]></description>
-				<content:encoded><![CDATA[<div style="text-align:justify;"></div>
-<div id="header" style="text-align:justify;"><em>Wypowiedź dla Magdaleny Grzymkowskiej &#8211; <a href="http://www.tydzien.co.uk/artykuly/2016/07/08/37654/">Tydzień Polski</a></em></div>
-<div style="text-align:justify;"><a href="http://www.tydzien.co.uk/"><img class="logo" src="http://www.tydzien.co.uk/_img/dp_logo.png" alt="Tydzień Polski" border="0" /></a></div>
+				<content:encoded><![CDATA[<div style="text-align: justify;"></div>
+<div id="header" style="text-align: justify;"><em>Wypowiedź dla Magdaleny Grzymkowskiej &#8211; <a href="http://www.tydzien.co.uk/artykuly/2016/07/08/37654/">Tydzień Polski</a></em></div>
+<div style="text-align: justify;"><a href="http://www.tydzien.co.uk/"><img class="logo" src="http://www.tydzien.co.uk/_img/dp_logo.png" alt="Tydzień Polski" border="0" /></a></div>
 <div id="middle">
 <div id="left">
 <div class="single">
-<div class="active" style="text-align:justify;"></div>
-<div class="date" style="text-align:justify;">
+<div class="active" style="text-align: justify;"></div>
+<div class="date" style="text-align: justify;">
 <div class="left"><span class="date"><span class="time"> </span></span></div>
 </div>
 <div class="content">
-<p style="text-align:justify;"><strong>Dr Joanna Bagniewska, University of Reading</strong></p>
-<p style="text-align:justify;">Do nauki potrzeba dwóch rzeczy: po pierwsze współpracy, po drugie pieniędzy. Badania można prowadzić we własnym zakresie, ale na naukę wysokiej jakości potrzeba dość znacznych środków. Do tej pory Unia zapewniała zarówno warunki do współpracy międzynarodowej, jak i środki. Z budżetu unijnego w Wielkiej Brytanii finansowanych jest 41% badań nad rakiem, 62% badań z zakresu nanotechnologii, ponad 50% z zakresu biologii ewolucyjnej, a 94% – teorii ekonomicznej. Zastanawiam się, jaki Wielka Brytania ma pomysł na zdobycie pieniędzy na wypełnienie tej luki – bo rzekome 350 milionów funtów oszczędności niestety nie jest z gumy. . W kraju, którym ministrem nauki jest człowiek, który o nauce ma naprawdę niewielkie pojęcie, wątpię, aby fundowanie badań było dużym priorytetem. Dlatego podejrzewam, że w najbliższych latach nauka będzie bardzo niedofinansowana i nie utrzyma się na obecnym, światowym poziomie. Mówi się, że Wielka Brytania wkłada dużo do budżetu Unii. To oczywiście prawda, ale jeżeli chodzi o badania naukowe, to na każdego wydanego funta Brytyjczycy otrzymują z powrotem prawie dwa, ze względu na to, że odnoszą duże sukcesy w zdobywaniu grantów unijnych.</p>
+<p style="text-align: justify;"><strong>Dr Joanna Bagniewska, University of Reading</strong></p>
+<p style="text-align: justify;">Do nauki potrzeba dwóch rzeczy: po pierwsze współpracy, po drugie pieniędzy. Badania można prowadzić we własnym zakresie, ale na naukę wysokiej jakości potrzeba dość znacznych środków. Do tej pory Unia zapewniała zarówno warunki do współpracy międzynarodowej, jak i środki. Z budżetu unijnego w Wielkiej Brytanii finansowanych jest 41% badań nad rakiem, 62% badań z zakresu nanotechnologii, ponad 50% z zakresu biologii ewolucyjnej, a 94% – teorii ekonomicznej. Zastanawiam się, jaki Wielka Brytania ma pomysł na zdobycie pieniędzy na wypełnienie tej luki – bo rzekome 350 milionów funtów oszczędności niestety nie jest z gumy. . W kraju, którym ministrem nauki jest człowiek, który o nauce ma naprawdę niewielkie pojęcie, wątpię, aby fundowanie badań było dużym priorytetem. Dlatego podejrzewam, że w najbliższych latach nauka będzie bardzo niedofinansowana i nie utrzyma się na obecnym, światowym poziomie. Mówi się, że Wielka Brytania wkłada dużo do budżetu Unii. To oczywiście prawda, ale jeżeli chodzi o badania naukowe, to na każdego wydanego funta Brytyjczycy otrzymują z powrotem prawie dwa, ze względu na to, że odnoszą duże sukcesy w zdobywaniu grantów unijnych.</p>
 </div>
 </div>
 </div>
 </div>
 <p><span id="more-1491"></span></p>
-<div class="img size-medium wp-image-37655 alignright" style="text-align:justify;">
+<div class="img size-medium wp-image-37655 alignright" style="text-align: justify;">
 <p><a href="http://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska.jpg" rel="attachment wp-att-37655"><img src="http://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska-190x300.jpg" alt="Dr Joanna Bagniewska" width="190" height="300" /></a></p>
 <div>Dr Joanna Bagniewska</div>
 </div>
 <p>Z drugiej strony mamy kwestie współpracy międzynarodowej. Staje się ona dużo łatwiejsza, jeżeli ma się jedną centralną organizację przyznającą granty. Szanse na zdobycie grantu to ok. 20%. Jeśli o dofinansowanie stara się wspólnie grupa brytyjska i francuska, to w tej chwili składają podanie razem. Gdyby ubiegały się o fundusze osobno, od własnych rządów, szanse na wspólny projekt by zmalały (prawdopodobieństwo zdobycia obu grantów to 0.2*0.2=0.04, czyli 4%). W tym momencie UE poświęca tylko 7% swojego budżetu na badania i rozwój na inicjatywy poza granicami Unii. Wątpię, aby zrobiła wyjątek na rzecz Wielkiej Brytanii.</p>
-<p style="text-align:justify;">Rezygnacja ze swobodnego przepływu ludzi wiąże się z ograniczeniem programów takich jak Erasmus+ czy Horyzont2020. Przykładowo Szwajcaria musi dopłacać do swojego Erasmusa, a także nie ma nic do powiedzenia jeżeli chodzi o kierunek badań, które prowadzone są w ramach współpracy pomiędzy krajami europejskimi. Być może to samo czeka Wielką Brytanię.</p>
-<p style="text-align:justify;">Uniwersytety takie jak Oxford, Cambridge, czy LSE prawdopodobnie nie ucierpią. Ale co będzie z mniej prestiżowymi uczelniami? Ze względu na podwyższone koszty mniej osób z krajów europejskich będzie chciało przyjechać. Trzeba będzie „dopchnąć” miejsca na uniwersytetach studentami z Wielkiej Brytanii, którzy normalnie na te uczelnie by się nie dostali, co spowoduje obniżenie poziomu. Z drugiej strony, rakingi uniwersyteckie opierają się na poziomie badań – jeśli na badania nie ma pieniędzy, to uniwersytet spada w rankingu. University of Reading szczyci się byciem „jednym z 200 najlepszych uniwersytetów na świecie”, dzięki czemu przyciąga studentów spoza Europy – kraje takie jak Malezja albo Arabia Saudyjska płacą stypendia za naukę na topowych uczelniach światowych. Jeśli uniwersytety wypadną poza pierwszą dwusetkę, trudniej im będzie przyciągnąć studentów z całego świata.</p>
-<p style="text-align:justify;">Jeżeli chodzi o konkretne przykłady: jeden z moich kolegów naukowców starał się o założenie centrum szkolenia dla doktorantów. Wszystko szło bardzo dobrze, mieli zapewnionych sponsorów. Kilka dni temu firma duńska, która miała sponsorować lwią część tego centrum, wycofała się ze wszystkich ustaleń jako powód podając Brexit. Inny znajomy rozważa przeniesienie się do Szwecji. Nawet ja wraz z moim mężem Australijczykiem zaczęliśmy brać pod uwagę wyjazd do Niemiec lub Polski.</p>
+<p style="text-align: justify;">Rezygnacja ze swobodnego przepływu ludzi wiąże się z ograniczeniem programów takich jak Erasmus+ czy Horyzont2020. Przykładowo Szwajcaria musi dopłacać do swojego Erasmusa, a także nie ma nic do powiedzenia jeżeli chodzi o kierunek badań, które prowadzone są w ramach współpracy pomiędzy krajami europejskimi. Być może to samo czeka Wielką Brytanię.</p>
+<p style="text-align: justify;">Uniwersytety takie jak Oxford, Cambridge, czy LSE prawdopodobnie nie ucierpią. Ale co będzie z mniej prestiżowymi uczelniami? Ze względu na podwyższone koszty mniej osób z krajów europejskich będzie chciało przyjechać. Trzeba będzie „dopchnąć” miejsca na uniwersytetach studentami z Wielkiej Brytanii, którzy normalnie na te uczelnie by się nie dostali, co spowoduje obniżenie poziomu. Z drugiej strony, rakingi uniwersyteckie opierają się na poziomie badań – jeśli na badania nie ma pieniędzy, to uniwersytet spada w rankingu. University of Reading szczyci się byciem „jednym z 200 najlepszych uniwersytetów na świecie”, dzięki czemu przyciąga studentów spoza Europy – kraje takie jak Malezja albo Arabia Saudyjska płacą stypendia za naukę na topowych uczelniach światowych. Jeśli uniwersytety wypadną poza pierwszą dwusetkę, trudniej im będzie przyciągnąć studentów z całego świata.</p>
+<p style="text-align: justify;">Jeżeli chodzi o konkretne przykłady: jeden z moich kolegów naukowców starał się o założenie centrum szkolenia dla doktorantów. Wszystko szło bardzo dobrze, mieli zapewnionych sponsorów. Kilka dni temu firma duńska, która miała sponsorować lwią część tego centrum, wycofała się ze wszystkich ustaleń jako powód podając Brexit. Inny znajomy rozważa przeniesienie się do Szwecji. Nawet ja wraz z moim mężem Australijczykiem zaczęliśmy brać pod uwagę wyjazd do Niemiec lub Polski.</p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -401,8 +409,7 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[pszczoły]]></category>
-		<category><![CDATA[taniec]]></category>
-		<category><![CDATA[zoologia]]></category>
+		<category><![CDATA[Tydzień Polski]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=730</guid>
 		<description><![CDATA[&#160; &#160; 26 czerwca 2014, 17:43 &#124; Autor: Magdalena Grzymkowska fot. Marten Collins Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca?...]]></description>
@@ -413,7 +420,8 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <div class="left"><span class="date"><span class="time">26 czerwca 2014, 17:43 | Autor: Magdalena Grzymkowska</span></span></div>
 </div>
 <div class="content">
-<div class="img alignleft  wp-image-30329"><a href="http://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
+<div class="img alignleft wp-image-30329">
+<p><a href="http://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
 <div>fot. Marten Collins</div>
 </div>
 <p>Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca? Joanna Bagniewska jest nie tylko piękną kobietą i niezwykle interesującą osobą, lecz też zdolnym, ambitnym polskim naukowcem robiącym karierę w Wielkiej Brytanii.</p>
@@ -424,14 +432,16 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <div class="content">
 <p><b>Jądra ciemności</b></p>
 <p>– Czy wy też potrzebujecie więcej snu? Chyba wszyscy mamy go za mało… Ale, drodzy panowie, czy tak chętnie kładlibyście się spać, gdybym Wam powiedziała, że od snu kurczą wam się jądra? Zanim wpadniecie w panikę posłuchajcie mnie przez trzy minuty – tak Joanna rozpoczęła swoją prezentację podczas polskiej edycji konkursu dla badaczy FameLab, mającego na celu popularyzowanie nauki. Jego uczestnicy mają za zadanie w przystępny i atrakcyjny sposób przedstawić zagadnienie naukowe. Tak, aby stało się ono zrozumiałe również dla laików. Mają na to właśnie 3 minuty.</p>
-<div class="img  wp-image-30332 alignright"><img src="http://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot.  Wojciech Surdziel" width="360" height="240" /></p>
+<div class="img wp-image-30332 alignright">
+<p><img src="http://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel" width="360" height="240" /></p>
 <div>Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel</div>
 </div>
 <p>Dr Bagniewska w swoim wystąpieniu zatytułowanym „Jądra ciemności” wytłumaczyła zgromadzonej w Centrum Nauki Kopernik w Warszawie publiczności, że należy być bardzo ostrożnym przy interpretowaniu wyników badań prowadzonych na zwierzętach, ponieważ nie zawsze mają one przełożenie na ludzi. – Jeśli karmimy chomiki coraz większą dawką melatoniny, będącym u zwierząt hormonem snu, jest to dla nich sygnał, że noce stają się coraz dłuższe i nadchodzi zima. Zimą chomiki zapadają w torpor, czyli stan odrętwienia. Spowalnia się metabolizm, dookoła jest zimno, jedzenia jest mało i trzeb „odciąć prąd” organom, które nie są niezbędne, czyli jądrom. Ale czy to przekłada się na ludzi? Nie! My nie hibernujemy zimą, męskie jądra są takiej samej wielkości przez cały rok – konkludowała badaczka. Tą prezentacją ujęła jury, które przyznało jej główną nagrodę – 30 tysięcy złotych na cele naukowe i 5 tysięcy złotych na cele prywatne.</p>
 <p>– Radość była olbrzymia. Gdy stałam na scenie z tym wielkim czekiem, wystrzeliła armatka z confetti, z głośników leciało „We are the champions”, to była jedna z najlepszych chwil mojego życia. Mój narzeczony powiedział, że miałam wtedy taką samą minę, gdy mi się oświadczył – wspomina laureatka.</p>
 <p><b>Pracowita jak pszczółki</b></p>
 <p>Wygrana w polskiej edycji zapewniła jej też możliwość wystąpienia na FameLab International w Cheltenham w Anglii. Tam dostała się finału, gdzie również została wyróżniona nagrodą laureatów, tym razem dzięki prezentacji swoich badań na temat wykorzystania pszczół do… wykrywania narkotyków i materiałów wybuchowych.</p>
-<div class="img alignleft  wp-image-30331"><a href="http://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
+<div class="img alignleft wp-image-30331">
+<p><a href="http://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
 <div>Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>– Pszczoły lubią cukier, a gdy wyczują go w powietrzu, wysuwają język. Ach, pewnie większość z Was nie wiedziała, że pszczoły mają język! Otóż, mają – tłumaczyła Joanna. Przeszkolenie owadów, aby nauczyły się rozpoznawać również inne zapachy, jest tańsze i trwa krócej niż w przypadku psa. Fotokomórki zainstalowane w małym, przenośnym ulu, rejestrują wysunięcie się języka pszczoły w momencie, gdy ta wyczuje niebezpieczną substancję, a na wyświetlaczu pojawia się wynik takiego testu i… voilà! Tak powstaje naturalny, tani w utrzymaniu i bardzo dokładny detektor kokainy lub trotylu.</p>
@@ -440,7 +450,8 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <p>Co prawda przed finałem konkursu uczestnicy wzięli udział w warsztatach z autoprezentacji, jednak dla Joanny najlepszym i najbardziej surowym trenerem była jej mama. – Moja mama potrafi być dla mnie bardzo krytyczna, ale wiem, że robi to dla mojego dobra. Dlatego zawsze, jak mam jakiś problem, zwracam się do niej po pomoc – mówi.</p>
 <p>Dzięki swoim rodzicom już za młodych lat miała okazję mieszkać w innych krajach. Kiedy miała 6 lat wyjechała z nimi do Włoch, mieszkała również w Tajlandii i w Chinach. Potem wrócili do Polski, gdzie Joanna skończyła w liceum, jednak miłość do podróżowania została. Mając doświadczenie ze szkołami międzynarodowymi postanowiła na studia iść na uczelnię zagraniczną. Wybrała Jacobs University Bremen w Niemczech, gdzie zrobiła licencjat. – Robiłam praktyki w Australii, byłam na wymianie studenckiej w Teksasie, a następnie wyjechałam do Wielkiej Brytanii, gdzie zrobiłam magisterkę i doktorat, przy czym część swojej pracy pisałam w RPA, gdzie badałam populacje psowatych, czyli szakali i listów. Obecnie pracuję na Nottingham Trent University, uczę ekologii, ochrony bioróżnorodności, zachowania zwierząt i rozrodu zwierząt – wymienia.</p>
 <p>&nbsp;</p>
-<div class="img wp-image-30333 alignright"><b><b><a href="http://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
+<div class="img wp-image-30333 alignright">
+<p><b><b><a href="http://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
 <div>To również pani doktor / fot. archium Joanny Bagniewskiej</div>
 </div>
 <p><b>Wykład rano, turniej wieczorem</b></p>
@@ -451,7 +462,8 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <p><b>Wiara w siebie i w ludzi</b></p>
 <p>Joanna Bagniewska udziela się również społecznie. Swoimi doświadczeniami dzieli się z innymi młodymi Polakami, pragnącymi studiować w Wielkiej Brytanii w ramach The Kings Foundation. Ta organizacja ma na celu zachęcać, pomagać i motywować, ale przyszły student też musi się wykazać inicjatywą.</p>
 <p>– Nie można siedzieć jak tabaka w rogu i czekać, aż coś spadnie z nieba. Jeżeli ktoś ma takie nastawienie, to nie dostanie się na Oxford, bo to oznacza, że nie jest przedsiębiorczy i nie poradzi sobie na uczelni. Dlatego nie wystarczy napisać do nas: „jak dostać się na Oxford?” Trzeba zadać konkretne pytanie, dotyczące określonego kierunku studiów, wtedy możemy udzielić kompetentnej rady – mówi.</p>
-<div class="img alignleft"><a href="http://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
+<div class="img alignleft">
+<p><a href="http://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img src="http://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
 <div>Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>Patrząc na wspaniałą karierę, ogromny entuzjazm i zaangażowanie Joanny Bagniewskiej, aż się ciśnie na usta pytanie, jak ona do tego wszystkiego doszła i czy istnieje uniwersalna recepta na osiągnięcie sukcesu za granicą.</p>
