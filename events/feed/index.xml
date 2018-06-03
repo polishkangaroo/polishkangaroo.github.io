@@ -12,25 +12,20 @@
 	<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>Upcoming Events &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Pint of Science</title>
-		<link>/event/pint-of-science/</link>
-		<comments>/event/pint-of-science/#respond</comments>
-		<pubDate>Mon, 14 May 2018 18:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[blu]]></dc:creator>
-		
-		<guid isPermaLink="false">/?post_type=tribe_events&#038;p=1913</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
-			<wfw:commentRss>/event/pint-of-science/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
 		<title>Cheltenham Science Festival</title>
 		<link>/event/cheltenham-science-festival/</link>
 		<comments>/event/cheltenham-science-festival/#respond</comments>
@@ -43,6 +38,16 @@
 			<wfw:commentRss>/event/cheltenham-science-festival/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
+		<item>
+		<title>The Over-Analysers&#8217; Book Club presents: The Great Gatsby (TCR)</title>
+		<link>/event/the-over-analysers-book-club-presents-the-great-gatsby-tcr/</link>
+		<pubDate>Mon, 25 Jun 2018 17:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[blu]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=tribe_events&#038;p=2163</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
 		<item>
 		<title>Reading University Graduation</title>
 		<link>/event/reading-university-graduation/</link>

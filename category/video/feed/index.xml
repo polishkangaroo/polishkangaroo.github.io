@@ -12,11 +12,19 @@
 	<atom:link href="/category/video/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 13 May 2018 17:25:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>Video &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Pytanie na śniadanie &#8211; wywiad</title>
 		<link>/2016/08/27/pytanie-na-sniadanie-wywiad/</link>
@@ -29,31 +37,10 @@
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Pytanie na Śniadanie]]></category>
 		<category><![CDATA[TVP]]></category>
-		<category><![CDATA[TVP1]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1568</guid>
-		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie:]]></description>
-				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>:</p>
-<p><a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe"><img class="alignnone size-full wp-image-1572" src="https://jbagniewska.files.wordpress.com/2016/08/pns.png" alt="PnS" width="1037" height="609" /></a></p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>Horyzont zdarzeń &#8211; Inwazja szarych wiewiórek</title>
-		<link>/2016/05/01/horyzont-zdarzen-inwazja-szarych-wiewiorek/</link>
-		<pubDate>Sun, 01 May 2016 22:22:10 +0000</pubDate>
-		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Video]]></category>
-		<category><![CDATA[ekologia]]></category>
-		<category><![CDATA[gatunek inwazyjny]]></category>
-		<category><![CDATA[gatunki inwazyjne]]></category>
-		<category><![CDATA[ochrona gatunków]]></category>
-
-		<guid isPermaLink="false">http://joannabagniewska.com/?p=1425</guid>
-		<description><![CDATA[W programie Horyzont Zdarzeń rozmawiam z Wojciechem Brzezińskim o szarych wiewiórkach. http://www.polsatnews.pl/wideo-program/horyzont-zdarzen-inwazja-szarych-wiewiorek_6369147/ &#160;]]></description>
-				<content:encoded><![CDATA[<p>W programie Horyzont Zdarzeń rozmawiam z Wojciechem Brzezińskim o szarych wiewiórkach.</p>
-<p>http://www.polsatnews.pl/wideo-program/horyzont-zdarzen-inwazja-szarych-wiewiorek_6369147/</p>
-<p>&nbsp;</p>
+		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie.]]></description>
+				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="http://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>.</p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -66,7 +53,6 @@
 		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Centrum Nauki Kopernik]]></category>
-		<category><![CDATA[KMO]]></category>
 		<category><![CDATA[nauka]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1389</guid>
@@ -139,7 +125,7 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[innowacyjność]]></category>
-		<category><![CDATA[Polska przyszłości]]></category>
+		<category><![CDATA[Kongres obywatelski]]></category>
 		<category><![CDATA[sukces]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=849</guid>
@@ -224,20 +210,14 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[My writing]]></category>
 		<category><![CDATA[Video]]></category>
-		<category><![CDATA[Attenborough]]></category>
 		<category><![CDATA[Australia]]></category>
-		<category><![CDATA[bird]]></category>
-		<category><![CDATA[camera shutter]]></category>
-		<category><![CDATA[funny]]></category>
-		<category><![CDATA[lyrebird]]></category>
-		<category><![CDATA[sound mimicry]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=690</guid>
 		<description><![CDATA[A fascinating example of mimicry by the superb lyrebird, Menura novaehollandiae. I have taken this &#8211; somewhat shaky &#8211; footage in Healesville Sanctuary, Victoria, Australia, in December 2013. It&#8217;s the first time I have seen a lyrebird display outside of David Attenborough&#8217;s documentaries! Chain saw, shooting game, camera shutter, kookaburra, car alarm...]]></description>
-				<content:encoded><![CDATA[<p style="text-align:justify;">A fascinating example of mimicry by the superb lyrebird, <em>Menura novaehollandiae.</em> I have taken this &#8211; somewhat shaky &#8211; footage in Healesville Sanctuary, Victoria, Australia, in December 2013. It&#8217;s the first time I have seen a lyrebird display outside of David Attenborough&#8217;s documentaries!</p>
-<h6 style="text-align:justify;">Chain saw, shooting game, camera shutter, kookaburra, car alarm &#8211; what else can you hear?</h6>
+				<content:encoded><![CDATA[<p style="text-align: justify;">A fascinating example of mimicry by the superb lyrebird, <em>Menura novaehollandiae.</em> I have taken this &#8211; somewhat shaky &#8211; footage in Healesville Sanctuary, Victoria, Australia, in December 2013. It&#8217;s the first time I have seen a lyrebird display outside of David Attenborough&#8217;s documentaries!</p>
+<h6 style="text-align: justify;">Chain saw, shooting game, camera shutter, kookaburra, car alarm &#8211; what else can you hear?</h6>
 <p><iframe width="790" height="444" src="https://www.youtube.com/embed/oMP0ZijxQ0g?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
-<h6 style="text-align:justify;">Lyrebird says: &#8220;No sunblock!&#8221; (an Aussie, after all!)</h6>
+<h6 style="text-align: justify;">Lyrebird says: &#8220;No sunblock!&#8221; (an Aussie, after all!)</h6>
 <p><iframe width="790" height="444" src="https://www.youtube.com/embed/eP_Gsceq6gQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 ]]></content:encoded>
 			</item>
@@ -251,11 +231,9 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Centrum Nauki Kopernik]]></category>
 		<category><![CDATA[chomiki]]></category>
-		<category><![CDATA[Daria Lipińska-Nałęcz]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[jądra]]></category>
 		<category><![CDATA[konkurs]]></category>
-		<category><![CDATA[Marek Abramowicz]]></category>
 		<category><![CDATA[melatonina]]></category>
 		<category><![CDATA[mężczyzni]]></category>
 
@@ -269,6 +247,23 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 <p><iframe width="790" height="444" src="https://www.youtube.com/embed/JXJOMiSZiuE?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 <p>Źródło: <a href="http://www.naukawpolsce.pap.pl/galeria-wideo/video,351,famelab-rozstrzygniety-po-raz-trzeci.html">PAP</a></p>
 <p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Bomb-ble bees: Insects to sniff out explosives</title>
+		<link>/2013/05/23/bomb-ble-bees-insects-to-sniff-out-explosives/</link>
+		<pubDate>Thu, 23 May 2013 22:22:53 +0000</pubDate>
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+				<category><![CDATA[In English]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[bees]]></category>
+		<category><![CDATA[explosives]]></category>
+		<category><![CDATA[olfaction]]></category>
+
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=300</guid>
+		<description><![CDATA[Video of our work at Incentinel. Created by Stuart Leithes, ITV News, Anglia.]]></description>
+				<content:encoded><![CDATA[<p><iframe width="790" height="444" src="https://www.youtube.com/embed/DMGbf6pGOUg?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>Video of our work at <a href="www.inscentinel.com">Incentinel</a>. Created by Stuart Leithes, ITV News, Anglia.</p>
 ]]></content:encoded>
 			</item>
 	</channel>

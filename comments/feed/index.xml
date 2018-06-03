@@ -10,19 +10,9 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 22 Jan 2017 14:41:38 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Jun 2018 11:48:30 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
-	<item>
-		<title>Comment on TEDx by Лаборатория за слава FameLab – регистрирай се сега за десетото, юбилейно издание на конкурса &#8211; БЦЖТ</title>
-		<link>/sciencecomm/tedx/#comment-2</link>
-		<dc:creator><![CDATA[Лаборатория за слава FameLab – регистрирай се сега за десетото, юбилейно издание на конкурса &#8211; БЦЖТ]]></dc:creator>
-		<pubDate>Sun, 22 Jan 2017 14:41:38 +0000</pubDate>
-		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?page_id=9#comment-2</guid>
-		<description><![CDATA[[&#8230;] ги наричат) биват канени на TEDx-ове. Леон от Англия, Йоана от Полша, Никос от Кипър, Карим от Египет, други стават [&#8230;]]]></description>
-		<content:encoded><![CDATA[<p>[&#8230;] ги наричат) биват канени на TEDx-ове. Леон от Англия, Йоана от Полша, Никос от Кипър, Карим от Египет, други стават [&#8230;]</p>
-]]></content:encoded>
-	</item>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
 </channel>
 </rss>
