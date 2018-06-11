@@ -12,7 +12,7 @@
 	<atom:link href="/tag/uniwersytety/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -44,7 +44,7 @@
 <div class="grid-col-wide">
 <header id="art-header" class="art-header ">
 <div class="art-headline">
-<p class="art-title" style="text-align: justify;"><em><span class="art-author">Mój artykuł w <a href="http://wyborcza.pl/7,75400,21729819,naukowcy-kontra-brexit.html">Gazecie Wyborczej</a> </span></em><span class="art-author">|</span></p>
+<p class="art-title" style="text-align: justify;"><em><span class="art-author">Mój artykuł w <a href="https://wyborcza.pl/7,75400,21729819,naukowcy-kontra-brexit.html">Gazecie Wyborczej</a> </span></em><span class="art-author">|</span></p>
 </div>
 </header>
 </div>
@@ -114,12 +114,12 @@
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1064</guid>
 		<description><![CDATA[Mój artykuł w Gazecie Wyborczej Fot. 123RF Nie pożądaj żony bliźniego swego ani żadnej rzeczy, która jego jest. A co z cudzą klasówką z matmy? Klasówka z matmy. Nauczyciel rozdaje kartki z zadaniami i wychodzi. W klasie cisza. Wszyscy liczą w skupieniu, każdy patrzy w swoją kartkę. W pewnej chwili...]]></description>
-				<content:encoded><![CDATA[<div id="gazeta_article_author" style="text-align: justify;"><em>Mój artykuł w <a href="http://wyborcza.pl/magazyn/1,145324,18173664,Jedenaste___nie_podpowiadaj.html">Gazecie Wyborczej</a></em></div>
+				<content:encoded><![CDATA[<div id="gazeta_article_author" style="text-align: justify;"><em>Mój artykuł w <a href="https://wyborcza.pl/magazyn/1,145324,18173664,Jedenaste___nie_podpowiadaj.html">Gazecie Wyborczej</a></em></div>
 <div style="text-align: justify;"></div>
 <div id="gazeta_article_date" style="text-align: justify;"></div>
 <div id="gazeta_article_image" style="text-align: justify;">
 <div>
-<p><img title="" src="http://bi.gazeta.pl/im/cf/4e/11/z18146767Q.jpg" alt="" border="0" /></p>
+<p><img title="" src="https://bi.gazeta.pl/im/cf/4e/11/z18146767Q.jpg" alt="" border="0" /></p>
 <p class="desc"><em>Fot. 123RF</em></p>
 </div>
 </div>
@@ -170,13 +170,15 @@
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Cambridge University]]></category>
+		<category><![CDATA[Nauka w Polsce]]></category>
+		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[polscy naukowcy]]></category>
 		<category><![CDATA[uniwersytety]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=428</guid>
 		<description><![CDATA[18 tys. sekund fascynujących prezentacji, ponad 170 uczestników, 24 przygotowane postery, 1100 zrobionych zdjęć i 777 &#8230; wypitych filiżanek kawy, to niektóre efekty konferencji Nauka. Polskie Perspektywy. Jej drugą edycję zorganizowano w brytyjskim Cambridge. &#160; Zorganizowana po raz drugi konferencja jest adresowana do młodych naukowców, doktorantów i studentów polskiego pochodzenia,...]]></description>
-				<content:encoded><![CDATA[<div><strong><a href="http://jbagniewska.files.wordpress.com/2013/12/pap-persp.png"><img class="alignnone  wp-image-429" alt="pap-persp" src="http://jbagniewska.files.wordpress.com/2013/12/pap-persp.png?w=500" width="685" height="635" /></a></strong></div>
+				<content:encoded><![CDATA[<div><strong><a href="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png"><img class="alignnone wp-image-429" src="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png?w=500" alt="pap-persp" width="685" height="635" /></a></strong></div>
 <div><strong>18 tys. sekund fascynujących prezentacji, ponad 170 uczestników, 24 przygotowane postery, 1100 zrobionych zdjęć i 777 &#8230; wypitych filiżanek kawy, to niektóre efekty konferencji Nauka. Polskie Perspektywy. Jej drugą edycję zorganizowano w brytyjskim Cambridge.</strong></div>
 <p>&nbsp;</p>
 <p>Zorganizowana po raz drugi konferencja jest adresowana do młodych naukowców, doktorantów i studentów polskiego pochodzenia, którzy prowadzą swoje badania na uniwersytetach i w instytutach poza granicami Polski. Uczącym się za granicą studentom umożliwia spotkanie się, zbudowanie sieci kontaktów oraz podjęcie dyskusji na tematy związane z uczestnictwem Polski w rozwoju nauki i technologii.</p>
@@ -204,12 +206,13 @@
 		<pubDate>Mon, 22 Jul 2013 18:16:07 +0000</pubDate>
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
 				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Oksford]]></category>
-		<category><![CDATA[Oxford University]]></category>
 		<category><![CDATA[polscy naukowcy]]></category>
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[studenci w UK]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
+		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[uniwersytety]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=375</guid>
@@ -223,18 +226,18 @@
 		<pubDate>Sun, 21 Oct 2012 23:05:13 +0000</pubDate>
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
 				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[Oksford]]></category>
-		<category><![CDATA[Oxford University]]></category>
+		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[polish society]]></category>
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[uniwersytety]]></category>
 
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=350</guid>
 		<description><![CDATA[Artykuł PAP – Nauka w Polsce: Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi. „Poziom matematyki i informatyki w Oksfordzie nie...]]></description>
-				<content:encoded><![CDATA[<p>Artykuł <a href="http://www.naukawpolsce.pap.pl/aktualnosci/news,392490,polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi.html">PAP – Nauka w Polsce</a>:</p>
-<p><a href="http://jbagniewska.files.wordpress.com/2013/07/papox.png"><img class="alignnone size-large wp-image-351" alt="papOx" src="http://jbagniewska.files.wordpress.com/2013/07/papox.png?w=500" width="500" height="452" /></a></p>
+				<content:encoded><![CDATA[<p>Artykuł <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392490,polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi.html">PAP – Nauka w Polsce</a>:</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/07/papox.png"><img class="alignnone size-large wp-image-351" src="https://jbagniewska.files.wordpress.com/2013/07/papox.png?w=500" alt="papOx" width="500" height="452" /></a></p>
 <div><strong>Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi.</strong></div>
 <p>„Poziom matematyki i informatyki w Oksfordzie nie jest wcale wyższy niż na polskich uczelniach. Matematyka jest taka sama w każdym języku. Jednak te uniwersytety – Oksford i Cambridge &#8211; nie tylko uczą, ale też wychowują. Moim zdaniem to jest największa różnica między polskimi i brytyjskimi uczelniami” &#8211; powiedział PAP Krzysztof Bar z Uniwersytetu w Oksfordzie.</p>
 <p>Jak wyjaśnił, możliwości rozwoju nie tylko pod względem naukowym, ale też osobowościowym, sportowym czy organizacyjnym w Oksfordzie są nieograniczone. „To jest też kwestia tradycji. Od stuleci misją Oksbridge (Oksfordu i Cambridge &#8211; PAP) było wychowywanie elity społeczeństwa brytyjskiego. Dlatego studenci mogą angażować się w działalność najróżniejszych stowarzyszeń czy np. grać w orkiestrze” &#8211; opisał Bar, prezes Oxford University Polish Society.</p>

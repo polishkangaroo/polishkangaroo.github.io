@@ -12,7 +12,7 @@
 	<atom:link href="/tag/nietoperze/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -35,6 +35,7 @@
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[nietoperze]]></category>
 		<category><![CDATA[ochrona gatunków]]></category>
+		<category><![CDATA[Rzecznicy Nauki]]></category>
 		<category><![CDATA[syndrom bialego nosa]]></category>
 
 		<guid isPermaLink="false">/?p=2222</guid>

@@ -12,7 +12,7 @@
 	<atom:link href="/tag/sweden/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -34,19 +34,20 @@
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[ecology]]></category>
 		<category><![CDATA[Reading University]]></category>
+		<category><![CDATA[Sveriges Radio P4]]></category>
 		<category><![CDATA[Sweden]]></category>
 		<category><![CDATA[wildlife]]></category>
 
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1312</guid>
 		<description><![CDATA[An interview about our field course in Tovetorp for Sveriges Radio P4. Material (in English and Swedish): Carin Vidner. 1 av 2 Joanna Bagniewska och Richard Walters från Reading University. Foto: Carin Vidner/Sveriges Radio Zoologistudenter från Reading University i Storbritannien har i veckan besökt Tovetorps forskningsstation, för att uppleva och undersöka...]]></description>
-				<content:encoded><![CDATA[<p style="text-align:justify;"><a href="http://sverigesradio.se/sida/artikel.aspx?programid=87&amp;artikel=6237609">An interview about our field course in Tovetorp for Sveriges Radio P4</a>. Material (in English and Swedish): Carin Vidner.</p>
-<div class="hover-decoration"><img class="rsImg rsMainSlideImage" src="http://sverigesradio.se/sida/images/87/3565482.jpg?preset=article-slider" alt="Joanna Dagniewska och Richard Walters från Reading University. Foto: Carin Vidner/Sveriges Radio" /></div>
+				<content:encoded><![CDATA[<p style="text-align:justify;"><a href="https://sverigesradio.se/sida/artikel.aspx?programid=87&amp;artikel=6237609">An interview about our field course in Tovetorp for Sveriges Radio P4</a>. Material (in English and Swedish): Carin Vidner.</p>
+<div class="hover-decoration"><img class="rsImg rsMainSlideImage" src="https://sverigesradio.se/sida/images/87/3565482.jpg?preset=article-slider" alt="Joanna Dagniewska och Richard Walters från Reading University. Foto: Carin Vidner/Sveriges Radio" /></div>
 <div class="article-media" style="text-align:justify;">
 <div class="royalSlider rsDefault rsDefaultArticle rsHor">
 <div class="rsOverflow">
 <div class="rsContainer">
 <div class="rsSlide ">
-<div><img class="rsImg rsMainSlideImage" src="http://sverigesradio.se/sida/images/87/3565483.jpg?preset=article-slider" alt="" /></div>
+<div><img class="rsImg rsMainSlideImage" src="https://sverigesradio.se/sida/images/87/3565483.jpg?preset=article-slider" alt="" /></div>
 </div>
 </div>
 <div class="rsArrow rsArrowLeft rsHidden"></div>

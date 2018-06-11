@@ -12,7 +12,7 @@
 	<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Sun, 03 Jun 2018 11:28:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,19 +26,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Cheltenham Science Festival</title>
-		<link>/event/cheltenham-science-festival/</link>
-		<comments>/event/cheltenham-science-festival/#respond</comments>
-		<pubDate>Tue, 05 Jun 2018 07:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[blu]]></dc:creator>
-		
-		<guid isPermaLink="false">/?post_type=tribe_events&#038;p=1921</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
-			<wfw:commentRss>/event/cheltenham-science-festival/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
 		<title>The Over-Analysers&#8217; Book Club presents: The Great Gatsby (TCR)</title>
 		<link>/event/the-over-analysers-book-club-presents-the-great-gatsby-tcr/</link>
 		<pubDate>Mon, 25 Jun 2018 17:30:00 +0000</pubDate>
