@@ -12,11 +12,13 @@
 	<atom:link href="/tag/eusocjalnosc/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 11:04:49 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,19 @@
 	<item>
 		<title>Golec &#8211; gryzoń superbohater</title>
 		<link>/2015/03/08/golec-gryzon-superbohater/</link>
-		<pubDate>Sun, 08 Mar 2015 22:41:28 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 08 Mar 2015 22:41:28 +0000</pubDate>
 				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[eusocjalność]]></category>
 		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[słodziak tygodnia]]></category>
-
 		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=879</guid>
-		<description><![CDATA[Mój artykuł w Gazecie Wyborczej Golce wygrywają konkurs na najbrzydsze ssaki świata. Są różowe, łyse, pomarszczone i wyglądają jak&#8230; penisy z zębami. Żyją w podziemnych tunelach, które kopią za pomocą swoich stale rosnących siekaczy &#8211; ich wargi umiejscowione są za zębami, dzięki czemu piasek nie dostaje im się do pysków....]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój artykuł w</em> <em><a href="https://wyborcza.pl/1,75476,17513364,Golec___gryzon_superbohater.html">Gazecie Wyborczej</a></em></p>
+
+					<description><![CDATA[Mój artykuł w Gazecie Wyborczej Golce wygrywają konkurs na najbrzydsze ssaki świata. Są różowe, łyse, pomarszczone i wyglądają jak&#8230; penisy z zębami. Żyją w podziemnych tunelach, które kopią za pomocą swoich stale rosnących siekaczy &#8211; ich wargi umiejscowione są za zębami, dzięki czemu piasek nie dostaje im się do pysków....]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój artykuł w</em> <em><a href="https://wyborcza.pl/1,75476,17513364,Golec___gryzon_superbohater.html">Gazecie Wyborczej</a></em></p>
 <p style="text-align: justify;"><strong>Golce wygrywają konkurs na najbrzydsze ssaki świata. Są różowe, łyse, pomarszczone i wyglądają jak&#8230; penisy z zębami.</strong></p>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">Żyją w podziemnych tunelach, które kopią za pomocą swoich stale rosnących siekaczy &#8211; ich wargi umiejscowione są za zębami, dzięki czemu piasek nie dostaje im się do pysków. Pod ziemią poruszają się równie szybko do przodu i do tyłu. Wzrok nie jest im przydatny &#8211; golce używają oczu głównie do wykrywania ruchu powietrza w tunelach.</div>
@@ -54,6 +57,9 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

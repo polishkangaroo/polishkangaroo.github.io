@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Kot – niebezpieczny drapieżca</title>
+	<title>
+	Comments on: Kot – niebezpieczny drapieżca	</title>
 	<atom:link href="/2016/02/29/kot-niebezpieczny-drapiezca/feed/" rel="self" type="application/rss+xml" />
 	<link>/2016/02/29/kot-niebezpieczny-drapiezca/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:53:19 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sat, 09 Jun 2018 22:31:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

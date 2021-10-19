@@ -12,11 +12,13 @@
 	<atom:link href="/tag/gatunki-zagrozone/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 11:13:36 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,26 +30,27 @@
 	<item>
 		<title>&#8220;Orangutany dorównują inteligencją dziesięciolatkom.&#8221; W Polsce też mamy wpływ na to, czy przeżyją</title>
 		<link>/2014/11/17/orangutany-dorownuja-inteligencja-dziesieciolatkom-w-polsce-tez-mamy-wplyw-na-to-czy-przezyja/</link>
-		<pubDate>Mon, 17 Nov 2014 21:03:50 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Gazeta Wyborcza]]></category>
-		<category><![CDATA[Moje teksty]]></category>
+		<pubDate>Mon, 17 Nov 2014 21:03:50 +0000</pubDate>
+				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[gatunki zagrożone]]></category>
+		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[Indonezja]]></category>
 		<category><![CDATA[Malezja]]></category>
 		<category><![CDATA[ochrona gatunków]]></category>
 		<category><![CDATA[olej palmowy]]></category>
 		<category><![CDATA[orangutany]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=828</guid>
-		<description><![CDATA[Mój artykuł w Gazecie Wyborczej. To samica Beki. Mieszka w Parku Narodowym Tanjung Puting na indonezyjskim Borneo. Szacuje się, że na wolności żyje 60 tys. orangutanów (IRWIN EDRIANSYAH/AP) Wiele orangutanów swoimi zdolnościami poznawczymi dorównuje ludzkim dziesięciolatkom. rozumieją ludzką mowę, planują swoje dni i znają pojęcie przyszłości. przeżywają żal po stracie...]]></description>
-				<content:encoded><![CDATA[<div id="gazeta_article_author" style="text-align: justify;"><em>Mój artykuł w <a href="https://wyborcza.pl/piatekekstra/1,142008,16961197.html">Gazecie Wyborczej</a>.</em></div>
+
+					<description><![CDATA[Mój artykuł w Gazecie Wyborczej. To samica Beki. Mieszka w Parku Narodowym Tanjung Puting na indonezyjskim Borneo. Szacuje się, że na wolności żyje 60 tys. orangutanów (IRWIN EDRIANSYAH/AP) Wiele orangutanów swoimi zdolnościami poznawczymi dorównuje ludzkim dziesięciolatkom. rozumieją ludzką mowę, planują swoje dni i znają pojęcie przyszłości. przeżywają żal po stracie...]]></description>
+										<content:encoded><![CDATA[<div id="gazeta_article_author" style="text-align: justify;"><em>Mój artykuł w <a href="https://wyborcza.pl/piatekekstra/1,142008,16961197.html">Gazecie Wyborczej</a>.</em></div>
 <div style="text-align: justify;">
 <div class="navigation"></div>
 <div id="gazeta_article_image" class="article">
-<div><img class="alignnone" style="border: 1px solid #000000;" src="https://bi.gazeta.pl/im/83/2d/10/z16962691Q,To-samica-Beki--Mieszka-w-Parku--Narodowym-Tanjung.jpg" alt="" width="620" height="414" /></div>
+<div><img loading="lazy" class="alignnone" style="border: 1px solid #000000;" src="https://bi.gazeta.pl/im/83/2d/10/z16962691Q,To-samica-Beki--Mieszka-w-Parku--Narodowym-Tanjung.jpg" alt="" width="620" height="414" /></div>
 </div>
 </div>
 <div id="gazeta_article_image" class="miniatures" style="text-align: justify;">
@@ -106,7 +109,7 @@
 <div id="gazeta_article_date" style="text-align: justify;"></div>
 <div class="navigation" style="text-align: justify;"></div>
 <div id="gazeta_article_image" class="article" style="text-align: justify;">
-<div><img class="alignnone" style="border: 1px solid #000000;" title="Dr.Banes" src="https://bi.gazeta.pl/im/80/2d/10/z16963200Q,Dr-Banes.jpg" alt="Dr.Banes" width="620" height="781" /></div>
+<div><img loading="lazy" class="alignnone" style="border: 1px solid #000000;" title="Dr.Banes" src="https://bi.gazeta.pl/im/80/2d/10/z16963200Q,Dr-Banes.jpg" alt="Dr.Banes" width="620" height="781" /></div>
 <div class="overlayBright"></div>
 </div>
 <p style="text-align: justify;"><b><i>Dr Graham L. Banes</i></b><i> studiował zoologię na Uniwersytecie w Aberdeen; studia magisterskie i doktoranckie ukończył na Uniwersytecie Cambridge. Od 2012 r. prowadzi badania na Wydziale Prymatologii i Genetyki Ewolucyjnej w Instytucie Maxa Plancka w Lipsku; od 2013 r. jest również adiunktem na Uniwersytecie Wisconsin-Madison i członkiem Chińskiej Akademii Nauk. Swój czas dzieli między Lipsk, Szanghaj i Madison.</i></p>
@@ -116,6 +119,9 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

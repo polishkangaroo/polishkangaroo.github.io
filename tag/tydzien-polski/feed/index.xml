@@ -12,11 +12,13 @@
 	<atom:link href="/tag/tydzien-polski/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:26:14 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,19 @@
 	<item>
 		<title>W wyniku Brexitu ucierpi nauka</title>
 		<link>/2016/07/10/w-wyniku-brexitu-ucierpi-nauka/</link>
-		<pubDate>Sun, 10 Jul 2016 20:12:29 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Społeczeństwo]]></category>
+		<pubDate>Sun, 10 Jul 2016 20:12:29 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[badania]]></category>
 		<category><![CDATA[Brexit]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1491</guid>
-		<description><![CDATA[Wypowiedź dla Magdaleny Grzymkowskiej &#8211; Tydzień Polski   Dr Joanna Bagniewska, University of Reading Do nauki potrzeba dwóch rzeczy: po pierwsze współpracy, po drugie pieniędzy. Badania można prowadzić we własnym zakresie, ale na naukę wysokiej jakości potrzeba dość znacznych środków. Do tej pory Unia zapewniała zarówno warunki do współpracy międzynarodowej,...]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"></div>
+
+					<description><![CDATA[Wypowiedź dla Magdaleny Grzymkowskiej &#8211; Tydzień Polski   Dr Joanna Bagniewska, University of Reading Do nauki potrzeba dwóch rzeczy: po pierwsze współpracy, po drugie pieniędzy. Badania można prowadzić we własnym zakresie, ale na naukę wysokiej jakości potrzeba dość znacznych środków. Do tej pory Unia zapewniała zarówno warunki do współpracy międzynarodowej,...]]></description>
+										<content:encoded><![CDATA[<div style="text-align: justify;"></div>
 <div id="header" style="text-align: justify;"><em>Wypowiedź dla Magdaleny Grzymkowskiej &#8211; <a href="https://www.tydzien.co.uk/artykuly/2016/07/08/37654/">Tydzień Polski</a></em></div>
 <div style="text-align: justify;"><a href="https://www.tydzien.co.uk/"><img class="logo" src="https://www.tydzien.co.uk/_img/dp_logo.png" alt="Tydzień Polski" border="0" /></a></div>
 <div id="middle">
@@ -58,7 +61,7 @@
 </div>
 <p><span id="more-1491"></span></p>
 <div class="img size-medium wp-image-37655 alignright" style="text-align: justify;">
-<p><a href="https://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska.jpg" rel="attachment wp-att-37655"><img src="https://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska-190x300.jpg" alt="Dr Joanna Bagniewska" width="190" height="300" /></a></p>
+<p><a href="https://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska.jpg" rel="attachment wp-att-37655"><img loading="lazy" src="https://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska-190x300.jpg" alt="Dr Joanna Bagniewska" width="190" height="300" /></a></p>
 <div>Dr Joanna Bagniewska</div>
 </div>
 <p>Z drugiej strony mamy kwestie współpracy międzynarodowej. Staje się ona dużo łatwiejsza, jeżeli ma się jedną centralną organizację przyznającą granty. Szanse na zdobycie grantu to ok. 20%. Jeśli o dofinansowanie stara się wspólnie grupa brytyjska i francuska, to w tej chwili składają podanie razem. Gdyby ubiegały się o fundusze osobno, od własnych rządów, szanse na wspólny projekt by zmalały (prawdopodobieństwo zdobycia obu grantów to 0.2*0.2=0.04, czyli 4%). W tym momencie UE poświęca tylko 7% swojego budżetu na badania i rozwój na inicjatywy poza granicami Unii. Wątpię, aby zrobiła wyjątek na rzecz Wielkiej Brytanii.</p>
@@ -66,12 +69,16 @@
 <p style="text-align: justify;">Uniwersytety takie jak Oxford, Cambridge, czy LSE prawdopodobnie nie ucierpią. Ale co będzie z mniej prestiżowymi uczelniami? Ze względu na podwyższone koszty mniej osób z krajów europejskich będzie chciało przyjechać. Trzeba będzie „dopchnąć” miejsca na uniwersytetach studentami z Wielkiej Brytanii, którzy normalnie na te uczelnie by się nie dostali, co spowoduje obniżenie poziomu. Z drugiej strony, rakingi uniwersyteckie opierają się na poziomie badań – jeśli na badania nie ma pieniędzy, to uniwersytet spada w rankingu. University of Reading szczyci się byciem „jednym z 200 najlepszych uniwersytetów na świecie”, dzięki czemu przyciąga studentów spoza Europy – kraje takie jak Malezja albo Arabia Saudyjska płacą stypendia za naukę na topowych uczelniach światowych. Jeśli uniwersytety wypadną poza pierwszą dwusetkę, trudniej im będzie przyciągnąć studentów z całego świata.</p>
 <p style="text-align: justify;">Jeżeli chodzi o konkretne przykłady: jeden z moich kolegów naukowców starał się o założenie centrum szkolenia dla doktorantów. Wszystko szło bardzo dobrze, mieli zapewnionych sponsorów. Kilka dni temu firma duńska, która miała sponsorować lwią część tego centrum, wycofała się ze wszystkich ustaleń jako powód podając Brexit. Inny znajomy rozważa przeniesienie się do Szwecji. Nawet ja wraz z moim mężem Australijczykiem zaczęliśmy brać pod uwagę wyjazd do Niemiec lub Polski.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Z laboratorium pod strzechy</title>
 		<link>/2015/08/24/z-laboratorium-pod-strzechy/</link>
-		<pubDate>Mon, 24 Aug 2015 22:48:51 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2015 22:48:51 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -80,10 +87,10 @@
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[Science. Polish Perspectives]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1317</guid>
-		<description><![CDATA[Artykuł Magdaleny Grzymkowskiej w Tygodniu Polskim dr Bagniewska z nagrodą Dziennika Mam na imię Joanna. Niech to wystarczy, bo i tak nie jesteście w stanie wymówić mojego nazwiska. Jestem Polką. Przyjechałam do tego pięknego kraju jakieś 8 lat temu. Jestem zoologiem i zrobiłam w tej dziedzinie doktorat, bo w sumie czemu...]]></description>
-				<content:encoded><![CDATA[<p style="text-align:justify;"><em>Artykuł Magdaleny Grzymkowskiej w <a href="https://www.dziennikpolski.co.uk/artykuly/2015/08/16/z-laboratorium-pod-strzechy/">Tygodniu Polskim</a></em></p>
+
+					<description><![CDATA[Artykuł Magdaleny Grzymkowskiej w Tygodniu Polskim dr Bagniewska z nagrodą Dziennika Mam na imię Joanna. Niech to wystarczy, bo i tak nie jesteście w stanie wymówić mojego nazwiska. Jestem Polką. Przyjechałam do tego pięknego kraju jakieś 8 lat temu. Jestem zoologiem i zrobiłam w tej dziedzinie doktorat, bo w sumie czemu...]]></description>
+										<content:encoded><![CDATA[<p style="text-align:justify;"><em>Artykuł Magdaleny Grzymkowskiej w <a href="https://www.dziennikpolski.co.uk/artykuly/2015/08/16/z-laboratorium-pod-strzechy/">Tygodniu Polskim</a></em></p>
 <p style="text-align:justify;"><a href="https://www.dziennikpolski.co.uk/"><img class="logo" src="https://www.dziennikpolski.co.uk/_img/dp_logo.png" alt="Dziennik Polski" border="0" /></a></p>
 <div id="white_space" style="text-align:justify;"></div>
 <div id="middle">
@@ -91,7 +98,7 @@
 <div class="single">
 <div class="content">
 <div class="img wp-image-34384 alignright" style="text-align:justify;">
-<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n.jpg"><img src="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n-600x948.jpg" alt="dr Bagniewska z nagrodą Dziennika" width="360" height="569" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n-600x948.jpg" alt="dr Bagniewska z nagrodą Dziennika" width="360" height="569" /></a></p>
 <div>dr Bagniewska z nagrodą Dziennika</div>
 </div>
 <p style="text-align:justify;">Mam na imię Joanna. Niech to wystarczy, bo i tak nie jesteście w stanie wymówić mojego nazwiska. Jestem Polką. Przyjechałam do tego pięknego kraju jakieś 8 lat temu. Jestem zoologiem i zrobiłam w tej dziedzinie doktorat, bo w sumie czemu nie? A następnie, jak każdy szanujący się imigrant, zaczęłam kraść wam pracę. Lub raczej 15 procent tej najgorszej pracy, której nikt nie chce wykonywać – od takich słów Joanna Bagniewska rozpoczyna swój występ podczas naukowo-komediowego wieczoru w Bright Club w Oksfordzie, na którym badacze dzielą się wiedzą w konwencji stand-up comedy.</p>
@@ -112,7 +119,7 @@
 <p style="text-align:justify;">Ledwo wróci ze swoich wojaży do pracy na Uniwersytecie w Reading, a już zaczynają się przygotowania do konferencji Science. Polish Perspectives w Cambridge. To duże popularno-naukowe wydarzenie, które ma już wypracowaną markę na Wyspach. Skupia młodych badaczy nauk przyrodniczych, matematyczno-fizycznych i ekonomicznych. To idea, społeczność i platforma, której celem jest szeroko pojęta popularyzacja nauki, wymiana myśli i umocnienie współpracy między polskimi naukowcami pracującymi w różnych krajach. To także niezwykła okazja do wymiany doświadczeń oraz zawiązywania relacji, w wyniku których w przyszłości mogą zawiązać się ciekawe interdyscyplinarne projekty.</p>
 <p style="text-align:justify;">Inicjatorami konferencji byli w 2012 roku Krzysztof Bar z Oxfordu (mechanika kwantowa) oraz Tomasz Cebo (nanotechnologia) i Magda Richter (biologia molekularna) z Cambridge, którzy postanowili zorganizować spotkanie polskich naukowców. Czwarta edycja SPP rozpocznie się 31 października i niedługo ruszy rejestracja przez internet. Jej organizatorzy chcą pokazać, że nauka jest ciekawa i warto kreować jej dobry wizerunek z myślą o kolejnych pokoleniach młodych, utalentowanych ludzi.</p>
 <div class="img alignleft size-medium wp-image-34382" style="text-align:justify;">
-<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/41.jpg"><img class="alignleft" src="https://www.dziennikpolski.co.uk/media/2015/08/41-300x284.jpg" alt="&quot;Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy&quot;, mówi polska zoolog." width="300" height="284" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/41.jpg"><img loading="lazy" class="alignleft" src="https://www.dziennikpolski.co.uk/media/2015/08/41-300x284.jpg" alt="&quot;Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy&quot;, mówi polska zoolog." width="300" height="284" /></a></p>
 <div>&#8220;Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy&#8221;, mówi polska zoolog.</div>
 </div>
 <p>Joanna współpracuje z kilkunastoosobowym zespołem rozsianym po całym Zjednoczonym Królestwie. Jest nawet jedna osoba z Belgii. Wszystkie ustalenia odbywają się drogą elektroniczną, przez  Skype’a i maile.</p>
@@ -124,7 +131,7 @@
 <p style="text-align:justify;">– To było bardzo budujące, że nie wszyscy mieli tak przechlapane jak ja. Do tej pory nie próbowałam wracać ponownie, ale teraz wiem, że gdybym chciała wrócić do środowiska popularyzatorów nauki, to nie byłoby trudne w Polsce, a może nawet mogłabym mieć lepszą karierę niż tu, ponieważ na Wyspach rynek popularyzatorski jest już przesycony – podkreśla.</p>
 <p style="text-align:justify;">Dr Bagniewska jest utytułowanym naukowcem. Ostatnio za swoją działalność społecznikowską otrzymała Honorową Nagrodę „Dziennika Polskiego”.</p>
 <div class="img alignright size-medium wp-image-34383" style="text-align:justify;">
-<p><img src="https://www.dziennikpolski.co.uk/media/2015/08/406715_303179809780107_475877317_n-300x198.jpg" alt="dr Bagniewska ze studentami na wycieczce w Londynie" width="300" height="198" /></p>
+<p><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2015/08/406715_303179809780107_475877317_n-300x198.jpg" alt="dr Bagniewska ze studentami na wycieczce w Londynie" width="300" height="198" /></p>
 <div>dr Bagniewska ze studentami na wycieczce w Londynie</div>
 </div>
 <p style="text-align:justify;">– To jest bardzo miłe, ale przede wszystkim motywuje do dalszej pracy, bo to oznacza, że ta praca jest zauważana przez innych. Z drugiej strony podczas mojego doktoratu starałam się zwiększyć swoje szanse na zatrudnienie poprzez robienie różnych rzeczy. I zawsze jak mi ktoś coś proponował, czy wyjazd na konferencję, czy jakąś pracę dorywczą, ja zawsze mówiłam „tak”. A kilka miesięcy temu nagle tych ofert zaczęło przychodzić tyle, że musiałam zacząć odmawiać. Nie bardzo mogę się jeszcze w tym odnaleźć i trochę żałuję, że nie mogę być już wszędzie.</p>
@@ -139,39 +146,47 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Siedem pytań</title>
 		<link>/2015/02/20/siedem-pytan/</link>
-		<pubDate>Fri, 20 Feb 2015 00:12:01 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2015 00:12:01 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Dziennik Polski]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=871</guid>
-		<description><![CDATA[Wywiad z Piotrem Gulbickim w Dzienniku Polskim.]]></description>
-				<content:encoded><![CDATA[<p>Wywiad z Piotrem Gulbickim w <em><a href="https://jbagniewska.files.wordpress.com/2015/02/7-pytac584-joanna-bagniewska.pdf">Dzienniku Polskim</a>.</em></p>
-<p><img class="aligncenter wp-image-872 size-full" src="https://jbagniewska.files.wordpress.com/2015/02/7pytan-e1428450184409.png" alt="7pytan" width="1102" height="781" /></p>
+
+					<description><![CDATA[Wywiad z Piotrem Gulbickim w Dzienniku Polskim.]]></description>
+										<content:encoded><![CDATA[<p>Wywiad z Piotrem Gulbickim w <em><a href="https://jbagniewska.files.wordpress.com/2015/02/7-pytac584-joanna-bagniewska.pdf">Dzienniku Polskim</a>.</em></p>
+<p><img loading="lazy" class="aligncenter wp-image-872 size-full" src="https://jbagniewska.files.wordpress.com/2015/02/7pytan-e1428450184409.png" alt="7pytan" width="1102" height="781" /></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Diwa na tropie dzikich zwierząt</title>
 		<link>/2014/06/27/diwa-na-tropie-dzikich-zwierzat/</link>
-		<pubDate>Fri, 27 Jun 2014 00:27:09 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2014 00:27:09 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=730</guid>
-		<description><![CDATA[&#160; &#160; 26 czerwca 2014, 17:43 &#124; Autor: Magdalena Grzymkowska fot. Marten Collins Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca?...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png"><img class="aligncenter size-full wp-image-731" src="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png" alt="DziennikPL-Diwa" width="500" height="344" /></a></p>
+
+					<description><![CDATA[&#160; &#160; 26 czerwca 2014, 17:43 &#124; Autor: Magdalena Grzymkowska fot. Marten Collins Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca?...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png"><img loading="lazy" class="aligncenter size-full wp-image-731" src="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png" alt="DziennikPL-Diwa" width="500" height="344" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="date">
@@ -179,7 +194,7 @@
 </div>
 <div class="content">
 <div class="img alignleft wp-image-30329">
-<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
 <div>fot. Marten Collins</div>
 </div>
 <p>Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca? Joanna Bagniewska jest nie tylko piękną kobietą i niezwykle interesującą osobą, lecz też zdolnym, ambitnym polskim naukowcem robiącym karierę w Wielkiej Brytanii.</p>
@@ -191,7 +206,7 @@
 <p><b>Jądra ciemności</b></p>
 <p>– Czy wy też potrzebujecie więcej snu? Chyba wszyscy mamy go za mało… Ale, drodzy panowie, czy tak chętnie kładlibyście się spać, gdybym Wam powiedziała, że od snu kurczą wam się jądra? Zanim wpadniecie w panikę posłuchajcie mnie przez trzy minuty – tak Joanna rozpoczęła swoją prezentację podczas polskiej edycji konkursu dla badaczy FameLab, mającego na celu popularyzowanie nauki. Jego uczestnicy mają za zadanie w przystępny i atrakcyjny sposób przedstawić zagadnienie naukowe. Tak, aby stało się ono zrozumiałe również dla laików. Mają na to właśnie 3 minuty.</p>
 <div class="img wp-image-30332 alignright">
-<p><img src="https://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel" width="360" height="240" /></p>
+<p><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel" width="360" height="240" /></p>
 <div>Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel</div>
 </div>
 <p>Dr Bagniewska w swoim wystąpieniu zatytułowanym „Jądra ciemności” wytłumaczyła zgromadzonej w Centrum Nauki Kopernik w Warszawie publiczności, że należy być bardzo ostrożnym przy interpretowaniu wyników badań prowadzonych na zwierzętach, ponieważ nie zawsze mają one przełożenie na ludzi. – Jeśli karmimy chomiki coraz większą dawką melatoniny, będącym u zwierząt hormonem snu, jest to dla nich sygnał, że noce stają się coraz dłuższe i nadchodzi zima. Zimą chomiki zapadają w torpor, czyli stan odrętwienia. Spowalnia się metabolizm, dookoła jest zimno, jedzenia jest mało i trzeb „odciąć prąd” organom, które nie są niezbędne, czyli jądrom. Ale czy to przekłada się na ludzi? Nie! My nie hibernujemy zimą, męskie jądra są takiej samej wielkości przez cały rok – konkludowała badaczka. Tą prezentacją ujęła jury, które przyznało jej główną nagrodę – 30 tysięcy złotych na cele naukowe i 5 tysięcy złotych na cele prywatne.</p>
@@ -199,7 +214,7 @@
 <p><b>Pracowita jak pszczółki</b></p>
 <p>Wygrana w polskiej edycji zapewniła jej też możliwość wystąpienia na FameLab International w Cheltenham w Anglii. Tam dostała się finału, gdzie również została wyróżniona nagrodą laureatów, tym razem dzięki prezentacji swoich badań na temat wykorzystania pszczół do… wykrywania narkotyków i materiałów wybuchowych.</p>
 <div class="img alignleft wp-image-30331">
-<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
 <div>Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>– Pszczoły lubią cukier, a gdy wyczują go w powietrzu, wysuwają język. Ach, pewnie większość z Was nie wiedziała, że pszczoły mają język! Otóż, mają – tłumaczyła Joanna. Przeszkolenie owadów, aby nauczyły się rozpoznawać również inne zapachy, jest tańsze i trwa krócej niż w przypadku psa. Fotokomórki zainstalowane w małym, przenośnym ulu, rejestrują wysunięcie się języka pszczoły w momencie, gdy ta wyczuje niebezpieczną substancję, a na wyświetlaczu pojawia się wynik takiego testu i… voilà! Tak powstaje naturalny, tani w utrzymaniu i bardzo dokładny detektor kokainy lub trotylu.</p>
@@ -209,7 +224,7 @@
 <p>Dzięki swoim rodzicom już za młodych lat miała okazję mieszkać w innych krajach. Kiedy miała 6 lat wyjechała z nimi do Włoch, mieszkała również w Tajlandii i w Chinach. Potem wrócili do Polski, gdzie Joanna skończyła w liceum, jednak miłość do podróżowania została. Mając doświadczenie ze szkołami międzynarodowymi postanowiła na studia iść na uczelnię zagraniczną. Wybrała Jacobs University Bremen w Niemczech, gdzie zrobiła licencjat. – Robiłam praktyki w Australii, byłam na wymianie studenckiej w Teksasie, a następnie wyjechałam do Wielkiej Brytanii, gdzie zrobiłam magisterkę i doktorat, przy czym część swojej pracy pisałam w RPA, gdzie badałam populacje psowatych, czyli szakali i listów. Obecnie pracuję na Nottingham Trent University, uczę ekologii, ochrony bioróżnorodności, zachowania zwierząt i rozrodu zwierząt – wymienia.</p>
 <p>&nbsp;</p>
 <div class="img wp-image-30333 alignright">
-<p><b><b><a href="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
+<p><b><b><a href="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
 <div>To również pani doktor / fot. archium Joanny Bagniewskiej</div>
 </div>
 <p><b>Wykład rano, turniej wieczorem</b></p>
@@ -221,7 +236,7 @@
 <p>Joanna Bagniewska udziela się również społecznie. Swoimi doświadczeniami dzieli się z innymi młodymi Polakami, pragnącymi studiować w Wielkiej Brytanii w ramach The Kings Foundation. Ta organizacja ma na celu zachęcać, pomagać i motywować, ale przyszły student też musi się wykazać inicjatywą.</p>
 <p>– Nie można siedzieć jak tabaka w rogu i czekać, aż coś spadnie z nieba. Jeżeli ktoś ma takie nastawienie, to nie dostanie się na Oxford, bo to oznacza, że nie jest przedsiębiorczy i nie poradzi sobie na uczelni. Dlatego nie wystarczy napisać do nas: „jak dostać się na Oxford?” Trzeba zadać konkretne pytanie, dotyczące określonego kierunku studiów, wtedy możemy udzielić kompetentnej rady – mówi.</p>
 <div class="img alignleft">
-<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
 <div>Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>Patrząc na wspaniałą karierę, ogromny entuzjazm i zaangażowanie Joanny Bagniewskiej, aż się ciśnie na usta pytanie, jak ona do tego wszystkiego doszła i czy istnieje uniwersalna recepta na osiągnięcie sukcesu za granicą.</p>
@@ -230,12 +245,16 @@
 <p>Tekst: Magdalena Grzymkowska</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Dziennik Polski: Studenci mają głos</title>
 		<link>/2014/03/20/dziennik-polski-studenci-maja-glos/</link>
-		<pubDate>Thu, 20 Mar 2014 23:26:19 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2014 23:26:19 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Dziennik Polski]]></category>
 		<category><![CDATA[Federacja Polskich Stowaryszeń Studenckich w UK]]></category>
@@ -245,10 +264,10 @@
 		<category><![CDATA[Tydzień Polski]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[Wielka Brytania]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=577</guid>
-		<description><![CDATA[Oxford. To miasto zdaje się być przesiąknięte atmosferą nauki. Może wydawać się, że od samego przebywania tutaj wiedza sama wchodzi do głowy. Od wieków pokolenia Brytyjczyków zdobywały tu wykształcenie. Obecnie uczy się tutaj również ok. 270 polskich studentów. Od wejścia Polski do Unii Europejskiej ta liczba polskich studentów w Oxfordzie...]]></description>
-				<content:encoded><![CDATA[<p><b><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png"><img class="alignnone size-full wp-image-578" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png" alt="dziennikPL-kongres" width="500" height="341" /></a></b></p>
+
+					<description><![CDATA[Oxford. To miasto zdaje się być przesiąknięte atmosferą nauki. Może wydawać się, że od samego przebywania tutaj wiedza sama wchodzi do głowy. Od wieków pokolenia Brytyjczyków zdobywały tu wykształcenie. Obecnie uczy się tutaj również ok. 270 polskich studentów. Od wejścia Polski do Unii Europejskiej ta liczba polskich studentów w Oxfordzie...]]></description>
+										<content:encoded><![CDATA[<p><b><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png"><img loading="lazy" class="alignnone size-full wp-image-578" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png" alt="dziennikPL-kongres" width="500" height="341" /></a></b></p>
 <p><b>Oxford. To miasto zdaje się być przesiąknięte atmosferą nauki. Może wydawać się, że od samego przebywania tutaj wiedza sama wchodzi do głowy. Od wieków pokolenia Brytyjczyków zdobywały tu wykształcenie.</b></p>
 <p>Obecnie uczy się tutaj również ok. 270 polskich studentów. Od wejścia Polski do Unii Europejskiej ta liczba polskich studentów w Oxfordzie z roku na roku rośnie. Ale nie samą nauką człowiek żyje – ci młodzi ludzie są przecież są ambitni, aktywni i mają wiele do powiedzenia na różne tematy. Chcą zmieniać świat na lepsze. W celu realizowania tych ambicji już po raz 7. Zorganizowano Congress of Polish Student Societies.</p>
 <p>– Historia zatoczyła koło, ponieważ pierwszy kongres został zorganizowany tu w Oxfordzie w 2008 roku i również wtedy był obecny na nim minister Sikorski. Jest to zupełnie oddolna inicjatywa, nieco zainspirowana przez profesora Pełczyńskiego, wykładowcy i byłego rektora Pembroke College. Odczuwaliśmy potrzebę zorganizowania wydarzenia, które będzie się odbywało regularnie, na którym będziemy mogli się spotkać ze studentami z innych uczelni, poznać się, porozmawiać o problemach i perspektywach. Organizacja kongresu spoczywa w całości na studentach, zarówno pod względem finansowym, jak i merytorycznym, jako że od początku była to inicjatywa studencka i taką pozostała do dzisiaj – mówił Krzysztof Bar, prezes Federacji Polskich Stowarzyszeń Studenckich w Wielkiej Brytanii, jeden z twórców kongresu, jak wyrażają się o nim koledzy „ideolog tego, w co wszyscy wierzymy”, a także absolwent Oxfordu, obecnie doktorant zgłębiający tajniki komputerów kwantowy.</p>
@@ -285,12 +304,16 @@
 <p><a href="https://www.dziennikpolski.co.uk/artykuly/2014/03/14/studenci-maja-glos/">Magdalena Grzymkowska</a></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Skrzydlaci celnicy  na londyńskim lotnisku</title>
 		<link>/2014/03/03/skrzydlaci-celnicy-na-londynskim-lotnisku/</link>
-		<pubDate>Mon, 03 Mar 2014 23:50:02 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 23:50:02 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Dziennik Polski]]></category>
 		<category><![CDATA[materiały wybuchowe]]></category>
@@ -299,14 +322,17 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=537</guid>
-		<description><![CDATA[Artykuł z Dziennika Polskiego, całość dostępna tu: Dziennik polski. &#160; &#160;]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png"><img class="alignnone wp-image-539" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png" alt="DziennikPL-orig" width="1094" height="807" /></a></p>
+
+					<description><![CDATA[Artykuł z Dziennika Polskiego, całość dostępna tu: Dziennik polski. &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png"><img loading="lazy" class="alignnone wp-image-539" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png" alt="DziennikPL-orig" width="1094" height="807" /></a></p>
 <p>Artykuł z Dziennika Polskiego, całość dostępna tu: <a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl.pdf">Dziennik polski</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

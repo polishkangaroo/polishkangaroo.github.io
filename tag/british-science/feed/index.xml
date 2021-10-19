@@ -12,11 +12,13 @@
 	<atom:link href="/tag/british-science/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 May 2018 21:55:19 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,19 @@
 	<item>
 		<title>Brexit uncertainties threaten brain drain for UK science</title>
 		<link>/2016/12/11/brexit-uncertainties-threaten-brain-drain-for-uk-science/</link>
-		<pubDate>Sun, 11 Dec 2016 22:22:12 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 11 Dec 2016 22:22:12 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[Associated Press]]></category>
 		<category><![CDATA[Brexit]]></category>
 		<category><![CDATA[British science]]></category>
 		<category><![CDATA[EU]]></category>
 		<category><![CDATA[science]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1661</guid>
-		<description><![CDATA[A piece by Sylvia Hui, for Associated Press &#124; Like many foreign scientists in Britain, Joanna Bagniewska was devastated when Britons voted to leave the European Union. The biology lecturer, a Polish migrant who found Britain a welcoming place to build her academic career over a decade, is suddenly seeing her...]]></description>
-				<content:encoded><![CDATA[<div id="articleContent" class="articleContent">
+
+					<description><![CDATA[A piece by Sylvia Hui, for Associated Press &#124; Like many foreign scientists in Britain, Joanna Bagniewska was devastated when Britons voted to leave the European Union. The biology lecturer, a Polish migrant who found Britain a welcoming place to build her academic career over a decade, is suddenly seeing her...]]></description>
+										<content:encoded><![CDATA[<div id="articleContent" class="articleContent">
 <div class="dtTitle">
 <div class="dtTitleContainer">
 <p class="topTitle" style="text-align: justify;"><em>A piece by Sylvia Hui, for <a href="https://apnews.com/aa7dae8a7c58415a8c5479782f514ae5/Brexit-uncertainties-threaten-brain-drain-for-UK-science?utm_campaign=SocialFlow&amp;utm_source=Twitter&amp;utm_medium=AP">Associated Press</a></em><a href="https://apnews.com/aa7dae8a7c58415a8c5479782f514ae5/Brexit-uncertainties-threaten-brain-drain-for-UK-science?utm_campaign=SocialFlow&amp;utm_source=Twitter&amp;utm_medium=AP"> </a><a href="https://apnews.com/aa7dae8a7c58415a8c5479782f514ae5/Brexit-uncertainties-threaten-brain-drain-for-UK-science?utm_campaign=SocialFlow&amp;utm_source=Twitter&amp;utm_medium=AP">|</a></p>
@@ -82,6 +85,9 @@
 </div>
 <div class="sideRail rightRail" style="text-align: justify;"></div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

@@ -12,11 +12,13 @@
 	<atom:link href="/tag/szkola-liderow/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 22:30:46 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,11 +30,11 @@
 	<item>
 		<title>Rozmowa z dr Joanną Bagniewską</title>
 		<link>/2015/01/18/rozmowa-z-dr-joanna-bagniewska/</link>
-		<pubDate>Sun, 18 Jan 2015 13:55:26 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 18 Jan 2015 13:55:26 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[gatunek inwazyjny]]></category>
@@ -43,28 +45,32 @@
 		<category><![CDATA[radio]]></category>
 		<category><![CDATA[Szkoła Liderów]]></category>
 		<category><![CDATA[zoologia]]></category>
-
 		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=862</guid>
-		<description><![CDATA[Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica.]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2015/01/pradio.png"><img class=" size-full wp-image-863 alignnone" src="https://jbagniewska.files.wordpress.com/2015/01/pradio.png" alt="PRadio" width="500" height="569" /></a></p>
+
+					<description><![CDATA[Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2015/01/pradio.png"><img loading="lazy" class=" size-full wp-image-863 alignnone" src="https://jbagniewska.files.wordpress.com/2015/01/pradio.png" alt="PRadio" width="500" height="569" /></a></p>
 <p><a href="https://www.radiozagranica.pl/8/251/Artykul/193837,Rozmowa-z-Dr-Joanna-Bagniewska">Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Kreatywni, otwarci, wyraziści, czyli jak promować Polskę zagranicą</title>
 		<link>/2014/02/11/kreatywni-otwarci-wyrazisci-czyli-jak-promowac-polske-zagranica/</link>
-		<pubDate>Tue, 11 Feb 2014 00:11:15 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
+		<pubDate>Tue, 11 Feb 2014 00:11:15 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
+		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[marka Polski]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polacy za granicą]]></category>
 		<category><![CDATA[Szkoła Liderów]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=465</guid>
-		<description><![CDATA[Rodzima historia, gościnność i kuchnia, ale też innowacyjność i kreatywność. To nasze potencjalne atuty w międzynarodowej rywalizacji narodowych brandów. Z czym w tej chwili Polska kojarzy się obcokrajowcom, z czym powinna się kojarzyć i jak można poprawić jej opinię, opowiadają młodzi liderzy organizacji polonijnych. Doktor Joanna Bagniewska, zoolog specjalizująca się...]]></description>
-				<content:encoded><![CDATA[<p>Rodzima historia, gościnność i kuchnia, ale też innowacyjność i kreatywność. To nasze potencjalne atuty w międzynarodowej rywalizacji narodowych brandów. Z czym w tej chwili Polska kojarzy się obcokrajowcom, z czym powinna się kojarzyć i jak można poprawić jej opinię, opowiadają młodzi liderzy organizacji polonijnych.</p>
+
+					<description><![CDATA[Rodzima historia, gościnność i kuchnia, ale też innowacyjność i kreatywność. To nasze potencjalne atuty w międzynarodowej rywalizacji narodowych brandów. Z czym w tej chwili Polska kojarzy się obcokrajowcom, z czym powinna się kojarzyć i jak można poprawić jej opinię, opowiadają młodzi liderzy organizacji polonijnych. Doktor Joanna Bagniewska, zoolog specjalizująca się...]]></description>
+										<content:encoded><![CDATA[<p>Rodzima historia, gościnność i kuchnia, ale też innowacyjność i kreatywność. To nasze potencjalne atuty w międzynarodowej rywalizacji narodowych brandów. Z czym w tej chwili Polska kojarzy się obcokrajowcom, z czym powinna się kojarzyć i jak można poprawić jej opinię, opowiadają młodzi liderzy organizacji polonijnych.</p>
 <p>Doktor Joanna Bagniewska, zoolog specjalizująca się w ochronie środowiska, ma w sobie mnóstwo pasji, zwłaszcza gdy mówi o promowaniu Polski zagranicą. Pochodzi z Gdańska, ale od kilkunastu lat żyje poza krajem. Do Anglii przyjechała w 2008 roku, na studia doktoranckie w Oxfordzie. Teraz jest nauczycielem akademickim na uniwersytecie Nottingham Trent. Wcześniej studiowała na Jacobs University w Bremie i Rice University w Houston. Jak sama przyznaje, mieszkała już w siedmiu krajach, a podróżowała po czterdziestu. To daje jej perspektywę, by spojrzeć na Polskę z dystansu, bez egzaltacji.</p>
 <p><strong>Z tęsknoty za pączkiem</strong></p>
 <p>&#8211; Po raz pierwszy o działalności polonijnej poważnie pomyślałam jakieś pięć lat temu, w Oxfordzie. Nie bardzo miałam ochotę integrować się z innymi polskimi studentami na uniwersytecie, trochę odstraszały mnie te polonijne klimaty, kiszenie się we własnym sosie. Ale na wszelki wypadek zapisałam się na listę mailingową &#8211; opowiada Joanna. &#8211; W końcu przyszedł Tłusty Czwartek, a ja bardzo zatęskniłam za polskim pączkiem. W mailu było zaproszenie na spotkanie od Stowarzyszenia Polskich Studentów w Oxfordzie. Pomyślałam: &#8220;Co mi szkodzi? Wpadnę, zjem pączka, pokręcę się trochę, ale integrować się nie będę. Na miejscu okazało się, że atmosfera jest fantastyczna, ludzie przemili i całkiem zmieniłam swój stosunek do stowarzyszenia. Zaangażowałam się na całego.</p>
@@ -76,20 +82,24 @@
 <p>&#8230;</p>
 <p>Całość tekstu dostępna na <a href="https://szkola-liderow.pl/kreatywni,_otwarci,_wyrazisci.php">stronie Szkoły Liderów</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Minister Radosław Sikorski spotkał się w Warszawie z młodymi liderami środowisk polonijnych</title>
 		<link>/2013/11/27/minister-radoslaw-sikorski-spotkal-sie-w-warszawie-z-mlodymi-liderami-srodowisk-polonijnych/</link>
-		<pubDate>Wed, 27 Nov 2013 23:51:37 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2013 23:51:37 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Polacy za granicą]]></category>
 		<category><![CDATA[Radoslaw Sikorski]]></category>
 		<category><![CDATA[Szkoła Liderów]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=401</guid>
-		<description><![CDATA[W Europie jesteśmy uważani za kraj dynamiczny. Naszym pierwszym zasobem jesteście Wy – powiedział minister spraw zagranicznych Radosław Sikorski podczas dzisiejszego spotkania z uczestnikami Zjazdu Absolwentów Szkoły Liderów Polonijnych w gmachu Senatu RP. Polityka polonijna rządu stara się coraz lepiej wykorzystywać środki, które podatnik daje do naszej dyspozycji – powiedział podczas spotkania szef...]]></description>
-				<content:encoded><![CDATA[<div>
+
+					<description><![CDATA[W Europie jesteśmy uważani za kraj dynamiczny. Naszym pierwszym zasobem jesteście Wy – powiedział minister spraw zagranicznych Radosław Sikorski podczas dzisiejszego spotkania z uczestnikami Zjazdu Absolwentów Szkoły Liderów Polonijnych w gmachu Senatu RP. Polityka polonijna rządu stara się coraz lepiej wykorzystywać środki, które podatnik daje do naszej dyspozycji – powiedział podczas spotkania szef...]]></description>
+										<content:encoded><![CDATA[<div>
 <div>W Europie jesteśmy uważani za kraj dynamiczny. Naszym pierwszym zasobem jesteście Wy – powiedział minister spraw zagranicznych Radosław Sikorski podczas dzisiejszego spotkania z uczestnikami Zjazdu Absolwentów Szkoły Liderów Polonijnych w gmachu Senatu RP.</div>
 <div></div>
 </div>
@@ -111,6 +121,9 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

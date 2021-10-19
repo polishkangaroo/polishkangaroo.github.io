@@ -12,11 +12,13 @@
 	<atom:link href="/tag/fizjologia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 11:55:58 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,19 +30,20 @@
 	<item>
 		<title>Czym się różni mężczyzna od chomika</title>
 		<link>/2014/06/19/czym-sie-rozni-mezczyzna-od-chomika/</link>
-		<pubDate>Wed, 18 Jun 2014 23:14:13 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Gazeta Wyborcza]]></category>
-		<category><![CDATA[Moje teksty]]></category>
+		<pubDate>Wed, 18 Jun 2014 23:14:13 +0000</pubDate>
+				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[chomiki]]></category>
 		<category><![CDATA[fizjologia]]></category>
+		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[melatonina]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=721</guid>
-		<description><![CDATA[Mój artykuł w Gazecie Wyborczej. Melatonina &#8211; hormon nocy i składnik pigułek nasennych &#8211; nie ogranicza się tylko do pobudzania organizmu do snu. Jedne z pierwszych badań na chomikach wykazały, że wzmożone spożycie tego hormonu powoduje kurczenie się jąder. Czy panowie mają się bać? Wyjaśnia dr Joanna Bagniewska, tegoroczna finalistka...]]></description>
-				<content:encoded><![CDATA[<p style="text-align:justify;"><em>Mój artykuł w <a href="https://wyborcza.pl/1,75248,16173678.html">Gazecie Wyborczej</a>.</em></p>
+
+					<description><![CDATA[Mój artykuł w Gazecie Wyborczej. Melatonina &#8211; hormon nocy i składnik pigułek nasennych &#8211; nie ogranicza się tylko do pobudzania organizmu do snu. Jedne z pierwszych badań na chomikach wykazały, że wzmożone spożycie tego hormonu powoduje kurczenie się jąder. Czy panowie mają się bać? Wyjaśnia dr Joanna Bagniewska, tegoroczna finalistka...]]></description>
+										<content:encoded><![CDATA[<p style="text-align:justify;"><em>Mój artykuł w <a href="https://wyborcza.pl/1,75248,16173678.html">Gazecie Wyborczej</a>.</em></p>
 <div id="article_header" class="header" style="text-align:justify;">
 <p class="lead"><b>Melatonina &#8211; hormon nocy i składnik pigułek nasennych &#8211; nie ogranicza się tylko do pobudzania organizmu do snu. Jedne z pierwszych badań na chomikach wykazały, że wzmożone spożycie tego hormonu powoduje kurczenie się jąder. Czy panowie mają się bać? Wyjaśnia dr Joanna Bagniewska, tegoroczna finalistka konkursu FameLab</b></p>
 </div>
@@ -66,6 +69,9 @@
 </div>
 <p style="text-align:justify;"><!--more--></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

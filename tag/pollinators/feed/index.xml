@@ -12,11 +12,13 @@
 	<atom:link href="/tag/pollinators/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:27:04 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,19 @@
 	<item>
 		<title>Winged customs officers at London Airport – an interview with dr Joanna Bagniewska</title>
 		<link>/2014/02/14/winged-customs-officers-at-london-airport-an-interview-with-dr-joanna-bagniewska/</link>
-		<pubDate>Fri, 14 Feb 2014 23:40:45 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2014 23:40:45 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[bees]]></category>
 		<category><![CDATA[colony collapse disorder]]></category>
 		<category><![CDATA[explosives]]></category>
 		<category><![CDATA[Link to Poland]]></category>
 		<category><![CDATA[pollinators]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=534</guid>
-		<description><![CDATA[Special tasks require special tools: bees will be detecting explosives and drugs soon! Research proceeded smoothly and the system could be tried and tested at Heathrow Airport. Piotr Gulbicki is talking with Dr Joanna Bagniewska, a zoologist from Nottingham Trent University. Your success comes after years of research… …that started...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="https://linktopoland.com/en/winged-customs-officers-at-london-airport-an-interview-with-dr-joanna-bagniewska/"><img class="alignnone wp-image-535" src="https://jbagniewska.files.wordpress.com/2014/03/linktopl.png" alt="linktoPL" width="1235" height="805" /></a></p>
+
+					<description><![CDATA[Special tasks require special tools: bees will be detecting explosives and drugs soon! Research proceeded smoothly and the system could be tried and tested at Heathrow Airport. Piotr Gulbicki is talking with Dr Joanna Bagniewska, a zoologist from Nottingham Trent University. Your success comes after years of research… …that started...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><a href="https://linktopoland.com/en/winged-customs-officers-at-london-airport-an-interview-with-dr-joanna-bagniewska/"><img loading="lazy" class="alignnone wp-image-535" src="https://jbagniewska.files.wordpress.com/2014/03/linktopl.png" alt="linktoPL" width="1235" height="805" /></a></p>
 <div style="text-align: justify;">
 <div>
 <p>Special tasks require special tools: bees will be detecting explosives and drugs soon! Research proceeded smoothly and the system could be tried and tested at Heathrow Airport. Piotr Gulbicki is talking with Dr Joanna Bagniewska, a zoologist from Nottingham Trent University.</p>
@@ -90,6 +93,9 @@
 <p style="text-align: justify;">Photo 2 © Anna Karahan</p>
 <p style="text-align: justify;"><a href="https://linktopoland.com/en/winged-customs-officers-at-london-airport-an-interview-with-dr-joanna-bagniewska/">Link to Poland</a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

@@ -12,11 +12,13 @@
 	<atom:link href="/tag/polska-pl/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 11:51:56 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>Niełatwo jest mówić prosto o nauce</title>
 		<link>/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/</link>
-		<pubDate>Mon, 07 Jul 2014 13:50:20 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 07 Jul 2014 13:50:20 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[FameLab]]></category>
@@ -37,10 +40,10 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polska.pl]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/</guid>
-		<description><![CDATA[Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab. Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png"><img class="aligncenter size-full wp-image-739" src="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png" alt="polandgov2" width="500" height="364" /></a></p>
+
+					<description><![CDATA[Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab. Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png"><img loading="lazy" class="aligncenter size-full wp-image-739" src="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png" alt="polandgov2" width="500" height="364" /></a></p>
 <p><strong>Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab.</strong></p>
 <p><span id="more-738"></span>Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w Anglii. Zdobyła tam nagrodę przyznawaną przez laureatów poprzednich edycji FameLab. Celem konkursu jest wyłonienie naukowca z darem krasomówczym, który swoją trzyminutową prezentacją potrafi porwać tłumy. Dr Bagniewskiej się to udało.</p>
 <p><strong>Aleksandra Stanisławska, Polska.pl: Podczas międzynarodowego finału FameLab zdobyła Pani nagrodę przyznawaną przez laureatów poprzednich edycji tego konkursu. To duże wyróżnienie. Czy dotarcie do tak wysokiej lokaty było trudnym zadaniem?</strong></p>
@@ -55,6 +58,9 @@
 <p>Tak, naturalnie! Na razie jednak nie mam sprecyzowanych planów.</p>
 <p>Rozmawiała Aleksandra Stanisławska, <a href="https://www.polska.pl/Nielatwo,jest,mowic,prosto,o,nauce,Kalendarium,5577x4438.html">polska.pl</a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

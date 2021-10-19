@@ -12,11 +12,13 @@
 	<atom:link href="/tag/dziennik-baltycki/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Jun 2018 22:54:35 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,17 +30,17 @@
 	<item>
 		<title>Kto jest szczęśliwy &#8211; czyli czego ten Szomburg od nas chce?</title>
 		<link>/2015/04/28/kto-jest-szczesliwy-czyli-czego-ten-szomburg-od-nas-chce/</link>
-		<pubDate>Mon, 27 Apr 2015 23:37:24 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
+		<pubDate>Mon, 27 Apr 2015 23:37:24 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
+		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Dziennik Bałtycki]]></category>
 		<category><![CDATA[Kongres Obywatelski]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1045</guid>
-		<description><![CDATA[Artykuł Barbary Szczepuły z Dziennika Bałtyckiego Modne jest, szczególnie wśród polityków opozycji, narzekanie na wyjazdy Polaków za granicę. Jeden z kandydatów na prezydenta lamentuje, że taka wyprawa oznacza pracę na zmywaku w londyńskich knajpach. I gdyby mógł, pewnie zakazałby tych ekskursji, bo po co mają się Polacy po świecie włóczyć,...]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"><em>Artykuł Barbary Szczepuły z <a href="https://www.dziennikbaltycki.pl/artykul/3836049,kto-jest-szczesliwy-czyli-czego-ten-szomburg-od-nas-chce,id,t.html">Dziennika Bałtyckiego</a></em></div>
+
+					<description><![CDATA[Artykuł Barbary Szczepuły z Dziennika Bałtyckiego Modne jest, szczególnie wśród polityków opozycji, narzekanie na wyjazdy Polaków za granicę. Jeden z kandydatów na prezydenta lamentuje, że taka wyprawa oznacza pracę na zmywaku w londyńskich knajpach. I gdyby mógł, pewnie zakazałby tych ekskursji, bo po co mają się Polacy po świecie włóczyć,...]]></description>
+										<content:encoded><![CDATA[<div style="text-align: justify;"><em>Artykuł Barbary Szczepuły z <a href="https://www.dziennikbaltycki.pl/artykul/3836049,kto-jest-szczesliwy-czyli-czego-ten-szomburg-od-nas-chce,id,t.html">Dziennika Bałtyckiego</a></em></div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;">Modne jest, szczególnie wśród polityków opozycji, narzekanie na wyjazdy Polaków za granicę. Jeden z kandydatów na prezydenta lamentuje, że taka wyprawa oznacza pracę na zmywaku w londyńskich knajpach. I gdyby mógł, pewnie zakazałby tych ekskursji, bo po co mają się Polacy po świecie włóczyć, &#8220;kiedy polska wieś spokojna&#8221;.</div>
 <div style="text-align: justify;"></div>
@@ -55,6 +57,9 @@ Krążący między Brukselą, Warszawą a Sopotem europoseł i doradca gospodar
 Czeka nas zatem jeszcze moc roboty, by dołączyć do czołówki. Dodał, że każdy odczuwa dobrostan inaczej i wspomniał &#8211; jak zwykle dowcipnie &#8211; pewną Polkę z Uzbekistanu, która marzyła o przeniesieniu się nad Wisłę. &#8211; Tam jest tak pięknie &#8211; przekonywała. &#8211; Często pada deszcz!<br />
 &#8211; Uczestniczę w Pomorskim Kongresie Obywatelskim &#8211; zakończył Lewandowski &#8211; bo przebywanie w dobrym towarzystwie, a takie tu co roku zbiera Szomburg, też podnosi jakość życia!</div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

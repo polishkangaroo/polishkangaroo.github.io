@@ -12,11 +12,13 @@
 	<atom:link href="/tag/popularyzacja-nauki/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:15:53 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,17 +30,18 @@
 	<item>
 		<title>W Białymstoku rusza naukowe show: Kreatywne Rozmowy o Nauce</title>
 		<link>/2016/02/12/w-bialymstoku-rusza-naukowe-show-kreatywne-rozmowy-o-nauce/</link>
-		<pubDate>Fri, 12 Feb 2016 16:24:14 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2016 16:24:14 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1350</guid>
-		<description><![CDATA[Artykuł PAP &#8211; Nauka w Polsce Sześcioro naukowców (chemik, dwóch fizyków oraz troje biologów) będzie miało po ok. 20 minut, żeby wprowadzić widzów w ciekawostki świata przyrody i techniki. Uniwersytet w Białymstoku zaprasza 18 lutego na naukowe show &#8211; KRON &#8211; czyli Kreatywne Rozmowy o Nauce. Inspiracją wydarzenia organizowanego przez...]]></description>
-				<content:encoded><![CDATA[<div class="margines wiadomosc">
+
+					<description><![CDATA[Artykuł PAP &#8211; Nauka w Polsce Sześcioro naukowców (chemik, dwóch fizyków oraz troje biologów) będzie miało po ok. 20 minut, żeby wprowadzić widzów w ciekawostki świata przyrody i techniki. Uniwersytet w Białymstoku zaprasza 18 lutego na naukowe show &#8211; KRON &#8211; czyli Kreatywne Rozmowy o Nauce. Inspiracją wydarzenia organizowanego przez...]]></description>
+										<content:encoded><![CDATA[<div class="margines wiadomosc">
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><em>Artykuł <a href="https://naukawpolsce.pap.pl/aktualnosci/news,408389,w-bialymstoku-rusza-naukowe-show-kreatywne-rozmowy-o-nauce.html">PAP &#8211; Nauka w Polsce</a></em></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><strong>Sześcioro naukowców (chemik, dwóch fizyków oraz troje biologów) będzie miało po ok. 20 minut, żeby wprowadzić widzów w ciekawostki świata przyrody i techniki. Uniwersytet w Białymstoku zaprasza 18 lutego na naukowe show &#8211; KRON &#8211; czyli Kreatywne Rozmowy o Nauce.</strong></div>
 <div class="tresc information-content szablon-2">
@@ -58,26 +61,29 @@
 </div>
 <div class="belka-1"></div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>&#8220;Pszczoły pachną jak miód i skrzydełka. To mój ulubiony zapach na świecie&#8221; &#8211; wywiad z Joanną Bagniewską</title>
 		<link>/2015/11/12/pszczoly-pachna-jak-miod-i-skrzydelka-to-moj-ulubiony-zapach-na-swiecie-wywiad-z-joanna-bagniewska/</link>
-		<pubDate>Thu, 12 Nov 2015 17:29:19 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2015 17:29:19 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[Edulandia.pl]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[Science. Polish Perspectives]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1338</guid>
-		<description><![CDATA[Wywiad Beaty Dżumagi dla portalu Edulandia.pl W szkole miała najgorsze oceny z biologii &#8211; dziś jest zoologiem po doktoracie na Oxfordzie. Joanna Bagniewska jest jednym z polskich naukowców pracujących w Wielkiej Brytanii. Tam też działa na rzecz promocji polskich uczonych. Nam opowiada o tym, jak popularyzować naukę wśród młodzieży, dlaczego...]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"><em>Wywiad Beaty Dżumagi dla portalu <a href="https://www.edulandia.pl/edulandia/1,118533,19148063,pszczoly-pachna-jak-miod-i-skrzydelka-to-moj-ulubiony-zapach.html?as=1">Edulandia.pl</a></em></div>
+
+					<description><![CDATA[Wywiad Beaty Dżumagi dla portalu Edulandia.pl W szkole miała najgorsze oceny z biologii &#8211; dziś jest zoologiem po doktoracie na Oxfordzie. Joanna Bagniewska jest jednym z polskich naukowców pracujących w Wielkiej Brytanii. Tam też działa na rzecz promocji polskich uczonych. Nam opowiada o tym, jak popularyzować naukę wśród młodzieży, dlaczego...]]></description>
+										<content:encoded><![CDATA[<div style="text-align: justify;"><em>Wywiad Beaty Dżumagi dla portalu <a href="https://www.edulandia.pl/edulandia/1,118533,19148063,pszczoly-pachna-jak-miod-i-skrzydelka-to-moj-ulubiony-zapach.html?as=1">Edulandia.pl</a></em></div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;"><img title="Joanna Bagniewska jest jedną z organizatorek konferencji Science: Polish Perspectives" src="https://bi.gazeta.pl/im/42/42/12/z19148098Q,Joanna-Bagniewska-jest-jedna-z-organizatorek-konfe.jpg" alt="Joanna Bagniewska jest jedną z organizatorek konferencji Science: Polish Perspectives" border="0" /></div>
 <div style="text-align: justify;"></div>
@@ -140,12 +146,16 @@
 <p style="text-align: justify;">&#8211; <b>Po drugie:</b> jeżeli życie nie toczy się po waszej myśli, trzeba je wziąć we własne ręce i pokierować nim. Tak jak w moim przypadku &#8211; kiedy w Niemczech męczyłam się nad komórkami w laboratoriach i stwierdziłam, że wcale nie chcę tutaj być, znalazłam kurs zachowania zwierząt na drugim końcu kraju, w Norymberdze. I miałam na tyle duży tupet, żeby po pierwsze pójść do swoich profesorów i poprosić ich o zwolnienie na dwa tygodnie, a po drugie powiedziałam, że to jest coś, czego chcę się bardziej uczyć i skoro nie ma tego w programie, to uniwersytet powinien zapłacić za mój kurs. I oni się zgodzili. To nie jest tak, że życie poda ci rozwiązanie na talerzu. Trzeba nim pokierować samemu.</p>
 <p style="text-align: justify;">&#8211; <b>Trzecia rzecz:</b> nie do końca należy słuchać innych. Np. moja mama była przerażona tym, że chciałam studiować coś związanego ze zwierzętami. Była przekonana, że skończy się tak, że będę musiała wkładać ręce krowom w nieprzyzwoite miejsca i użerać się z rolnikami. Że nikt mnie nie będzie szanował, bo jestem kobietą, a zoolog to żaden zawód dla kobiety. A trzeba sprawdzić na własnej skórze, jak dany zawód wygląda.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Gdańska zoolożka po Oksfordzie: &#8220;Z naukowców można się śmiać&#8221;</title>
 		<link>/2015/11/04/gdanska-zoolozka-po-oksfordzie-z-naukowcow-mozna-sie-smiac/</link>
-		<pubDate>Wed, 04 Nov 2015 23:18:55 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2015 23:18:55 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -155,10 +165,10 @@
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[zoologia]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1331</guid>
-		<description><![CDATA[Artykuł Doroty Karaś w trójmiejskiej Gazecie Wyborczej Joanna Bagniewska z puchaczem podczas kursu sokolnictwa w Stratford-upon-Avon (Fot. Archiwum prywatne) W Polsce komedia naukowa dopiero raczkuje. W Wielkiej Brytanii naukowiec dostaje mikrofon i około dziesięciu minut na to, żeby rozśmieszyć publiczność. Mam o tyle łatwo, że badania zoologa w dużej mierze obracają...]]></description>
-				<content:encoded><![CDATA[<div id="top_wrap">
+
+					<description><![CDATA[Artykuł Doroty Karaś w trójmiejskiej Gazecie Wyborczej Joanna Bagniewska z puchaczem podczas kursu sokolnictwa w Stratford-upon-Avon (Fot. Archiwum prywatne) W Polsce komedia naukowa dopiero raczkuje. W Wielkiej Brytanii naukowiec dostaje mikrofon i około dziesięciu minut na to, żeby rozśmieszyć publiczność. Mam o tyle łatwo, że badania zoologa w dużej mierze obracają...]]></description>
+										<content:encoded><![CDATA[<div id="top_wrap">
 <div id="holder_101" class="holder_top">
 <p><em>Artykuł Doroty Karaś w <a href="https://trojmiasto.wyborcza.pl/trojmiasto/1,35635,19101595,mt-polska-zoolozka-po-oksfordzie-z-naukowcow-mozna-sie-smiac.html#BoxLokTrojImg">trójmiejskiej Gazecie Wyborczej</a></em></p>
 </div>
@@ -249,12 +259,16 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Z laboratorium pod strzechy</title>
 		<link>/2015/08/24/z-laboratorium-pod-strzechy/</link>
-		<pubDate>Mon, 24 Aug 2015 22:48:51 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2015 22:48:51 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -263,10 +277,10 @@
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[Science. Polish Perspectives]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1317</guid>
-		<description><![CDATA[Artykuł Magdaleny Grzymkowskiej w Tygodniu Polskim dr Bagniewska z nagrodą Dziennika Mam na imię Joanna. Niech to wystarczy, bo i tak nie jesteście w stanie wymówić mojego nazwiska. Jestem Polką. Przyjechałam do tego pięknego kraju jakieś 8 lat temu. Jestem zoologiem i zrobiłam w tej dziedzinie doktorat, bo w sumie czemu...]]></description>
-				<content:encoded><![CDATA[<p style="text-align:justify;"><em>Artykuł Magdaleny Grzymkowskiej w <a href="https://www.dziennikpolski.co.uk/artykuly/2015/08/16/z-laboratorium-pod-strzechy/">Tygodniu Polskim</a></em></p>
+
+					<description><![CDATA[Artykuł Magdaleny Grzymkowskiej w Tygodniu Polskim dr Bagniewska z nagrodą Dziennika Mam na imię Joanna. Niech to wystarczy, bo i tak nie jesteście w stanie wymówić mojego nazwiska. Jestem Polką. Przyjechałam do tego pięknego kraju jakieś 8 lat temu. Jestem zoologiem i zrobiłam w tej dziedzinie doktorat, bo w sumie czemu...]]></description>
+										<content:encoded><![CDATA[<p style="text-align:justify;"><em>Artykuł Magdaleny Grzymkowskiej w <a href="https://www.dziennikpolski.co.uk/artykuly/2015/08/16/z-laboratorium-pod-strzechy/">Tygodniu Polskim</a></em></p>
 <p style="text-align:justify;"><a href="https://www.dziennikpolski.co.uk/"><img class="logo" src="https://www.dziennikpolski.co.uk/_img/dp_logo.png" alt="Dziennik Polski" border="0" /></a></p>
 <div id="white_space" style="text-align:justify;"></div>
 <div id="middle">
@@ -274,7 +288,7 @@
 <div class="single">
 <div class="content">
 <div class="img wp-image-34384 alignright" style="text-align:justify;">
-<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n.jpg"><img src="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n-600x948.jpg" alt="dr Bagniewska z nagrodą Dziennika" width="360" height="569" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n-600x948.jpg" alt="dr Bagniewska z nagrodą Dziennika" width="360" height="569" /></a></p>
 <div>dr Bagniewska z nagrodą Dziennika</div>
 </div>
 <p style="text-align:justify;">Mam na imię Joanna. Niech to wystarczy, bo i tak nie jesteście w stanie wymówić mojego nazwiska. Jestem Polką. Przyjechałam do tego pięknego kraju jakieś 8 lat temu. Jestem zoologiem i zrobiłam w tej dziedzinie doktorat, bo w sumie czemu nie? A następnie, jak każdy szanujący się imigrant, zaczęłam kraść wam pracę. Lub raczej 15 procent tej najgorszej pracy, której nikt nie chce wykonywać – od takich słów Joanna Bagniewska rozpoczyna swój występ podczas naukowo-komediowego wieczoru w Bright Club w Oksfordzie, na którym badacze dzielą się wiedzą w konwencji stand-up comedy.</p>
@@ -295,7 +309,7 @@
 <p style="text-align:justify;">Ledwo wróci ze swoich wojaży do pracy na Uniwersytecie w Reading, a już zaczynają się przygotowania do konferencji Science. Polish Perspectives w Cambridge. To duże popularno-naukowe wydarzenie, które ma już wypracowaną markę na Wyspach. Skupia młodych badaczy nauk przyrodniczych, matematyczno-fizycznych i ekonomicznych. To idea, społeczność i platforma, której celem jest szeroko pojęta popularyzacja nauki, wymiana myśli i umocnienie współpracy między polskimi naukowcami pracującymi w różnych krajach. To także niezwykła okazja do wymiany doświadczeń oraz zawiązywania relacji, w wyniku których w przyszłości mogą zawiązać się ciekawe interdyscyplinarne projekty.</p>
 <p style="text-align:justify;">Inicjatorami konferencji byli w 2012 roku Krzysztof Bar z Oxfordu (mechanika kwantowa) oraz Tomasz Cebo (nanotechnologia) i Magda Richter (biologia molekularna) z Cambridge, którzy postanowili zorganizować spotkanie polskich naukowców. Czwarta edycja SPP rozpocznie się 31 października i niedługo ruszy rejestracja przez internet. Jej organizatorzy chcą pokazać, że nauka jest ciekawa i warto kreować jej dobry wizerunek z myślą o kolejnych pokoleniach młodych, utalentowanych ludzi.</p>
 <div class="img alignleft size-medium wp-image-34382" style="text-align:justify;">
-<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/41.jpg"><img class="alignleft" src="https://www.dziennikpolski.co.uk/media/2015/08/41-300x284.jpg" alt="&quot;Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy&quot;, mówi polska zoolog." width="300" height="284" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/41.jpg"><img loading="lazy" class="alignleft" src="https://www.dziennikpolski.co.uk/media/2015/08/41-300x284.jpg" alt="&quot;Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy&quot;, mówi polska zoolog." width="300" height="284" /></a></p>
 <div>&#8220;Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy&#8221;, mówi polska zoolog.</div>
 </div>
 <p>Joanna współpracuje z kilkunastoosobowym zespołem rozsianym po całym Zjednoczonym Królestwie. Jest nawet jedna osoba z Belgii. Wszystkie ustalenia odbywają się drogą elektroniczną, przez  Skype’a i maile.</p>
@@ -307,7 +321,7 @@
 <p style="text-align:justify;">– To było bardzo budujące, że nie wszyscy mieli tak przechlapane jak ja. Do tej pory nie próbowałam wracać ponownie, ale teraz wiem, że gdybym chciała wrócić do środowiska popularyzatorów nauki, to nie byłoby trudne w Polsce, a może nawet mogłabym mieć lepszą karierę niż tu, ponieważ na Wyspach rynek popularyzatorski jest już przesycony – podkreśla.</p>
 <p style="text-align:justify;">Dr Bagniewska jest utytułowanym naukowcem. Ostatnio za swoją działalność społecznikowską otrzymała Honorową Nagrodę „Dziennika Polskiego”.</p>
 <div class="img alignright size-medium wp-image-34383" style="text-align:justify;">
-<p><img src="https://www.dziennikpolski.co.uk/media/2015/08/406715_303179809780107_475877317_n-300x198.jpg" alt="dr Bagniewska ze studentami na wycieczce w Londynie" width="300" height="198" /></p>
+<p><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2015/08/406715_303179809780107_475877317_n-300x198.jpg" alt="dr Bagniewska ze studentami na wycieczce w Londynie" width="300" height="198" /></p>
 <div>dr Bagniewska ze studentami na wycieczce w Londynie</div>
 </div>
 <p style="text-align:justify;">– To jest bardzo miłe, ale przede wszystkim motywuje do dalszej pracy, bo to oznacza, że ta praca jest zauważana przez innych. Z drugiej strony podczas mojego doktoratu starałam się zwiększyć swoje szanse na zatrudnienie poprzez robienie różnych rzeczy. I zawsze jak mi ktoś coś proponował, czy wyjazd na konferencję, czy jakąś pracę dorywczą, ja zawsze mówiłam „tak”. A kilka miesięcy temu nagle tych ofert zaczęło przychodzić tyle, że musiałam zacząć odmawiać. Nie bardzo mogę się jeszcze w tym odnaleźć i trochę żałuję, że nie mogę być już wszędzie.</p>
@@ -322,24 +336,27 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Śmiejmy się z naukowców</title>
 		<link>/2015/04/08/smiejmy-sie-z-naukowcow/</link>
-		<pubDate>Wed, 08 Apr 2015 00:04:27 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[INNPoland]]></category>
-		<category><![CDATA[Moje teksty]]></category>
+		<pubDate>Wed, 08 Apr 2015 00:04:27 +0000</pubDate>
+				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[Video]]></category>
+		<category><![CDATA[INNPoland]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1015</guid>
-		<description><![CDATA[Mój tekst z bloga INNPoland.pl. Scena, mikrofon, pełna sala, osiem minut. Czas: start. Kilka tygodni temu, w pewien marcowy wieczór, z naukowca zmieniłam się w komika. Stało się to podczas oksfordzkiego Bright Club, wieczoru naukowo-komediowego, na którym badacze dzielą się wiedzą – ale w konwencji stand-up comedy. Stand-up comedy (Wikipedia...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój tekst z bloga <a href="https://joannabagniewska.innpoland.pl/116099,scena-mikrofon-pelna-sala-osiem-minut-czas-start">INNPoland.pl</a>.</em></p>
+
+					<description><![CDATA[Mój tekst z bloga INNPoland.pl. Scena, mikrofon, pełna sala, osiem minut. Czas: start. Kilka tygodni temu, w pewien marcowy wieczór, z naukowca zmieniłam się w komika. Stało się to podczas oksfordzkiego Bright Club, wieczoru naukowo-komediowego, na którym badacze dzielą się wiedzą – ale w konwencji stand-up comedy. Stand-up comedy (Wikipedia...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój tekst z bloga <a href="https://joannabagniewska.innpoland.pl/116099,scena-mikrofon-pelna-sala-osiem-minut-czas-start">INNPoland.pl</a>.</em></p>
 <p style="text-align: justify;">Scena, mikrofon, pełna sala, osiem minut. Czas: start.</p>
 <p style="text-align: justify;">Kilka tygodni temu, w pewien marcowy wieczór, z naukowca zmieniłam się w komika. Stało się to podczas oksfordzkiego Bright Club, wieczoru naukowo-komediowego, na którym badacze dzielą się wiedzą – ale w konwencji stand-up comedy.<br />
 Stand-up comedy (Wikipedia i znajomi twierdzą, że polski odpowiednik tego wyrażenia to po prostu „stand-up”) jest formą komedii bardzo popularną w krajach anglosaskich; w Polsce też zyskuje na popularności. Wykonawca ma do dyspozycji mikrofon, scenę, publiczność i określony czas, w którym wygłasza monolog naszpikowany dowcipami – z tym, że w Bright Club ma być nie tylko śmiesznie, ale i naukowo.<br />
@@ -351,27 +368,30 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 <p style="text-align: justify;">Środowisko polskich naukowców na Wyspach Brytyjskich od trzech lat organizuje konferencję naukową <a href="https://www.polishperspectives.org/" target="_blank" rel="nofollow noopener">Science. Polish Perspectives</a> – to okazja do przedstawienia swoich badań w sposób zrozumiały dla ludzi z różnych dziedzin. W tym roku pomysł podchwyciło MNiSW – rusza pierwsza edycja działającej na podobnej zasadzie konferencji <a href="https://www.polishscientificnetworks.pl/" target="_blank" rel="nofollow noopener">Polish Scientific Networks</a>, tym razem w Warszawie.</p>
 <p style="text-align: justify;">Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy. W Polsce na razie można wziąć udział w konkursie <a href="https://www.famelab.org.pl/" target="_blank" rel="nofollow noopener">FameLab</a>, ale może i naukowy stand-up wciągnie nasze środowiska akademickie?</p>
 <p style="text-align: justify;">Poniżej film z wydarzenia:</p>
-<p><iframe width="790" height="444" src="https://www.youtube.com/embed/PjRupex-tkw?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/PjRupex-tkw?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 <p style="text-align: justify;">
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>W laboratorium i na parkiecie</title>
 		<link>/2014/09/08/w-laboratorium-i-na-parkiecie/</link>
-		<pubDate>Mon, 08 Sep 2014 19:54:56 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2014 19:54:56 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Goniec Polski]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[zoologia]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=809</guid>
-		<description><![CDATA[Rozmowa z Dariuszem Dzikowskim w Gońcu Polskim   Krzyczące rośliny, kurczące się jądra chomików, pszczoły szukające narkotyków na lotnisku… Z dr Joanną Bagniewską, zoologiem z Nottingham Trent University, rozmawia Dariusz Dzikowski. Niedawno wygrała pani polską edycję konkursu dla naukowców Fame Lab. Z czego bardzo się cieszę. Moment w którym odbierałam...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/09/goniec.png"><img class="aligncenter wp-image-810 size-full" src="https://jbagniewska.files.wordpress.com/2014/09/goniec.png" alt="goniec" width="931" height="655" /></a></p>
+
+					<description><![CDATA[Rozmowa z Dariuszem Dzikowskim w Gońcu Polskim   Krzyczące rośliny, kurczące się jądra chomików, pszczoły szukające narkotyków na lotnisku… Z dr Joanną Bagniewską, zoologiem z Nottingham Trent University, rozmawia Dariusz Dzikowski. Niedawno wygrała pani polską edycję konkursu dla naukowców Fame Lab. Z czego bardzo się cieszę. Moment w którym odbierałam...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/09/goniec.png"><img loading="lazy" class="aligncenter wp-image-810 size-full" src="https://jbagniewska.files.wordpress.com/2014/09/goniec.png" alt="goniec" width="931" height="655" /></a></p>
 <p><em>Rozmowa z Dariuszem Dzikowskim w <a href="https://issuu.com/goniec.polski/docs/pedzio_bf2f75bb8d0824/14?e=2301625/9199768">Gońcu Polskim</a></em></p>
 <p><strong> </strong></p>
 <p><strong>Krzyczące rośliny, kurczące się jądra chomików, pszczoły szukające narkotyków na lotnisku… Z dr Joanną Bagniewską, zoologiem z Nottingham Trent University, rozmawia Dariusz Dzikowski.</strong></p>
@@ -407,12 +427,16 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 <p><strong>Ale nie tylko biologią pani żyje.</strong></p>
 <p>Uwielbiam taniec towarzyski. Walc, tango, fokstrot. Od przyjazdu do Oxfordu brałam udział w turniejach tanecznych, występowałam w  uniwersyteckiej drużynie. To był świetny okres, prawie zawsze wygrywaliśmy…</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Dr Bagniewska: dokarmiam &#8220;smoka sławy&#8221;</title>
 		<link>/2014/07/23/dr-bagniewska-dokarmiam-smoka-slawy/</link>
-		<pubDate>Wed, 23 Jul 2014 11:17:45 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 11:17:45 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -420,10 +444,10 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/2014/07/31/dr-bagniewska-dokarmiam-smoka-slawy/</guid>
-		<description><![CDATA[Po jej pierwszym wystąpieniu publicznym cała szkoła zamarła z wrażenia; w Szanghaju &#8211; mówiąc po chińsku- wygrała konkurs na wystąpienie publiczne; w tym roku podbiła zaś polski FameLab. W przyszłości dr Joannie Bagniewskiej marzy się np. pogram o zagrożonych wyginięciem zwierzętach. Dr Joanna Bagniewska z Nottingham Trent University w maju...]]></description>
-				<content:encoded><![CDATA[<div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png"><img class="size-full wp-image-766" src="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png" alt="pap-smok" width="500" height="320" /></a></div>
+
+					<description><![CDATA[Po jej pierwszym wystąpieniu publicznym cała szkoła zamarła z wrażenia; w Szanghaju &#8211; mówiąc po chińsku- wygrała konkurs na wystąpienie publiczne; w tym roku podbiła zaś polski FameLab. W przyszłości dr Joannie Bagniewskiej marzy się np. pogram o zagrożonych wyginięciem zwierzętach. Dr Joanna Bagniewska z Nottingham Trent University w maju...]]></description>
+										<content:encoded><![CDATA[<div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png"><img loading="lazy" class="size-full wp-image-766" src="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png" alt="pap-smok" width="500" height="320" /></a></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;">Po jej pierwszym wystąpieniu publicznym cała szkoła zamarła z wrażenia; w Szanghaju &#8211; mówiąc po chińsku- wygrała konkurs na wystąpienie publiczne; w tym roku podbiła zaś polski FameLab. W przyszłości dr Joannie Bagniewskiej marzy się np. pogram o zagrożonych wyginięciem zwierzętach.</div>
@@ -459,22 +483,26 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 <p style="text-align: justify;"><a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,401144,dr-bagniewska-dokarmiam-smoka-slawy.html">PAP &#8211; Nauka w Polsce</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Polska badaczka w światowym finale konkursu FameLab</title>
 		<link>/2014/06/05/polska-badaczka-w-swiatowym-finale-konkursu-famelab/</link>
-		<pubDate>Thu, 05 Jun 2014 13:52:39 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2014 13:52:39 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Cheltenham Science Festival]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[Onet.pl]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=743</guid>
-		<description><![CDATA[&#160; Dr Joanna Bagniewska z Nottingham Trent University awansowała do ścisłego finału konkursu FameLab, który odbywa się w Wielkiej Brytanii. O zwycięstwo powalczy dzisiaj wieczorem z dziewięcioma innymi naukowcami. FameLab to konkurs przypominający telewizyjne talent-show, jednak zamiast piosenkarzy czy tancerzy występują w nim naukowcy. Na opowiedzenie w fascynujący sposób o...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/onet.png"><img class="aligncenter size-full wp-image-744" src="https://jbagniewska.files.wordpress.com/2014/07/onet.png" alt="onet" width="500" height="457" /></a></p>
+
+					<description><![CDATA[&#160; Dr Joanna Bagniewska z Nottingham Trent University awansowała do ścisłego finału konkursu FameLab, który odbywa się w Wielkiej Brytanii. O zwycięstwo powalczy dzisiaj wieczorem z dziewięcioma innymi naukowcami. FameLab to konkurs przypominający telewizyjne talent-show, jednak zamiast piosenkarzy czy tancerzy występują w nim naukowcy. Na opowiedzenie w fascynujący sposób o...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/onet.png"><img loading="lazy" class="aligncenter size-full wp-image-744" src="https://jbagniewska.files.wordpress.com/2014/07/onet.png" alt="onet" width="500" height="457" /></a></p>
 <p>&nbsp;</p>
 <div id="lead">
 <p class="hyphenate"><strong>Dr Joanna Bagniewska z Nottingham Trent University awansowała do ścisłego finału konkursu FameLab, który odbywa się w Wielkiej Brytanii. O zwycięstwo powalczy dzisiaj wieczorem z dziewięcioma innymi naukowcami.</strong></p>
@@ -493,12 +521,16 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 <p class="hyphenate"><a href="https://wiadomosci.onet.pl/nauka/polska-badaczka-w-swiatowym-finale-konkursu-famelab/3cls0">Onet.pl</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Chomiczy problem, który mężczyznom na szczęście nie grozi</title>
 		<link>/2014/05/13/chomiczy-problem-ktory-mezczyznom-na-szczescie-nie-grozi/</link>
-		<pubDate>Tue, 13 May 2014 21:31:00 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 13 May 2014 21:31:00 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[chomiki]]></category>
@@ -507,10 +539,10 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=663</guid>
-		<description><![CDATA[&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Chomiki, które zapadają w sen muszą &#8220;liczyć się&#8221; z tym, że ich jądra w tym czasie nieco się&#8230; zmniejszą. Na szczęście mężczyznom nie grożą podobne skutki długiego snu &#8211; przekonywała dr Joanna Bagniewska, w wystąpieniu, które przyniosło jej...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/pap-chomik.png"><img class="alignleft size-full wp-image-664" src="https://jbagniewska.files.wordpress.com/2014/05/pap-chomik.png" alt="pap-chomik" width="500" height="531" /></a></p>
+
+					<description><![CDATA[&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Chomiki, które zapadają w sen muszą &#8220;liczyć się&#8221; z tym, że ich jądra w tym czasie nieco się&#8230; zmniejszą. Na szczęście mężczyznom nie grożą podobne skutki długiego snu &#8211; przekonywała dr Joanna Bagniewska, w wystąpieniu, które przyniosło jej...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/pap-chomik.png"><img loading="lazy" class="alignleft size-full wp-image-664" src="https://jbagniewska.files.wordpress.com/2014/05/pap-chomik.png" alt="pap-chomik" width="500" height="531" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -539,21 +571,25 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 <p style="font-weight: inherit; font-style: inherit;">PAP &#8211; <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,400328,chomiczy-problem-ktory-mezczyznom-na-szczescie-nie-grozi.html">Nauka w Polsce</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Dr Joanna Bagniewska wygrała FameLab 2014!</title>
 		<link>/2014/05/12/dr-joanna-bagniewska-wygrala-famelab-2014/</link>
-		<pubDate>Mon, 12 May 2014 19:33:38 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 12 May 2014 19:33:38 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[melatonina]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=607</guid>
-		<description><![CDATA[&#160; &#160; 10 maja w Centrum Nauki Kopernik odbyły się 3-minutowe prezentacje 10 finalistów trzeciej polskiej edycji konkursu popularyzatorskiego „FameLab&#8221;. Zwyciężczynią została dr Joanna Bagniewska, która weźmie udział w międzynarodowym finale konkursu w Wielkiej Brytanii. Nagrody, w tym wyróżnienie  Ministra Nauki i Szkolnictwa Wyższego, wręczyła laureatom dr hab. Daria Lipińska-Nałęcz,...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/mnisw.png"><img class="alignleft size-full wp-image-608" src="https://jbagniewska.files.wordpress.com/2014/05/mnisw.png" alt="MNiSW" width="500" height="298" /></a></p>
+
+					<description><![CDATA[&#160; &#160; 10 maja w Centrum Nauki Kopernik odbyły się 3-minutowe prezentacje 10 finalistów trzeciej polskiej edycji konkursu popularyzatorskiego „FameLab&#8221;. Zwyciężczynią została dr Joanna Bagniewska, która weźmie udział w międzynarodowym finale konkursu w Wielkiej Brytanii. Nagrody, w tym wyróżnienie  Ministra Nauki i Szkolnictwa Wyższego, wręczyła laureatom dr hab. Daria Lipińska-Nałęcz,...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/mnisw.png"><img loading="lazy" class="alignleft size-full wp-image-608" src="https://jbagniewska.files.wordpress.com/2014/05/mnisw.png" alt="MNiSW" width="500" height="298" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>10 maja w Centrum Nauki Kopernik odbyły się 3-minutowe prezentacje 10 finalistów trzeciej polskiej edycji konkursu popularyzatorskiego „FameLab&#8221;. Zwyciężczynią została dr Joanna Bagniewska, która weźmie udział w międzynarodowym finale konkursu w Wielkiej Brytanii. Nagrody, w tym wyróżnienie  Ministra Nauki i Szkolnictwa Wyższego, wręczyła laureatom dr hab. Daria Lipińska-Nałęcz, podsekretarz stanu w MNiSW.</p>
@@ -567,6 +603,9 @@ Pomyślałam, że taki występ niewiele różni się od tego, co robię na co dz
 <p>Źródło: <a href="https://www.nauka.gov.pl/aktualnosci-ministerstwo/dr-joanna-bagniewska-wygrala-famelab-2014.html">Ministerstwo Nauki i Szkolnictwa Wyższego</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

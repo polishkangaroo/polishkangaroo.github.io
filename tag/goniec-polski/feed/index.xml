@@ -12,11 +12,13 @@
 	<atom:link href="/tag/goniec-polski/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 11:43:38 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,20 +30,20 @@
 	<item>
 		<title>W laboratorium i na parkiecie</title>
 		<link>/2014/09/08/w-laboratorium-i-na-parkiecie/</link>
-		<pubDate>Mon, 08 Sep 2014 19:54:56 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2014 19:54:56 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Goniec Polski]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[zoologia]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=809</guid>
-		<description><![CDATA[Rozmowa z Dariuszem Dzikowskim w Gońcu Polskim   Krzyczące rośliny, kurczące się jądra chomików, pszczoły szukające narkotyków na lotnisku… Z dr Joanną Bagniewską, zoologiem z Nottingham Trent University, rozmawia Dariusz Dzikowski. Niedawno wygrała pani polską edycję konkursu dla naukowców Fame Lab. Z czego bardzo się cieszę. Moment w którym odbierałam...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/09/goniec.png"><img class="aligncenter wp-image-810 size-full" src="https://jbagniewska.files.wordpress.com/2014/09/goniec.png" alt="goniec" width="931" height="655" /></a></p>
+
+					<description><![CDATA[Rozmowa z Dariuszem Dzikowskim w Gońcu Polskim   Krzyczące rośliny, kurczące się jądra chomików, pszczoły szukające narkotyków na lotnisku… Z dr Joanną Bagniewską, zoologiem z Nottingham Trent University, rozmawia Dariusz Dzikowski. Niedawno wygrała pani polską edycję konkursu dla naukowców Fame Lab. Z czego bardzo się cieszę. Moment w którym odbierałam...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/09/goniec.png"><img loading="lazy" class="aligncenter wp-image-810 size-full" src="https://jbagniewska.files.wordpress.com/2014/09/goniec.png" alt="goniec" width="931" height="655" /></a></p>
 <p><em>Rozmowa z Dariuszem Dzikowskim w <a href="https://issuu.com/goniec.polski/docs/pedzio_bf2f75bb8d0824/14?e=2301625/9199768">Gońcu Polskim</a></em></p>
 <p><strong> </strong></p>
 <p><strong>Krzyczące rośliny, kurczące się jądra chomików, pszczoły szukające narkotyków na lotnisku… Z dr Joanną Bagniewską, zoologiem z Nottingham Trent University, rozmawia Dariusz Dzikowski.</strong></p>
@@ -77,6 +79,9 @@
 <p><strong>Ale nie tylko biologią pani żyje.</strong></p>
 <p>Uwielbiam taniec towarzyski. Walc, tango, fokstrot. Od przyjazdu do Oxfordu brałam udział w turniejach tanecznych, występowałam w  uniwersyteckiej drużynie. To był świetny okres, prawie zawsze wygrywaliśmy…</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

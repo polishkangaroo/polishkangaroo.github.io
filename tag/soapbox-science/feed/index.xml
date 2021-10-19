@@ -12,11 +12,13 @@
 	<atom:link href="/tag/soapbox-science/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Oct 2021 22:03:01 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,17 +30,18 @@
 	<item>
 		<title>We’re not science automatons – we’re people: Meet Joanna Bagniewska</title>
 		<link>/2016/07/10/were-not-science-automatons-were-people-meet-joanna-bagniewska/</link>
-		<pubDate>Sun, 10 Jul 2016 20:20:44 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 10 Jul 2016 20:20:44 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[science]]></category>
 		<category><![CDATA[science communication]]></category>
 		<category><![CDATA[Soapbox Science]]></category>
 		<category><![CDATA[women in STEM]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1502</guid>
-		<description><![CDATA[My interview for the Soapbox Science blog. Dr Joanna Bagniewska is a zoologist working as a teaching fellow at Reading University’s School of Biological Sciences. Her research interests encompass ecology and conservation biology, particularly the subject of invasive species. She is a very keen science communicator – she won FameLab Poland, gave a...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>My interview for the <a href="https://soapboxscience.org/?p=3321">Soapbox Science blog</a>.</em></p>
+
+					<description><![CDATA[My interview for the Soapbox Science blog. Dr Joanna Bagniewska is a zoologist working as a teaching fellow at Reading University’s School of Biological Sciences. Her research interests encompass ecology and conservation biology, particularly the subject of invasive species. She is a very keen science communicator – she won FameLab Poland, gave a...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>My interview for the <a href="https://soapboxscience.org/?p=3321">Soapbox Science blog</a>.</em></p>
 <p style="text-align: justify;">Dr Joanna Bagniewska is a zoologist working as a teaching fellow at <a href="https://www.reading.ac.uk/biologicalsciences/about/staff/j-m-bagniewska.aspx">Reading </a>University’s School of Biological Sciences. Her research interests encompass ecology and conservation biology, particularly the subject of invasive species. She is a very keen science communicator – she won FameLab Poland, gave a talk at TEDxWarsaw, and she even does science stand-up comedy.  Meet Joanna in our <a href="https://soapboxscience.org/?page_id=2560">Reading </a>event, where she’ll be discussing <em>“How Disney &amp; Science don’t always go hand in hand”.</em></p>
 <div class="entry-content">
 <p style="text-align: justify;"><em>SS: Joanna, how did you get to your current position?</em></p>
@@ -58,21 +61,25 @@
 <p style="text-align: justify;">JB: I have a dilemma here. The optimistic advice would be: believe in what you do, be kind to everyone, and build a supportive contact network around you. The truly heartfelt (although painful) advice would be: find a rich husband/wife, prepare for an extremely competitive environment with very little money to go around, and always have an escape plan. I know the second set sounds incredibly harsh, but when I look back at my academic career, I wish someone had given me a reality check like this – not to put me down, but to really allow me to prepare myself for any worst case scenarios.</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Reading town centre to host Speaker&#8217;s Corner style science talks</title>
 		<link>/2016/06/30/reading-town-centre-to-host-speakers-corner-style-science-talks/</link>
-		<pubDate>Thu, 30 Jun 2016 19:39:58 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2016 19:39:58 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[Disney]]></category>
 		<category><![CDATA[science communication]]></category>
 		<category><![CDATA[Soapbox Science]]></category>
 		<category><![CDATA[women in STEM]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1547</guid>
-		<description><![CDATA[An advert for Soapbox Science on getreading.co.uk Take a look at some of these fascinating facts you could learn about at the Reading town centre event Would you let a zoologist tell you the truth about the animals in Disney films? Warning: you might not be able to watch them...]]></description>
-				<content:encoded><![CDATA[<div id="row1" class="tmRow span-15-5 col-1 article-page">
+
+					<description><![CDATA[An advert for Soapbox Science on getreading.co.uk Take a look at some of these fascinating facts you could learn about at the Reading town centre event Would you let a zoologist tell you the truth about the animals in Disney films? Warning: you might not be able to watch them...]]></description>
+										<content:encoded><![CDATA[<div id="row1" class="tmRow span-15-5 col-1 article-page">
 <div class="tmCol article">
 <div class="lead-text">
 <p><em>An advert for Soapbox Science on <a href="https://www.getreading.co.uk/whats-on/whats-on-news/reading-town-centre-host-speakers-11546198">getreading.co.uk</a></em></p>
@@ -103,7 +110,7 @@
 <li>Palm oil is found in about 50 per cent of all packaged supermarket products, from your peanut butter to your soap.</li>
 <li>14 out of the 18 different species of bat species found in the UK have been recorded in Berkshire and South Buckinghamshire.</li>
 </ol>
-<figure class="inline-image clearfix "><img title="There are currently 18 species of bat living in the UK." src="https://i2.getreading.co.uk/incoming/article10058201.ece/ALTERNATES/s615b/bat.jpg" alt="" width="615" height="307" /><figcaption>There are currently 18 species of bat living in the UK.</figcaption></figure>
+<figure class="inline-image clearfix "><img loading="lazy" title="There are currently 18 species of bat living in the UK." src="https://i2.getreading.co.uk/incoming/article10058201.ece/ALTERNATES/s615b/bat.jpg" alt="" width="615" height="307" /><figcaption>There are currently 18 species of bat living in the UK.</figcaption></figure>
 <h3>The programme for the day:</h3>
 <ul>
 <li>Dr. Emily Lines, Queen Mary University of London &#8211; Forecasting the future of forests</li>
@@ -123,22 +130,26 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Open season for female scientists</title>
 		<link>/2015/07/28/open-season-for-female-scientists/</link>
-		<pubDate>Tue, 28 Jul 2015 22:03:45 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2015 22:03:45 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[My writing]]></category>
 		<category><![CDATA[gender]]></category>
 		<category><![CDATA[sexism]]></category>
 		<category><![CDATA[Soapbox Science]]></category>
 		<category><![CDATA[women in STEM]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1281</guid>
-		<description><![CDATA[My post on the Soapbox Science blog Because I’m a zoologist working in a rather gender-balanced and female-friendly environment, I have for a long time thought that the discrimination of women in STEM is a largely exaggerated problem. But then it hit me with the force of a charging elephant (the...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>My post on the <a href="https://soapboxscience.org/?p=2209">Soapbox Science blog</a></em></p>
+
+					<description><![CDATA[My&#160;post on the Soapbox Science blog Because I’m a zoologist working in a rather gender-balanced and female-friendly environment, I have for a long time thought that the discrimination of women in STEM is a largely exaggerated problem. But then it hit me with the force of a charging elephant (the...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>My&nbsp;post on the <a href="https://soapboxscience.org/?p=2209">Soapbox Science blog</a></em></p>
 <p style="text-align: justify;">Because I’m a zoologist working in a rather gender-balanced and female-friendly environment, I have for a long time thought that the discrimination of women in STEM is a largely exaggerated problem. But then it hit me with the force of a charging elephant (the one that’s in the room).</p>
 <p style="text-align: justify;"><span id="more-1281"></span>A couple of years ago I found myself at an engineering conference, eager to develop collaborations for a biotelemetry project. My enthusiasm for networking was, however, curbed very quickly – to be precise, at the point when the organisers gave “a warm welcome to the engineers and the beautiful ladies”. From then on things went downhill. The conference crowd consisted mainly of middle-aged, moustached men who insisted on telling me to “smile”, while asking my male colleagues about the details of their projects. They posed for pictures with me, as if I were a Disneyland mascot. During lunch some said that they would like to sit opposite my female friend and me because “such a great sight whets their appetites”. Have I said something ditzy to encourage this attitude? No – I have not even had a chance to open my mouth before the judgment was passed: a young and pretty female surely can’t be competent.</p>
 <p style="text-align: justify;">To be honest, they were not trying to be sexist – they were simply trying to be nice. Well, it is nice to be complimented, but there’s a time and a place for everything. If I wanted to be noticed for my looks alone, I would have completed a four day make-up course, and not a four year PhD. Plus, I don’t mind a bus driver calling me “my love” in passing, but I do mind when a conference participant calls me that, while simultaneously addressing my male colleague as “Dr Smith”. This, incidentally, is notorious in panel discussions, when the chair switches between “and now we will hear from Dr William Jones” and “would you like to add anything to that, Suzie?”.</p>
@@ -146,6 +157,9 @@
 <p style="text-align: justify;">Worryingly, the response from a lot of colleagues, to whom I told the stories later, was “oh well, you’ll turn fifty and then you’ll miss these behaviours; treat them as flattery; lap them up while you’re young”.</p>
 <p style="text-align: justify;">This text is not meant to be a generic rant against mankind – most men I know are lovely and supportive, and, in fact, some have had similarly traumatic experiences with predatory cougars. It’s an appeal, to both men and women, for professionalism. Don’t take advantage of others; don’t use your status to intimidate or bully; if you witness sexism – call people out on it. It’s a plea to those high up on the academic ladder – show support to the newbies, they are most vulnerable to abuse and less likely to stand up for themselves for the fear of burning key bridges in their career. It’s not rocket science, just basic human decency – but if all of these points were obvious to everyone, the two conferences I described would have been a much better experience for all.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

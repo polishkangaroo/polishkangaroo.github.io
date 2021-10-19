@@ -12,11 +12,13 @@
 	<atom:link href="/tag/czworka/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 11:51:00 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,19 @@
 	<item>
 		<title>Pszczoły szukają narkotyków? &#8220;Są w tym lepsze od psów&#8221;</title>
 		<link>/2014/07/10/pszczoly-szukaja-narkotykow-sa-w-tym-lepsze-od-psow/</link>
-		<pubDate>Thu, 10 Jul 2014 19:12:18 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2014 19:12:18 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[Czwórka]]></category>
 		<category><![CDATA[Polskie Radio]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[radio]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1617</guid>
-		<description><![CDATA[Rozmowa z Olgą Mickiewicz w audycji &#8220;Na cztery ręce&#8221; w radiowej Czwórce Pszczoła en face/źr.wikimedia.commons/fot.SdroegeFoto: wikimedia.commons/fot.Sdroege &#8211; Pszczoły mają niesamowity węch, a poza tym bardzo lubią cukier &#8211; tłumaczy w Czwórce dr Joanna Bagniewska, zwyciężczyni tegorocznej polskiej edycji konkurs FameLab i laureatka międzynarodowego finału. &#8211; Można to wykorzystać, by pomagały ludziom...]]></description>
-				<content:encoded><![CDATA[<header class="no-border">
+
+					<description><![CDATA[Rozmowa z Olgą Mickiewicz w audycji &#8220;Na cztery ręce&#8221; w radiowej Czwórce Pszczoła en face/źr.wikimedia.commons/fot.SdroegeFoto: wikimedia.commons/fot.Sdroege &#8211; Pszczoły mają niesamowity węch, a poza tym bardzo lubią cukier &#8211; tłumaczy w Czwórce dr Joanna Bagniewska, zwyciężczyni tegorocznej polskiej edycji konkurs FameLab i laureatka międzynarodowego finału. &#8211; Można to wykorzystać, by pomagały ludziom...]]></description>
+										<content:encoded><![CDATA[<header class="no-border">
 <div class="desc" style="text-align: justify;"><em>Rozmowa z Olgą Mickiewicz w audycji &#8220;<a href="https://www.polskieradio.pl/10/601/Artykul/1174096,Pszczoly-szukaja-narkotykow-Sa-w-tym-lepsze-od-psow">Na cztery ręce</a>&#8221; w radiowej Czwórce</em></div>
 <div class="desc" style="text-align: justify;">
 <div class="imageOnLayer"><img id="imgArticleMain" class="NoRightBtn" src="https://static.prsa.pl/images/b559b8bf-513c-4753-b991-0d3373b66ad7.jpg" alt="Pszczoła en faceźr.wikimedia.commonsfot.Sdroege" /></div>
@@ -61,6 +64,9 @@
 <p style="text-align: justify;"><strong>Zapraszamy do wysłuchania nagrania całej rozmowy z dr Joanną Bagniewską w audycji<a href="https://www.polskieradio.pl/10/Audycja/7539" target="_blank" rel="noopener">&#8220;Na cztery ręce&#8221; </a>.</strong></p>
 <p style="text-align: justify;">Dr Joanna Bagniewska jest zoologiem. Jej doktorat na Uniwersytecie Oksfordzkim dotyczył biotelemetrii, czyli dyskretnego podglądania prywatnego życia dzikich zwierząt. Dotychczas prowadziła badania na kretoszczurach w Teksasie, wombatach w Australii i szakalach oraz lisach w RPA, a także norkach w Wielkiej Brytanii. Obecnie wykłada ekologię i bioróżnorodność na Nottingham Trent University.  Jest założycielką Federacji Polskich Stowarzyszeń Studenckich w UK.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

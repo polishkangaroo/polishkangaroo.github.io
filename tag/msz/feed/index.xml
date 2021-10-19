@@ -12,11 +12,13 @@
 	<atom:link href="/tag/msz/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Oct 2021 20:58:03 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,19 +30,19 @@
 	<item>
 		<title>Finalistka kampanii #Polka100</title>
 		<link>/2018/03/11/finalistka-kampanii-polka100/</link>
-		<pubDate>Sun, 11 Mar 2018 11:48:06 +0000</pubDate>
+		
 		<dc:creator><![CDATA[blu]]></dc:creator>
+		<pubDate>Sun, 11 Mar 2018 11:48:06 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[#Polka100]]></category>
 		<category><![CDATA[MSZ]]></category>
 		<category><![CDATA[Polki]]></category>
-
 		<guid isPermaLink="false">/?p=2506</guid>
-		<description><![CDATA[Mój profil w kampanii #Polka100 na stronie Ambasady RP w Londynie &#124; &#8220;Mama zawsze tłumaczyła mi, żeby zawsze się za granicą zachowywać tak, jakbym była pierwszą Polką, którą moi koledzy i koleżanki kiedykolwiek poznają, bo Polskę ocenią przez pryzmat mojego zachowania.&#8221; &#160; Tak wyszło, że przez większą część swojego życia...]]></description>
-				<content:encoded><![CDATA[<div class="Description whiteBorder seq2 whiteBorderSeries">
+
+					<description><![CDATA[Mój profil w kampanii #Polka100 na stronie Ambasady RP w Londynie &#124; &#8220;Mama zawsze tłumaczyła mi, żeby zawsze się za granicą zachowywać tak, jakbym była pierwszą Polką, którą moi koledzy i koleżanki kiedykolwiek poznają, bo Polskę ocenią przez pryzmat mojego zachowania.&#8221; &#160; Tak wyszło, że przez większą część swojego życia...]]></description>
+										<content:encoded><![CDATA[<div class="Description whiteBorder seq2 whiteBorderSeries">
 <div id="PDescriptionP380446P58488" class="content">
 <div class="bodyPortlet">
 <div>
@@ -83,6 +85,9 @@ Moja praca jest bezpośrednim wykorzystaniem doświadczenia i umiejętności mó
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

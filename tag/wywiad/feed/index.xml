@@ -12,11 +12,13 @@
 	<atom:link href="/tag/wywiad/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Jun 2018 22:19:52 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,19 @@
 	<item>
 		<title>Okrutny biznes</title>
 		<link>/2017/08/21/okrutny-biznes/</link>
-		<pubDate>Mon, 21 Aug 2017 21:02:43 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 21 Aug 2017 21:02:43 +0000</pubDate>
 				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[turystyka]]></category>
 		<category><![CDATA[Tygodnik Powszechny]]></category>
 		<category><![CDATA[wywiad]]></category>
 		<category><![CDATA[zwierzęta]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1749</guid>
-		<description><![CDATA[Mój artykuł w Tygodniku Powszechnym &#124; Tom Moorhouse, zoolog z Oksfordu: Turysta nie zastanawia się szczególnie nad losem zwierząt. Myśli, że „gdyby coś było nie tak, toby na to nie pozwolono”. &#8230; JOANNA BAGNIEWSKA: Dlaczego tak trudno zbadać, w jaki sposób poszczególne atrakcje oddziałują na gatunki? TOM MOORHOUSE: Od kilku lat popularne...]]></description>
-				<content:encoded><![CDATA[<div class="panel-pane pane-views pane-full-article-limited">
+
+					<description><![CDATA[Mój artykuł w Tygodniku Powszechnym &#124; Tom Moorhouse, zoolog z Oksfordu: Turysta nie zastanawia się szczególnie nad losem zwierząt. Myśli, że „gdyby coś było nie tak, toby na to nie pozwolono”. &#8230; JOANNA BAGNIEWSKA: Dlaczego tak trudno zbadać, w jaki sposób poszczególne atrakcje oddziałują na gatunki? TOM MOORHOUSE: Od kilku lat popularne...]]></description>
+										<content:encoded><![CDATA[<div class="panel-pane pane-views pane-full-article-limited">
 <div class="pane-content">
 <div class="view view-full-article-limited view-id-full_article_limited view-display-id-page view-full-article view-dom-id-f0b0be19523106a2c63431aafe3e80ac">
 <div class="view-content">
@@ -69,23 +72,27 @@
 <div class="pane-content" style="text-align: justify;"></div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Bliskość natury mamy w naturze</title>
 		<link>/2016/10/29/bliskosc-natury-mamy-w-naturze/</link>
-		<pubDate>Sat, 29 Oct 2016 22:59:35 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2016 22:59:35 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[Kongres Obywatelski]]></category>
 		<category><![CDATA[NaTemat.pl]]></category>
 		<category><![CDATA[przyroda]]></category>
 		<category><![CDATA[wywiad]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1639</guid>
-		<description><![CDATA[Wywiad Małgorzaty Remisiewicz dla Kongresu Obywatelskiego na NaTemat.pl &#124; „Pojedźmy do lasów, do gór” – śpiewa na najnowszej płycie Hey. O źródłach tej tęsknoty za naturą i powodach, dla których kontakt z przyrodą czyni nas dojrzalszymi, mówi w wywiadzie zapowiadającym XI Kongres Obywatelski dr Joanna Bagniewska, zoolożka i popularyzatorka nauki, wykładowca...]]></description>
-				<content:encoded><![CDATA[<div class="views-field views-field-field-summary">
+
+					<description><![CDATA[Wywiad Małgorzaty Remisiewicz dla Kongresu Obywatelskiego na NaTemat.pl &#124; „Pojedźmy do lasów, do gór” – śpiewa na najnowszej płycie Hey. O źródłach tej tęsknoty za naturą i powodach, dla których kontakt z przyrodą czyni nas dojrzalszymi, mówi w wywiadzie zapowiadającym XI Kongres Obywatelski dr Joanna Bagniewska, zoolożka i popularyzatorka nauki, wykładowca...]]></description>
+										<content:encoded><![CDATA[<div class="views-field views-field-field-summary">
 <div class="field-content" style="text-align: justify;"><em>Wywiad Małgorzaty Remisiewicz dla <a href="https://obywatelski.natemat.pl/191129,bliskosc-natury-mamy-w-naturze">Kongresu Obywatelskiego na NaTemat.pl</a></em><a href="https://obywatelski.natemat.pl/191129,bliskosc-natury-mamy-w-naturze"> </a><a href="https://obywatelski.natemat.pl/191129,bliskosc-natury-mamy-w-naturze">|</a></div>
 <div class="views-field views-field-field-zdjecia-2" style="text-align: justify;">
 <div class="field-content in_thumb"></div>
@@ -132,6 +139,9 @@ Czy polska przyroda rzeczywiście jest fenomenem, czy raczej chcemy ją taką wi
 <p>Więcej informacji na <strong><a href="https://www.kongresobywatelski.pl/" target="_blank" rel="nofollow noopener">www.kongresobywatelski.pl</a></strong> i na <strong><a href="https://www.facebook.com/KongresObywatelski/" target="_blank" rel="nofollow noopener">Facebooku</a></strong></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

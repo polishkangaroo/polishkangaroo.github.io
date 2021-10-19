@@ -12,11 +12,13 @@
 	<atom:link href="/tag/polacy-w-uk/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 11:51:56 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>Pytanie na śniadanie &#8211; wywiad</title>
 		<link>/2016/08/27/pytanie-na-sniadanie-wywiad/</link>
-		<pubDate>Sat, 27 Aug 2016 21:19:35 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sat, 27 Aug 2016 21:19:35 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Brexit]]></category>
@@ -37,27 +40,31 @@
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Pytanie na Śniadanie]]></category>
 		<category><![CDATA[TVP]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1568</guid>
-		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie.]]></description>
-				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="https://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>.</p>
+
+					<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie.]]></description>
+										<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="https://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Brytyjscy uczeni są zrozpaczeni Brexitem</title>
 		<link>/2016/07/10/brytyjscy-uczeni-sa-zrozpaczeni-brexitem/</link>
-		<pubDate>Sun, 10 Jul 2016 20:35:24 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 10 Jul 2016 20:35:24 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[badania]]></category>
 		<category><![CDATA[Brexit]]></category>
 		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1511</guid>
-		<description><![CDATA[Piotr Cieśliński,Tomasz Ulanowski &#8211; Gazeta Wyborcza Stephen Hawking podczas gali BAFTA Film Awards w Londynie (STEPHEN LOCK / EAST NEWS) Co oznacza Brexit dla brytyjskiej nauki? Znikną miliardy funtów na badania, wyschnie dopływ nowych talentów, osłabnie wymiana naukowa. Kiedy w marcu tygodnik &#8220;Nature&#8221; przeprowadził sondaż wśród przeszło 2 tys. brytyjskich...]]></description>
-				<content:encoded><![CDATA[<div id="top_wrap">
+
+					<description><![CDATA[Piotr Cieśliński,Tomasz Ulanowski &#8211; Gazeta Wyborcza Stephen Hawking podczas gali BAFTA Film Awards w Londynie (STEPHEN LOCK / EAST NEWS) Co oznacza Brexit dla brytyjskiej nauki? Znikną miliardy funtów na badania, wyschnie dopływ nowych talentów, osłabnie wymiana naukowa. Kiedy w marcu tygodnik &#8220;Nature&#8221; przeprowadził sondaż wśród przeszło 2 tys. brytyjskich...]]></description>
+										<content:encoded><![CDATA[<div id="top_wrap">
 <div id="holder_101" class="holder_top">
 <p style="text-align: justify;"><em>Piotr Cieśliński,Tomasz Ulanowski &#8211;<a href="https://wyborcza.pl/1,75400,20355639,brytyjscy-uczeni-sa-zrozpaczeni-brexitem.html"> Gazeta Wyborcza</a></em></p>
 </div>
@@ -101,22 +108,26 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>W wyniku Brexitu ucierpi nauka</title>
 		<link>/2016/07/10/w-wyniku-brexitu-ucierpi-nauka/</link>
-		<pubDate>Sun, 10 Jul 2016 20:12:29 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Społeczeństwo]]></category>
+		<pubDate>Sun, 10 Jul 2016 20:12:29 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[badania]]></category>
 		<category><![CDATA[Brexit]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1491</guid>
-		<description><![CDATA[Wypowiedź dla Magdaleny Grzymkowskiej &#8211; Tydzień Polski   Dr Joanna Bagniewska, University of Reading Do nauki potrzeba dwóch rzeczy: po pierwsze współpracy, po drugie pieniędzy. Badania można prowadzić we własnym zakresie, ale na naukę wysokiej jakości potrzeba dość znacznych środków. Do tej pory Unia zapewniała zarówno warunki do współpracy międzynarodowej,...]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"></div>
+
+					<description><![CDATA[Wypowiedź dla Magdaleny Grzymkowskiej &#8211; Tydzień Polski   Dr Joanna Bagniewska, University of Reading Do nauki potrzeba dwóch rzeczy: po pierwsze współpracy, po drugie pieniędzy. Badania można prowadzić we własnym zakresie, ale na naukę wysokiej jakości potrzeba dość znacznych środków. Do tej pory Unia zapewniała zarówno warunki do współpracy międzynarodowej,...]]></description>
+										<content:encoded><![CDATA[<div style="text-align: justify;"></div>
 <div id="header" style="text-align: justify;"><em>Wypowiedź dla Magdaleny Grzymkowskiej &#8211; <a href="https://www.tydzien.co.uk/artykuly/2016/07/08/37654/">Tydzień Polski</a></em></div>
 <div style="text-align: justify;"><a href="https://www.tydzien.co.uk/"><img class="logo" src="https://www.tydzien.co.uk/_img/dp_logo.png" alt="Tydzień Polski" border="0" /></a></div>
 <div id="middle">
@@ -135,7 +146,7 @@
 </div>
 <p><span id="more-1491"></span></p>
 <div class="img size-medium wp-image-37655 alignright" style="text-align: justify;">
-<p><a href="https://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska.jpg" rel="attachment wp-att-37655"><img src="https://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska-190x300.jpg" alt="Dr Joanna Bagniewska" width="190" height="300" /></a></p>
+<p><a href="https://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska.jpg" rel="attachment wp-att-37655"><img loading="lazy" src="https://www.tydzien.co.uk/media/2016/07/Dr-Joanna-Bagniewska-190x300.jpg" alt="Dr Joanna Bagniewska" width="190" height="300" /></a></p>
 <div>Dr Joanna Bagniewska</div>
 </div>
 <p>Z drugiej strony mamy kwestie współpracy międzynarodowej. Staje się ona dużo łatwiejsza, jeżeli ma się jedną centralną organizację przyznającą granty. Szanse na zdobycie grantu to ok. 20%. Jeśli o dofinansowanie stara się wspólnie grupa brytyjska i francuska, to w tej chwili składają podanie razem. Gdyby ubiegały się o fundusze osobno, od własnych rządów, szanse na wspólny projekt by zmalały (prawdopodobieństwo zdobycia obu grantów to 0.2*0.2=0.04, czyli 4%). W tym momencie UE poświęca tylko 7% swojego budżetu na badania i rozwój na inicjatywy poza granicami Unii. Wątpię, aby zrobiła wyjątek na rzecz Wielkiej Brytanii.</p>
@@ -143,12 +154,16 @@
 <p style="text-align: justify;">Uniwersytety takie jak Oxford, Cambridge, czy LSE prawdopodobnie nie ucierpią. Ale co będzie z mniej prestiżowymi uczelniami? Ze względu na podwyższone koszty mniej osób z krajów europejskich będzie chciało przyjechać. Trzeba będzie „dopchnąć” miejsca na uniwersytetach studentami z Wielkiej Brytanii, którzy normalnie na te uczelnie by się nie dostali, co spowoduje obniżenie poziomu. Z drugiej strony, rakingi uniwersyteckie opierają się na poziomie badań – jeśli na badania nie ma pieniędzy, to uniwersytet spada w rankingu. University of Reading szczyci się byciem „jednym z 200 najlepszych uniwersytetów na świecie”, dzięki czemu przyciąga studentów spoza Europy – kraje takie jak Malezja albo Arabia Saudyjska płacą stypendia za naukę na topowych uczelniach światowych. Jeśli uniwersytety wypadną poza pierwszą dwusetkę, trudniej im będzie przyciągnąć studentów z całego świata.</p>
 <p style="text-align: justify;">Jeżeli chodzi o konkretne przykłady: jeden z moich kolegów naukowców starał się o założenie centrum szkolenia dla doktorantów. Wszystko szło bardzo dobrze, mieli zapewnionych sponsorów. Kilka dni temu firma duńska, która miała sponsorować lwią część tego centrum, wycofała się ze wszystkich ustaleń jako powód podając Brexit. Inny znajomy rozważa przeniesienie się do Szwecji. Nawet ja wraz z moim mężem Australijczykiem zaczęliśmy brać pod uwagę wyjazd do Niemiec lub Polski.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Z laboratorium pod strzechy</title>
 		<link>/2015/08/24/z-laboratorium-pod-strzechy/</link>
-		<pubDate>Mon, 24 Aug 2015 22:48:51 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2015 22:48:51 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -157,10 +172,10 @@
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[Science. Polish Perspectives]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1317</guid>
-		<description><![CDATA[Artykuł Magdaleny Grzymkowskiej w Tygodniu Polskim dr Bagniewska z nagrodą Dziennika Mam na imię Joanna. Niech to wystarczy, bo i tak nie jesteście w stanie wymówić mojego nazwiska. Jestem Polką. Przyjechałam do tego pięknego kraju jakieś 8 lat temu. Jestem zoologiem i zrobiłam w tej dziedzinie doktorat, bo w sumie czemu...]]></description>
-				<content:encoded><![CDATA[<p style="text-align:justify;"><em>Artykuł Magdaleny Grzymkowskiej w <a href="https://www.dziennikpolski.co.uk/artykuly/2015/08/16/z-laboratorium-pod-strzechy/">Tygodniu Polskim</a></em></p>
+
+					<description><![CDATA[Artykuł Magdaleny Grzymkowskiej w Tygodniu Polskim dr Bagniewska z nagrodą Dziennika Mam na imię Joanna. Niech to wystarczy, bo i tak nie jesteście w stanie wymówić mojego nazwiska. Jestem Polką. Przyjechałam do tego pięknego kraju jakieś 8 lat temu. Jestem zoologiem i zrobiłam w tej dziedzinie doktorat, bo w sumie czemu...]]></description>
+										<content:encoded><![CDATA[<p style="text-align:justify;"><em>Artykuł Magdaleny Grzymkowskiej w <a href="https://www.dziennikpolski.co.uk/artykuly/2015/08/16/z-laboratorium-pod-strzechy/">Tygodniu Polskim</a></em></p>
 <p style="text-align:justify;"><a href="https://www.dziennikpolski.co.uk/"><img class="logo" src="https://www.dziennikpolski.co.uk/_img/dp_logo.png" alt="Dziennik Polski" border="0" /></a></p>
 <div id="white_space" style="text-align:justify;"></div>
 <div id="middle">
@@ -168,7 +183,7 @@
 <div class="single">
 <div class="content">
 <div class="img wp-image-34384 alignright" style="text-align:justify;">
-<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n.jpg"><img src="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n-600x948.jpg" alt="dr Bagniewska z nagrodą Dziennika" width="360" height="569" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2015/08/11748633_614512267432_1256913040_n-600x948.jpg" alt="dr Bagniewska z nagrodą Dziennika" width="360" height="569" /></a></p>
 <div>dr Bagniewska z nagrodą Dziennika</div>
 </div>
 <p style="text-align:justify;">Mam na imię Joanna. Niech to wystarczy, bo i tak nie jesteście w stanie wymówić mojego nazwiska. Jestem Polką. Przyjechałam do tego pięknego kraju jakieś 8 lat temu. Jestem zoologiem i zrobiłam w tej dziedzinie doktorat, bo w sumie czemu nie? A następnie, jak każdy szanujący się imigrant, zaczęłam kraść wam pracę. Lub raczej 15 procent tej najgorszej pracy, której nikt nie chce wykonywać – od takich słów Joanna Bagniewska rozpoczyna swój występ podczas naukowo-komediowego wieczoru w Bright Club w Oksfordzie, na którym badacze dzielą się wiedzą w konwencji stand-up comedy.</p>
@@ -189,7 +204,7 @@
 <p style="text-align:justify;">Ledwo wróci ze swoich wojaży do pracy na Uniwersytecie w Reading, a już zaczynają się przygotowania do konferencji Science. Polish Perspectives w Cambridge. To duże popularno-naukowe wydarzenie, które ma już wypracowaną markę na Wyspach. Skupia młodych badaczy nauk przyrodniczych, matematyczno-fizycznych i ekonomicznych. To idea, społeczność i platforma, której celem jest szeroko pojęta popularyzacja nauki, wymiana myśli i umocnienie współpracy między polskimi naukowcami pracującymi w różnych krajach. To także niezwykła okazja do wymiany doświadczeń oraz zawiązywania relacji, w wyniku których w przyszłości mogą zawiązać się ciekawe interdyscyplinarne projekty.</p>
 <p style="text-align:justify;">Inicjatorami konferencji byli w 2012 roku Krzysztof Bar z Oxfordu (mechanika kwantowa) oraz Tomasz Cebo (nanotechnologia) i Magda Richter (biologia molekularna) z Cambridge, którzy postanowili zorganizować spotkanie polskich naukowców. Czwarta edycja SPP rozpocznie się 31 października i niedługo ruszy rejestracja przez internet. Jej organizatorzy chcą pokazać, że nauka jest ciekawa i warto kreować jej dobry wizerunek z myślą o kolejnych pokoleniach młodych, utalentowanych ludzi.</p>
 <div class="img alignleft size-medium wp-image-34382" style="text-align:justify;">
-<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/41.jpg"><img class="alignleft" src="https://www.dziennikpolski.co.uk/media/2015/08/41-300x284.jpg" alt="&quot;Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy&quot;, mówi polska zoolog." width="300" height="284" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2015/08/41.jpg"><img loading="lazy" class="alignleft" src="https://www.dziennikpolski.co.uk/media/2015/08/41-300x284.jpg" alt="&quot;Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy&quot;, mówi polska zoolog." width="300" height="284" /></a></p>
 <div>&#8220;Każdemu naukowcowi dobrze zrobi wyjście ze swojej strefy komfortu. Z laboratorium – pod strzechy&#8221;, mówi polska zoolog.</div>
 </div>
 <p>Joanna współpracuje z kilkunastoosobowym zespołem rozsianym po całym Zjednoczonym Królestwie. Jest nawet jedna osoba z Belgii. Wszystkie ustalenia odbywają się drogą elektroniczną, przez  Skype’a i maile.</p>
@@ -201,7 +216,7 @@
 <p style="text-align:justify;">– To było bardzo budujące, że nie wszyscy mieli tak przechlapane jak ja. Do tej pory nie próbowałam wracać ponownie, ale teraz wiem, że gdybym chciała wrócić do środowiska popularyzatorów nauki, to nie byłoby trudne w Polsce, a może nawet mogłabym mieć lepszą karierę niż tu, ponieważ na Wyspach rynek popularyzatorski jest już przesycony – podkreśla.</p>
 <p style="text-align:justify;">Dr Bagniewska jest utytułowanym naukowcem. Ostatnio za swoją działalność społecznikowską otrzymała Honorową Nagrodę „Dziennika Polskiego”.</p>
 <div class="img alignright size-medium wp-image-34383" style="text-align:justify;">
-<p><img src="https://www.dziennikpolski.co.uk/media/2015/08/406715_303179809780107_475877317_n-300x198.jpg" alt="dr Bagniewska ze studentami na wycieczce w Londynie" width="300" height="198" /></p>
+<p><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2015/08/406715_303179809780107_475877317_n-300x198.jpg" alt="dr Bagniewska ze studentami na wycieczce w Londynie" width="300" height="198" /></p>
 <div>dr Bagniewska ze studentami na wycieczce w Londynie</div>
 </div>
 <p style="text-align:justify;">– To jest bardzo miłe, ale przede wszystkim motywuje do dalszej pracy, bo to oznacza, że ta praca jest zauważana przez innych. Z drugiej strony podczas mojego doktoratu starałam się zwiększyć swoje szanse na zatrudnienie poprzez robienie różnych rzeczy. I zawsze jak mi ktoś coś proponował, czy wyjazd na konferencję, czy jakąś pracę dorywczą, ja zawsze mówiłam „tak”. A kilka miesięcy temu nagle tych ofert zaczęło przychodzić tyle, że musiałam zacząć odmawiać. Nie bardzo mogę się jeszcze w tym odnaleźć i trochę żałuję, że nie mogę być już wszędzie.</p>
@@ -216,24 +231,28 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Gala Wybitny Polak 2015</title>
 		<link>/2015/07/07/gala-wybitny-polak-2015/</link>
-		<pubDate>Tue, 07 Jul 2015 18:40:40 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2015 18:40:40 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[PANGEA]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polacy za granicą]]></category>
 		<category><![CDATA[Polish City Club]]></category>
 		<category><![CDATA[Polonia]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1091</guid>
-		<description><![CDATA[Tekst ze strony Ambasady RP w Londynie Ambasador Witold Sobków wziął udział w gali przyznania nagród w konkursie “Wybitny Polak” adresowanym do liderów polonijnych. Konkurs Wybitny Polak odbywa sie w wielu krajach świata od 6 lat. W Wielkiej Brytanii został zorganizowany po raz pierwszy dzięki inicjatywie londyńskiego Polish City Club...]]></description>
-				<content:encoded><![CDATA[<div class="Title whiteBorder seq2 whiteBorderSeries">
+
+					<description><![CDATA[Tekst ze strony Ambasady RP w Londynie Ambasador Witold Sobków wziął udział w gali przyznania nagród w konkursie “Wybitny Polak” adresowanym do liderów polonijnych. Konkurs Wybitny Polak odbywa sie w wielu krajach świata od 6 lat. W Wielkiej Brytanii został zorganizowany po raz pierwszy dzięki inicjatywie londyńskiego Polish City Club...]]></description>
+										<content:encoded><![CDATA[<div class="Title whiteBorder seq2 whiteBorderSeries">
 <div id="PTitleP288849P34427" class="content">
 <div class="whiteBarBg">
 <div class="floatA colorC" style="text-align: justify;"><em>Tekst ze strony <a href="https://www.londyn.msz.gov.pl/pl/aktualnosci/gala_wybitny_polak_2015;jsessionid=A6FFF200AB3C8B3887D4FEF8C1960129.cmsap6p">Ambasady RP w Londynie</a></em></div>
@@ -280,23 +299,27 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Ambasadorka Polski w Wielkiej Brytanii</title>
 		<link>/2015/07/04/ambasadorka-polski-w-wielkiej-brytanii/</link>
-		<pubDate>Sat, 04 Jul 2015 16:14:48 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Po polsku]]></category>
+		<pubDate>Sat, 04 Jul 2015 16:14:48 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
+		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Radio]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polonia]]></category>
 		<category><![CDATA[Polskie Radio]]></category>
 		<category><![CDATA[radio]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1083</guid>
-		<description><![CDATA[Rozmowa w Polskim Radiu dla Zagranicy  Dr Joanna Bagniewska &#8211; wybitny ekolog, zoolog i biolog &#8211; to także znakomita promotorka polskiej nauki na świecie. Wykładowczyni na brytyjskich uniwersytetach, absolwentka Szkoły Liderów Polonijnych, swoimi dokonaniami udowodniła, że młoda polska uczona może z powodzeniem prowadzić badania naukowe w Wielkiej Brytanii, Nowej Zelandii...]]></description>
-				<content:encoded><![CDATA[<p><span id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_FirstColumn_A_ctl01_lblLead"></span><em><a href="https://www.radiozagranica.pl/8/251/Artykul/212417,Ambasadorka-Polski-w-Wielkiej-Brytanii">Rozmowa w Polskim Radiu dla Zagranicy</a> </em></p>
+
+					<description><![CDATA[Rozmowa w Polskim Radiu dla Zagranicy  Dr Joanna Bagniewska &#8211; wybitny ekolog, zoolog i biolog &#8211; to także znakomita promotorka polskiej nauki na świecie. Wykładowczyni na brytyjskich uniwersytetach, absolwentka Szkoły Liderów Polonijnych, swoimi dokonaniami udowodniła, że młoda polska uczona może z powodzeniem prowadzić badania naukowe w Wielkiej Brytanii, Nowej Zelandii...]]></description>
+										<content:encoded><![CDATA[<p><span id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_FirstColumn_A_ctl01_lblLead"></span><em><a href="https://www.radiozagranica.pl/8/251/Artykul/212417,Ambasadorka-Polski-w-Wielkiej-Brytanii">Rozmowa w Polskim Radiu dla Zagranicy</a> </em></p>
 <div class="bArt">
 <p>Dr Joanna Bagniewska &#8211; wybitny ekolog, zoolog i biolog &#8211; to także znakomita promotorka polskiej nauki na świecie.</p>
 <p>Wykładowczyni na brytyjskich uniwersytetach, absolwentka Szkoły Liderów Polonijnych, swoimi dokonaniami udowodniła, że młoda polska uczona może z powodzeniem prowadzić badania naukowe w Wielkiej Brytanii, Nowej Zelandii i Australii.<br />
@@ -304,21 +327,25 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 <p><a href="https://www.radiozagranica.pl/8/251/Artykul/212417,Ambasadorka-Polski-w-Wielkiej-Brytanii">Z dr <strong>Joanną Bagniewską</strong> rozmawia <strong>Maria Wieczorkiewicz</strong>.</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Ci cholerni krwiodawcy</title>
 		<link>/2015/04/21/ci-cholerni-krwiodawcy/</link>
-		<pubDate>Tue, 21 Apr 2015 20:08:01 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[INNPoland]]></category>
-		<category><![CDATA[Moje teksty]]></category>
+		<pubDate>Tue, 21 Apr 2015 20:08:01 +0000</pubDate>
+				<category><![CDATA[Moje teksty]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[INNPoland]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1023</guid>
-		<description><![CDATA[Mój tekst z bloga INNPoland.pl Akcja Bloody Foreigners•Fot. Tomasz Duda Za miesiąc wybory, zarówno w Polsce jak i w Wielkiej Brytanii. Jako Polka mieszkająca od ponad ośmiu lat na Wyspach Brytyjskich znajduję się w dziwnej sytuacji – nie mogę głosować w tutejszych wyborach parlamentarnych (w lokalnych i europejskich owszem, ale...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój tekst z bloga</em> <em><a href="https://joannabagniewska.innpoland.pl/116425,ci-cholerni-krwiodawcy">INNPoland.pl</a></em></p>
+
+					<description><![CDATA[Mój tekst z bloga INNPoland.pl Akcja Bloody Foreigners•Fot. Tomasz Duda Za miesiąc wybory, zarówno w Polsce jak i w Wielkiej Brytanii. Jako Polka mieszkająca od ponad ośmiu lat na Wyspach Brytyjskich znajduję się w dziwnej sytuacji – nie mogę głosować w tutejszych wyborach parlamentarnych (w lokalnych i europejskich owszem, ale...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój tekst z bloga</em> <em><a href="https://joannabagniewska.innpoland.pl/116425,ci-cholerni-krwiodawcy">INNPoland.pl</a></em></p>
 <blockquote class="block pos_inside embed">
 <div class="block-inside style_default">
 <div class="gallery">
@@ -330,12 +357,16 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 <p style="text-align: justify;">Za miesiąc wybory, zarówno w Polsce jak i w Wielkiej Brytanii. Jako Polka mieszkająca od ponad ośmiu lat na Wyspach Brytyjskich znajduję się w dziwnej sytuacji – nie mogę głosować w tutejszych wyborach parlamentarnych (w lokalnych i europejskich owszem, ale to temat na inny wpis), a jednocześnie jestem obiektem jednego z głównych nurtów kampanii wyborczych – imigracji. <span id="more-1023"></span> O imigrantach dyskutują przedstawiciele wszystkich brytyjskich partii politycznych; niestety retoryka w mediach jest oszałamiająco negatywna. Nie docenia się naszego wkładu w brytyjską gospodarkę, straszy się nami brytyjskich obywateli i obwinia się nas o wszystko, od bezrobocia po <a href="https://www.theguardian.com/politics/2014/dec/07/nigel-farage-blames-immigration-m4-traffic-ukip-reception" target="_blank" rel="nofollow noopener">korki na ulicach</a>. Bardzo mnie to boli i dziwi, ponieważ przez cały swój pobyt w tym kraju ani razu nie spotkałam się z dyskryminacją czy choćby nieżyczliwością ze strony Brytyjczyków. Imigranci z UE to jednak politycznie bezpieczny straszak – można się na nich wyżywać do woli, bo w większości nie mają podwójnego obywatelstwa, nie stanowią zatem liczącej się siły w wyborach parlamentarnych. Postanowiliśmy powiedzieć temu „dość” i pokazać się w mediach od innej strony.</p>
 <p style="text-align: justify;">13 kwietnia ruszyła ogólnobrytyjska akcja <a href="https://joannabagniewska.innpoland.pl/bloodyforeigners.org.uk">Bloody Foreigners</a>. Nazwę można przetłumaczyć na dwa sposoby – jako „cholerni obcokrajowcy” (tak się o nas mówi w mediach), lub, dosłownie, „krwawi obcokrajowcy”. Słowo „bloody” wywołało swojego czasu spore kontrowersje, uznawane bowiem było za poważne przekleństwo. W 1914 r. Anglia wstrzymała oddech przed premierą „Pigmaliona”, gdzie miało paść wyrażenie „not bloody likely” z ust Elizy Doolittle – gazety spekulowały, czy grająca ją Mrs Campbell odważy się wymówić tak brzydki wyraz publicznie, na scenie. Odważyła się – ryzykując karierę! – a słowo „bloody” przez dłuższy czas określano eufemistycznie „pygmalion”. Od tego czasu wyraz stracił na wulgarności (w Australii i Stanach jest wręcz na porządku dziennym), aczkolwiek w Wielkiej Brytanii nadal towarzyszy mu dreszczyk sensacji. Nasza akcja odnosi się jednak do bardziej dosłownego znaczenia – zachęcamy imigrantów do oddawania krwi. Chcemy pokazać, bardzo dosłownie, pozytywny wkład imigrantów w społeczeństwo brytyjskie. W końcu krew nie ma narodowości, religii ani koloru skóry. Inicjatorką jest moja wieloletnia koleżanka Joanna Zawadzka z Edynburga, pracująca dla Fife Migrants Forum; dołączyli do niej wolontariusze z całego kraju. Do akcji przyłączają się nie tylko Polacy, mamy odzew z innych grup narodowościowych, a także od Brytyjczyków. Szczególnie ważny był głos młodej Brytyjki pierwszego dnia kampanii – napisała do nas z podziękowaniami, ponieważ sama potrzebowała transfuzji po urodzeniu syna. Podpisała się „bloody local” – „cholerna miejscowa”.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>W awangardzie &#8211; VIII Kongres Polskich Stowarzyszeń Studenckich</title>
 		<link>/2015/03/02/w-awangardzie-viii-kongres-polskich-stowarzyszen-studenckich/</link>
-		<pubDate>Mon, 02 Mar 2015 20:32:17 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2015 20:32:17 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Angora]]></category>
@@ -344,19 +375,23 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polacy za granicą]]></category>
 		<category><![CDATA[polscy studenci]]></category>
-
 		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=876</guid>
-		<description><![CDATA[Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku Angora (pdf tekstu po kliknięciu w link).]]></description>
-				<content:encoded><![CDATA[<p>Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku <em><a href="https://jbagniewska.files.wordpress.com/2015/03/angora_2015-10_77.pdf">Angora</a></em> (pdf tekstu po kliknięciu w link).<span id="more-876"></span></p>
+
+					<description><![CDATA[Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku Angora (pdf tekstu po kliknięciu w link).]]></description>
+										<content:encoded><![CDATA[<p>Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku <em><a href="https://jbagniewska.files.wordpress.com/2015/03/angora_2015-10_77.pdf">Angora</a></em> (pdf tekstu po kliknięciu w link).<span id="more-876"></span></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Ściągnąć mądre głowy do Polski. Wywiad z dr Joanną Bagniewską</title>
 		<link>/2014/10/10/sciagnac-madre-glowy-do-polski-wywiad-z-dr-joanna-bagniewska/</link>
-		<pubDate>Fri, 10 Oct 2014 19:59:59 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
+		<pubDate>Fri, 10 Oct 2014 19:59:59 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
+		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[NaTemat.pl]]></category>
 		<category><![CDATA[naukowcy]]></category>
 		<category><![CDATA[Oksford]]></category>
@@ -364,10 +399,10 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 		<category><![CDATA[polscy studenci w UK]]></category>
 		<category><![CDATA[polska nauka]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=819</guid>
-		<description><![CDATA[Wywiad w NaTemat.pl. O życiu akademickim w Wielkiej Brytanii i o tym, że nie znosi nudy z dr Joanną Bagniewską rozmawia Dorota Goliszewska. Ilu jest ludzi takich jak Pani, którzy przyjechali do Wielkiej Brytanii nie po pracę, ale po wiedzę? W szczytowym okresie na Wyspach uczyło się około 15 tys....]]></description>
-				<content:encoded><![CDATA[<p style="text-align: left;"><a href="https://jbagniewska.files.wordpress.com/2014/10/natemat.png"><img class="aligncenter size-full wp-image-820" src="https://jbagniewska.files.wordpress.com/2014/10/natemat.png" alt="natemat" width="500" height="263" /></a></p>
+
+					<description><![CDATA[Wywiad w NaTemat.pl. O życiu akademickim w Wielkiej Brytanii i o tym, że nie znosi nudy z dr Joanną Bagniewską rozmawia Dorota Goliszewska. Ilu jest ludzi takich jak Pani, którzy przyjechali do Wielkiej Brytanii nie po pracę, ale po wiedzę? W szczytowym okresie na Wyspach uczyło się około 15 tys....]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;"><a href="https://jbagniewska.files.wordpress.com/2014/10/natemat.png"><img loading="lazy" class="aligncenter size-full wp-image-820" src="https://jbagniewska.files.wordpress.com/2014/10/natemat.png" alt="natemat" width="500" height="263" /></a></p>
 <p style="text-align: left;"><em>Wywiad w <a href="https://obywatelski.natemat.pl/119713,sciagnac-madre-glowy-do-polski-wywiad-z-dr-joanna-bagniewska">NaTemat.pl</a>.</em></p>
 <p style="text-align: left;">O życiu akademickim w Wielkiej Brytanii i o tym, że nie znosi nudy z dr Joanną Bagniewską rozmawia Dorota Goliszewska.</p>
 <p style="text-align: left;"><span id="more-819"></span></p>
@@ -392,12 +427,16 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <p>***</p>
 <p>Dr Joanna Bagniewska &#8211; zoolog, wykładowca Nottingham Trent University, laureatka trzeciej polskiej edycji konkursu FameLab. Świeżo upieczona mężatka, dziewczyna, która nie usiedzi w jednym miejscu zbyt długo, zawsze musi być w ruchu, coś organizować.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Niełatwo jest mówić prosto o nauce</title>
 		<link>/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/</link>
-		<pubDate>Mon, 07 Jul 2014 13:50:20 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 07 Jul 2014 13:50:20 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[FameLab]]></category>
@@ -405,10 +444,10 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polska.pl]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/</guid>
-		<description><![CDATA[Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab. Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png"><img class="aligncenter size-full wp-image-739" src="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png" alt="polandgov2" width="500" height="364" /></a></p>
+
+					<description><![CDATA[Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab. Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png"><img loading="lazy" class="aligncenter size-full wp-image-739" src="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png" alt="polandgov2" width="500" height="364" /></a></p>
 <p><strong>Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab.</strong></p>
 <p><span id="more-738"></span>Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w Anglii. Zdobyła tam nagrodę przyznawaną przez laureatów poprzednich edycji FameLab. Celem konkursu jest wyłonienie naukowca z darem krasomówczym, który swoją trzyminutową prezentacją potrafi porwać tłumy. Dr Bagniewskiej się to udało.</p>
 <p><strong>Aleksandra Stanisławska, Polska.pl: Podczas międzynarodowego finału FameLab zdobyła Pani nagrodę przyznawaną przez laureatów poprzednich edycji tego konkursu. To duże wyróżnienie. Czy dotarcie do tak wysokiej lokaty było trudnym zadaniem?</strong></p>
@@ -423,6 +462,9 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <p>Tak, naturalnie! Na razie jednak nie mam sprecyzowanych planów.</p>
 <p>Rozmawiała Aleksandra Stanisławska, <a href="https://www.polska.pl/Nielatwo,jest,mowic,prosto,o,nauce,Kalendarium,5577x4438.html">polska.pl</a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

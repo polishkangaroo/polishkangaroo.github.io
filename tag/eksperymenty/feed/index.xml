@@ -12,11 +12,13 @@
 	<atom:link href="/tag/eksperymenty/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Oct 2021 22:39:54 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,21 +30,22 @@
 	<item>
 		<title>Wyzywają nas od najgorszych, a co tak naprawdę robimy? Jako naukowiec poczułam się wywołana do tablicy</title>
 		<link>/2016/06/01/wyzywaja-nas-od-najgorszych-a-co-tak-naprawde-robimy-jako-naukowiec-poczulam-sie-wywolana-do-tablicy/</link>
-		<pubDate>Wed, 01 Jun 2016 22:06:36 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Gazeta Wyborcza]]></category>
-		<category><![CDATA[Moje teksty]]></category>
+		<pubDate>Wed, 01 Jun 2016 22:06:36 +0000</pubDate>
+				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O mojej pracy]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[ekologia]]></category>
 		<category><![CDATA[eksperymenty]]></category>
 		<category><![CDATA[etyka]]></category>
+		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[zwierzęta laboratoryjne]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1411</guid>
-		<description><![CDATA[Mój tekst w Gazecie Wyborczej  &#124; Hasło &#8220;doświadczenia na zwierzętach&#8221; kojarzy się fatalnie &#8211; w głowie powstaje obraz naukowca-sadysty, który kroi świnki morskie na żywca, aby uzyskać wyniki potrzebne wyłącznie do własnej habilitacji. &#8220;Barbarzyńcy, sadyści udający naukowców, potwory, człowiek, który potrafi skazać zwierzę na takie cierpienie zasługuje tylko na najgorsze,...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój tekst w <a href="https://wyborcza.pl/1,75400,20162494,wyzywaja-nas-od-najgorszych-a-co-tak-naprawde-robimy-jako.html#ixzz4AMrCY12c">Gazecie Wyborczej </a> </em>|</p>
+
+					<description><![CDATA[Mój tekst w Gazecie Wyborczej&#160; &#124; Hasło &#8220;doświadczenia na zwierzętach&#8221; kojarzy się fatalnie &#8211; w głowie powstaje obraz naukowca-sadysty, który kroi świnki morskie na żywca, aby uzyskać wyniki potrzebne wyłącznie do własnej habilitacji. &#8220;Barbarzyńcy, sadyści udający naukowców, potwory, człowiek, który potrafi skazać zwierzę na takie cierpienie zasługuje tylko na najgorsze,...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój tekst w <a href="https://wyborcza.pl/1,75400,20162494,wyzywaja-nas-od-najgorszych-a-co-tak-naprawde-robimy-jako.html#ixzz4AMrCY12c">Gazecie Wyborczej&nbsp;</a> </em>|</p>
 <div id="gazeta_article_lead" style="text-align: justify;"><strong>Hasło &#8220;doświadczenia na zwierzętach&#8221; kojarzy się fatalnie &#8211; w głowie powstaje obraz naukowca-sadysty, który kroi świnki morskie na żywca, aby uzyskać wyniki potrzebne wyłącznie do własnej habilitacji.</strong></div>
 <div style="text-align: justify;"></div>
 <div id="gazeta_article_body" style="text-align: justify;">
@@ -50,7 +53,7 @@
 <div id="article_body">
 <div id="mcBan_2" class="mcBan is-initialized">
 <section id="p_lock" class="v12">
-<header id="p_lock_header">&#8220;Barbarzyńcy, sadyści udający naukowców, potwory, człowiek, który potrafi skazać zwierzę na takie cierpienie zasługuje tylko na najgorsze, oby wyzdychali w męczarniach bandyci&#8221; &#8211; pisze w jednym z internetowych komentarzy Magda M. &#8220;Na tych ch**ach te eksperymenty robić, a nie na niewinnych, bezbronnych zwierzętach&#8221; &#8211; wtóruje Aleksandra S.Jako naukowiec poczułam się wywołana do tablicy. Jestem zoologiem, kocham zwierzęta i bardzo zależy mi na ich dobrostanie. Chciałam zatem wyjaśnić kilka kwestii pojawiających się w mediach przy okazji omawiania doświadczeń na zwierzętach. </header>
+<header id="p_lock_header">&#8220;Barbarzyńcy, sadyści udający naukowców, potwory, człowiek, który potrafi skazać zwierzę na takie cierpienie zasługuje tylko na najgorsze, oby wyzdychali w męczarniach bandyci&#8221; &#8211; pisze w jednym z internetowych komentarzy Magda M. &#8220;Na tych ch**ach te eksperymenty robić, a nie na niewinnych, bezbronnych zwierzętach&#8221; &#8211; wtóruje Aleksandra S.Jako naukowiec poczułam się wywołana do tablicy. Jestem zoologiem, kocham zwierzęta i bardzo zależy mi na ich dobrostanie. Chciałam zatem wyjaśnić kilka kwestii pojawiających się w mediach przy okazji omawiania doświadczeń na zwierzętach.&nbsp;</header>
 </section>
 </div>
 </div>
@@ -79,24 +82,28 @@
 <p>Że będzie można monitorować wpływ wałęsających się kotów i psów na rodzimą faunę. W Polsce psy zabijają rocznie co najmniej 30 tysięcy dzikich zwierząt łownych, takich jak jelenie, sarny, dziki i zające. Potwierdzono także ich drapieżnictwo na małych ssakach i ptakach. W kraju brak ocen liczby zwierząt zabijanych przez koty, jednak badania prowadzone za granicą pokazały, że co roku zabijają one w <a class="external_link" href="https://www.archiwum.wyborcza.pl/archiwum/tag/USA">USA</a> od 1,4 do 3,7 miliarda ptaków i od 6,9 do 20,7 miliarda ssaków, natomiast w Wielkiej Brytanii co najmniej 57 mln ssaków, 27 mln ptaków i 5 mln gadów i płazów. Liczby te dobitnie pokazują, że problem wpływu kotów i psów na faunę jest niezmiernie istotny, nawet w obszarach chronionych, w tym i w parkach narodowych. Badania &#8220;na zwierzętach bezdomnych&#8221; mogą pomóc ocenić wpływ jaki te zwierzęta mają, oraz podjąć działania mające na celu ochronę cietrzewi, saren i wielu innych zwierząt.&#8221;</p>
 <p>Liczba zwierząt wykorzystywanych rocznie w brytyjskich laboratoriach jest mniejsza niż pół procenta tych zabijanych przez brytyjskie koty (a w Polsce zwierząt doświadczalnych jest dwadzieścia razy mniej niż w Wielkiej Brytanii) &#8211; nie mówiąc już o tym, ile zwierząt idzie pod nóż w celach konsumpcyjnych. Poza tym w laboratorium zwierzęta mają wyznaczoną minimalną przestrzeń (nieporównywalnie większą niż kura klatkowa!), określoną temperaturę, żywność, wodę. W dodatku jeśli chodzi o stopień inwazyjności, to w Polsce w 2014 r. na 29012 doświadczeń tych o najwyższym stopniu inwazyjności (stopień X) było 6. Stopień X oznacza np. &#8220;doprowadzanie do śmierci przez zatrucie (np. strychniną)&#8221;. Pomyślmy, ile szczurów zginęło w tym czasie zabitych trutką w naszych domach&#8230;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Czy eksperymenty na zwierzętach są niezbędne?</title>
 		<link>/2015/07/04/czy-eksperymenty-na-zwierzetach-sa-niezbedne/</link>
-		<pubDate>Sat, 04 Jul 2015 15:56:40 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[O zwierzętach]]></category>
+		<pubDate>Sat, 04 Jul 2015 15:56:40 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
+		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Radio]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[Człowiek 2.0]]></category>
 		<category><![CDATA[eksperymenty]]></category>
 		<category><![CDATA[TOK FM]]></category>
 		<category><![CDATA[zwierzęta laboratoryjne]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1078</guid>
-		<description><![CDATA[Rozmowa z Janem Stradowskim w audycji &#8220;Człowiek 2.0&#8221; z TOK FM.  Pod koniec maja zaczęła w Polsce wchodzić w życie ustawa o ochronie zwierząt doświadczalnych. Prace nad nią były zdominowane przez spór między naukowcami a obrońcami zwierząt. Ci ostatni zarzucali uczonym, że wprowadzają do przepisów groźne zapisy, umożliwiające dręczenie zwierząt...]]></description>
-				<content:encoded><![CDATA[<div class="social_btns">
+
+					<description><![CDATA[Rozmowa z Janem Stradowskim w audycji &#8220;Człowiek 2.0&#8221; z TOK FM.  Pod koniec maja zaczęła w Polsce wchodzić w życie ustawa o ochronie zwierząt doświadczalnych. Prace nad nią były zdominowane przez spór między naukowcami a obrońcami zwierząt. Ci ostatni zarzucali uczonym, że wprowadzają do przepisów groźne zapisy, umożliwiające dręczenie zwierząt...]]></description>
+										<content:encoded><![CDATA[<div class="social_btns">
 <div id="add-this-container" class="addthis_toolbox addthis_floating_style addthis_counter_style">
 <div class="at-floatingbar-inner">
 <div class="at-floatingbar-share">
@@ -114,6 +121,9 @@
 <p style="text-align: justify;">Ten odcinek audycji jest częścią programu FameLab – <a href="https://www.focus.pl/czlowiek/program-quotrzecznicy-naukiquot-podsumowanie-blog-12463" target="_blank" rel="noopener">Rzecznicy Nauki</a>. Dr Bagniewska zajęła pierwsze miejsce w konkursie <a href="https://www.famelab.org.pl/" target="_blank" rel="noopener">FameLab Poland</a> 2014, organizowanym przez <a href="https://www.kopernik.org.pl/" target="_blank" rel="noopener">Centrum Nauki Kopernik</a> i British Council.</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

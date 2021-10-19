@@ -12,11 +12,13 @@
 	<atom:link href="/tag/studia-zagraniczne/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 22:31:40 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,19 @@
 	<item>
 		<title>Promotorka polskiej nauki na świecie</title>
 		<link>/2016/10/30/promotorka-polskiej-nauki-na-swiecie/</link>
-		<pubDate>Sat, 29 Oct 2016 23:05:16 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2016 23:05:16 +0000</pubDate>
 				<category><![CDATA[Radio]]></category>
 		<category><![CDATA[Brexit]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[Polskie Radio]]></category>
 		<category><![CDATA[radio]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1651</guid>
-		<description><![CDATA[Rozmowa z Marią Wieczorkiewicz w Polskim Radiu dla Zagranicy – do odsłuchania tutaj Dr Joanna Bagniewska &#8211; wybitny ekolog, zoolog i biolog &#8211; to także znakomita promotorka polskiej nauki na świecie Dr Joanna Bagniewska Wykładowczyni na brytyjskich uniwersytetach, absolwentka Szkoły Liderów Polonijnych, swoimi dokonaniami udowodniła, że młoda polska uczona może...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>Rozmowa z Marią Wieczorkiewicz w Polskim Radiu dla Zagranicy – do odsłuchania <a href="https://www.radiozagranica.pl/8/251/Artykul/277733,Promotorka-polskiej-nauki-na-swiecie">tutaj</a></em></p>
+
+					<description><![CDATA[Rozmowa z Marią Wieczorkiewicz w Polskim Radiu dla Zagranicy – do odsłuchania tutaj Dr Joanna Bagniewska &#8211; wybitny ekolog, zoolog i biolog &#8211; to także znakomita promotorka polskiej nauki na świecie Dr Joanna Bagniewska Wykładowczyni na brytyjskich uniwersytetach, absolwentka Szkoły Liderów Polonijnych, swoimi dokonaniami udowodniła, że młoda polska uczona może...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>Rozmowa z Marią Wieczorkiewicz w Polskim Radiu dla Zagranicy – do odsłuchania <a href="https://www.radiozagranica.pl/8/251/Artykul/277733,Promotorka-polskiej-nauki-na-swiecie">tutaj</a></em></p>
 <div class="bLead" style="text-align: justify;"><span id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_FirstColumn_A_ctl01_lblLead">Dr Joanna Bagniewska &#8211; wybitny ekolog, zoolog i biolog &#8211; to także znakomita promotorka polskiej nauki na świecie</span></div>
 <div class="bArticle" style="text-align: justify;"><img id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_FirstColumn_A_ctl01_imgMain" title="Dr Joanna Bagniewska" src="https://external.polskieradio.pl/files/09665354-9f2a-4508-81a3-3919aa758cf5.file" alt="Dr Joanna Bagniewska" /></div>
 <div class="bArticle" style="text-align: justify;"><span id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_FirstColumn_A_ctl01_lblMainImageDescription" class="imgLead">Dr Joanna Bagniewska</span><span id="ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_FirstColumn_A_ctl01_lblMainImageAuthor" class="imgAuthor"></span></div>
@@ -50,20 +53,24 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 <p style="text-align: justify;">Z dr <strong>Joanną Bagniewską</strong> rozmawia <strong>Maria Wieczorkiewicz</strong>.</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Studia, czyli wychodzimy ze strefy komfortu</title>
 		<link>/2016/10/18/studia-czyli-wychodzimy-ze-strefy-komfortu/</link>
-		<pubDate>Tue, 18 Oct 2016 22:41:47 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2016 22:41:47 +0000</pubDate>
 				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Elab Magazine]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1630</guid>
-		<description><![CDATA[Mój tekst na blogu Elab Magazine Studia to czas na poszukiwania, eksperymenty, zrywy. Jak podjąć takie wyzwanie w sposób najbardziej produktywny i perspektywiczny? Kontakty Uniwersytet jest świetnym miejscem do budowania przyszłościowych relacji. Nie ograniczaj się do znajomych z roku. Wiele uczelni organizuje programy mentoringowe lub spotkania z absolwentami – skorzystaj...]]></description>
-				<content:encoded><![CDATA[<p dir="ltr" style="text-align:justify;"><em><strong>Mój tekst na blogu <a href="https://elabmag.pl/article/337-studia,-czyli-wychodzimy-ze-strefy-komfortu">Elab Magazine</a></strong></em></p>
+
+					<description><![CDATA[Mój tekst na blogu Elab Magazine Studia to czas na poszukiwania, eksperymenty, zrywy. Jak podjąć takie wyzwanie w sposób najbardziej produktywny i perspektywiczny? Kontakty Uniwersytet jest świetnym miejscem do budowania przyszłościowych relacji. Nie ograniczaj się do znajomych z roku. Wiele uczelni organizuje programy mentoringowe lub spotkania z absolwentami – skorzystaj...]]></description>
+										<content:encoded><![CDATA[<p dir="ltr" style="text-align:justify;"><em><strong>Mój tekst na blogu <a href="https://elabmag.pl/article/337-studia,-czyli-wychodzimy-ze-strefy-komfortu">Elab Magazine</a></strong></em></p>
 <p dir="ltr" style="text-align:justify;"><strong>Studia to czas na poszukiwania, eksperymenty, zrywy. Jak podjąć takie wyzwanie w sposób najbardziej produktywny i perspektywiczny?</strong></p>
 <p dir="ltr" style="text-align:justify;"><strong>Kontakty</strong></p>
 <p dir="ltr" style="text-align:justify;">Uniwersytet jest świetnym miejscem do budowania przyszłościowych relacji. Nie ograniczaj się do znajomych z roku. Wiele uczelni organizuje programy mentoringowe lub spotkania z absolwentami – skorzystaj z nich, takie kontakty procentują.</p>
@@ -78,26 +85,29 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 <p style="text-align:justify;"><strong>Spotkajcie Joannę Bagniewską na Festivalu Edukacji Zagranicznej na stanowisku Oxford &amp; Cambridge, już 22 października! Porozmawiajcie o tym jak to jest studiować na Oxfordzie i wysłuchajcie mowy motywacyjnej o 15:45 na Scenie Głównej.</strong></p>
 <p style="text-align:justify;"><strong>Joanna przylatuje specjalnie dla Was na EEF! Więcej o Festivalu: <a href="https://www.eef-elabfundacja.pl/">www.eef-elabfundacja.pl</a></strong></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>&#8220;Pszczoły pachną jak miód i skrzydełka. To mój ulubiony zapach na świecie&#8221; &#8211; wywiad z Joanną Bagniewską</title>
 		<link>/2015/11/12/pszczoly-pachna-jak-miod-i-skrzydelka-to-moj-ulubiony-zapach-na-swiecie-wywiad-z-joanna-bagniewska/</link>
-		<pubDate>Thu, 12 Nov 2015 17:29:19 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2015 17:29:19 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[Edulandia.pl]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[Science. Polish Perspectives]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1338</guid>
-		<description><![CDATA[Wywiad Beaty Dżumagi dla portalu Edulandia.pl W szkole miała najgorsze oceny z biologii &#8211; dziś jest zoologiem po doktoracie na Oxfordzie. Joanna Bagniewska jest jednym z polskich naukowców pracujących w Wielkiej Brytanii. Tam też działa na rzecz promocji polskich uczonych. Nam opowiada o tym, jak popularyzować naukę wśród młodzieży, dlaczego...]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"><em>Wywiad Beaty Dżumagi dla portalu <a href="https://www.edulandia.pl/edulandia/1,118533,19148063,pszczoly-pachna-jak-miod-i-skrzydelka-to-moj-ulubiony-zapach.html?as=1">Edulandia.pl</a></em></div>
+
+					<description><![CDATA[Wywiad Beaty Dżumagi dla portalu Edulandia.pl W szkole miała najgorsze oceny z biologii &#8211; dziś jest zoologiem po doktoracie na Oxfordzie. Joanna Bagniewska jest jednym z polskich naukowców pracujących w Wielkiej Brytanii. Tam też działa na rzecz promocji polskich uczonych. Nam opowiada o tym, jak popularyzować naukę wśród młodzieży, dlaczego...]]></description>
+										<content:encoded><![CDATA[<div style="text-align: justify;"><em>Wywiad Beaty Dżumagi dla portalu <a href="https://www.edulandia.pl/edulandia/1,118533,19148063,pszczoly-pachna-jak-miod-i-skrzydelka-to-moj-ulubiony-zapach.html?as=1">Edulandia.pl</a></em></div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;"><img title="Joanna Bagniewska jest jedną z organizatorek konferencji Science: Polish Perspectives" src="https://bi.gazeta.pl/im/42/42/12/z19148098Q,Joanna-Bagniewska-jest-jedna-z-organizatorek-konfe.jpg" alt="Joanna Bagniewska jest jedną z organizatorek konferencji Science: Polish Perspectives" border="0" /></div>
 <div style="text-align: justify;"></div>
@@ -160,17 +170,20 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 <p style="text-align: justify;">&#8211; <b>Po drugie:</b> jeżeli życie nie toczy się po waszej myśli, trzeba je wziąć we własne ręce i pokierować nim. Tak jak w moim przypadku &#8211; kiedy w Niemczech męczyłam się nad komórkami w laboratoriach i stwierdziłam, że wcale nie chcę tutaj być, znalazłam kurs zachowania zwierząt na drugim końcu kraju, w Norymberdze. I miałam na tyle duży tupet, żeby po pierwsze pójść do swoich profesorów i poprosić ich o zwolnienie na dwa tygodnie, a po drugie powiedziałam, że to jest coś, czego chcę się bardziej uczyć i skoro nie ma tego w programie, to uniwersytet powinien zapłacić za mój kurs. I oni się zgodzili. To nie jest tak, że życie poda ci rozwiązanie na talerzu. Trzeba nim pokierować samemu.</p>
 <p style="text-align: justify;">&#8211; <b>Trzecia rzecz:</b> nie do końca należy słuchać innych. Np. moja mama była przerażona tym, że chciałam studiować coś związanego ze zwierzętami. Była przekonana, że skończy się tak, że będę musiała wkładać ręce krowom w nieprzyzwoite miejsca i użerać się z rolnikami. Że nikt mnie nie będzie szanował, bo jestem kobietą, a zoolog to żaden zawód dla kobiety. A trzeba sprawdzić na własnej skórze, jak dany zawód wygląda.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Popołudnie RDC: Broad Peak, wirus MERS, recykling komórek i chomiki</title>
 		<link>/2014/05/14/popoludnie-rdc-broad-peak-wirus-mers-recykling-komorek-i-chomiki/</link>
-		<pubDate>Wed, 14 May 2014 22:15:43 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 14 May 2014 22:15:43 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[chomiki]]></category>
 		<category><![CDATA[kretoszczury]]></category>
@@ -180,18 +193,22 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 		<category><![CDATA[Science. Polish Perspectives]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=673</guid>
-		<description><![CDATA[Audycja Radia Dla Ciebie, prowadzona przez Tomasza Kwaśniewskiego. Link tutaj. &#160;]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/rdc-kwasniewski.png"><img class="alignleft size-full wp-image-674" src="https://jbagniewska.files.wordpress.com/2014/05/rdc-kwasniewski.png" alt="RDC-Kwasniewski" width="500" height="310" /></a>Audycja Radia Dla Ciebie, prowadzona przez Tomasza Kwaśniewskiego. Link<strong> <a href="https://www.rdc.pl/publikacja/popoludnie-rdc-broad-peak-wirus-mers-recykling-komorek-i-chomiki/">tutaj</a>.</strong></p>
+
+					<description><![CDATA[Audycja Radia Dla Ciebie, prowadzona przez Tomasza Kwaśniewskiego. Link tutaj. &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/rdc-kwasniewski.png"><img loading="lazy" class="alignleft size-full wp-image-674" src="https://jbagniewska.files.wordpress.com/2014/05/rdc-kwasniewski.png" alt="RDC-Kwasniewski" width="500" height="310" /></a>Audycja Radia Dla Ciebie, prowadzona przez Tomasza Kwaśniewskiego. Link<strong> <a href="https://www.rdc.pl/publikacja/popoludnie-rdc-broad-peak-wirus-mers-recykling-komorek-i-chomiki/">tutaj</a>.</strong></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Wywiad dla portalu Edukator.pl</title>
 		<link>/2014/02/13/wywiad-dla-portalu-edukator-pl/</link>
-		<pubDate>Thu, 13 Feb 2014 00:10:40 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2014 00:10:40 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Cambridge University]]></category>
@@ -202,21 +219,25 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=476</guid>
-		<description><![CDATA[&#160; Resztę wywiadów można obejrzeć na stronie Edukator.pl &#160;]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/02/edukator.png"><img class="alignnone wp-image-477 size-full" src="https://jbagniewska.files.wordpress.com/2014/02/edukator.png" alt="edukator" width="500" height="430" /></a></p>
+
+					<description><![CDATA[&#160; Resztę wywiadów można obejrzeć na stronie Edukator.pl &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/02/edukator.png"><img loading="lazy" class="alignnone wp-image-477 size-full" src="https://jbagniewska.files.wordpress.com/2014/02/edukator.png" alt="edukator" width="500" height="430" /></a></p>
 <p>&nbsp;</p>
-<p><iframe width="790" height="444" src="https://www.youtube.com/embed/ecGffDnOsR4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/ecGffDnOsR4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 <p><span style="line-height: 1.7;">Resztę wywiadów można obejrzeć na stronie </span><a style="line-height: 1.7;" href="https://media.edukator.pl/Polskie-Perspektywy,9854.html">Edukator.pl</a></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Film promocyjny The Kings Foundation</title>
 		<link>/2013/07/22/film-promocyjny-the-kings-foundation/</link>
-		<pubDate>Mon, 22 Jul 2013 18:16:07 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2013 18:16:07 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Oksford]]></category>
@@ -226,30 +247,34 @@ Teraz, dr Joanna Bagniewska, z sukcesami wspiera młodych polskich naukowców ma
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[uniwersytety]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=375</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><iframe width="790" height="444" src="https://www.youtube.com/embed/vOrWgldd-Ic?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/vOrWgldd-Ic?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Polacy nie wracają</title>
 		<link>/2012/06/16/polacy-nie-wracaja/</link>
-		<pubDate>Sat, 16 Jun 2012 22:56:21 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Gazeta Wyborcza]]></category>
+		<pubDate>Sat, 16 Jun 2012 22:56:21 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[powroty]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=346</guid>
-		<description><![CDATA[Artykuł Gazety Wyborczej: Polacy, którzy wyjechali na studia za granicą, w większości nie wracają do kraju. Z Wielkiej Brytanii wraca co szósty. &#8221;Gazeta&#8221; dotarła do brytyjskich danych na temat tego, gdzie absolwenci pracują na sześć miesięcy po uzyskaniu dyplomu. Zbiera je co roku Higher Education Statistics Agency (HESA). Z 920...]]></description>
-				<content:encoded><![CDATA[<p>Artykuł <a href="https://wyborcza.pl/1,76842,11944068,Polacy_nie_wracaja.html">Gazety Wyborczej</a>:</p>
-<p><a href="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png"><img class="alignnone size-large wp-image-347" src="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png?w=500" alt="PolacyNieWracaja" width="500" height="458" /></a></p>
+
+					<description><![CDATA[Artykuł Gazety Wyborczej: Polacy, którzy wyjechali na studia za granicą, w większości nie wracają do kraju. Z Wielkiej Brytanii wraca co szósty. &#8221;Gazeta&#8221; dotarła do brytyjskich danych na temat tego, gdzie absolwenci pracują na sześć miesięcy po uzyskaniu dyplomu. Zbiera je co roku Higher Education Statistics Agency (HESA). Z 920...]]></description>
+										<content:encoded><![CDATA[<p>Artykuł <a href="https://wyborcza.pl/1,76842,11944068,Polacy_nie_wracaja.html">Gazety Wyborczej</a>:</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png"><img loading="lazy" class="alignnone size-large wp-image-347" src="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png?w=500" alt="PolacyNieWracaja" width="500" height="458" /></a></p>
 <p>Polacy, którzy wyjechali na studia za granicą, w większości nie wracają do kraju. Z Wielkiej Brytanii wraca co szósty.</p>
 <p>&#8221;Gazeta&#8221; dotarła do brytyjskich danych na temat tego, gdzie absolwenci pracują na sześć miesięcy po uzyskaniu dyplomu. Zbiera je co roku Higher Education Statistics Agency (HESA).</p>
 <p>Z 920 polskich absolwentów brytyjskich uniwersytetów z 2010 r., którzy odpowiedzieli na ankietę, aż 625 pracowało w Anglii. Kolejnych 85 w Szkocji, 30 w Walii, po kilku w Niemczech, Hiszpanii, Belgii, Francji, Szwecji, Szwajcarii. Do Polski wróciło 150.</p>
@@ -282,12 +307,16 @@ Mam wrażenie, że w Polsce i w Anglii zwraca się przy rekrutacji uwagę na zup
 <p>W trakcie studiów pracowałem w elastycznych godzinach w City, więc kończąc studia, miałem już w CV trochę doświadczenia zawodowego. W Polsce byłoby to dużo trudniejsze, tu szeroko pojęty sektor usług finansowych i, co za tym idzie, praktyki dla studentów są o wiele mniej rozwinięte. Dzięki temu mogłem też myśleć o pracy w finansach, choć ich nie studiowałem.</p>
 <p>Dla osób wracających z zagranicy barierą wejścia na polski rynek pracy jest brak kontaktów. Rynek pracy jest jednym z najbardziej nieefektywnych &#8211; informacje o miejscach pracy nie docierają do właściwych kandydatów i na odwrót.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>“Ślady na piasku” – Oksford</title>
 		<link>/2011/09/07/audycja-polskiego-radia-oksford-kojarzy-sie-przede-wszystkim/</link>
-		<pubDate>Tue, 06 Sep 2011 23:19:38 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2011 23:19:38 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[polscy studenci]]></category>
@@ -295,10 +324,10 @@ Mam wrażenie, że w Polsce i w Anglii zwraca się przy rekrutacji uwagę na zup
 		<category><![CDATA[radio]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=358</guid>
-		<description><![CDATA[Oksford kojarzy się przede wszystkim z najstarszym uniwersytetem w krajach anglojęzycznych. Obok Uniwersytetu Cambridge to najbardziej renomowana uczelnia w Wielkiej Brytanii, wysoko ceniona w Europie oraz na świecie. Ale Oksford to także miasto Polaków. W samym Oksfordzie i w jego okolicach mieszka około dwudziestu tysięcy naszych rodaków, liczących co najmniej...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.polskieradio.pl/37/225/Artykul/436063,Oksford"><img class="alignnone size-large wp-image-359" src="https://jbagniewska.files.wordpress.com/2013/07/radio.png?w=500" alt="radio" width="500" height="432" /></a></p>
+
+					<description><![CDATA[Oksford kojarzy się przede wszystkim z najstarszym uniwersytetem w krajach anglojęzycznych. Obok Uniwersytetu Cambridge to najbardziej renomowana uczelnia w Wielkiej Brytanii, wysoko ceniona w Europie oraz na świecie. Ale Oksford to także miasto Polaków. W samym Oksfordzie i w jego okolicach mieszka około dwudziestu tysięcy naszych rodaków, liczących co najmniej...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.polskieradio.pl/37/225/Artykul/436063,Oksford"><img loading="lazy" class="alignnone size-large wp-image-359" src="https://jbagniewska.files.wordpress.com/2013/07/radio.png?w=500" alt="radio" width="500" height="432" /></a></p>
 <p id="first-p"><strong>Oksford kojarzy się przede wszystkim z najstarszym uniwersytetem w krajach anglojęzycznych. Obok Uniwersytetu Cambridge to najbardziej renomowana uczelnia w Wielkiej Brytanii, wysoko ceniona w Europie oraz na świecie. Ale Oksford to także miasto Polaków. W samym Oksfordzie i w jego okolicach mieszka około dwudziestu tysięcy naszych rodaków, liczących co najmniej cztery pokolenia.</strong></p>
 <div id="article-body">
 <p>Istnieje tam polska szkoła, parafia, klub studencki. Ksiądz Krzysztof Pająk od 5 lat pracuje w Oksfordzie dla polskiej wspólnoty katolickiej.</p>
@@ -306,12 +335,16 @@ Mam wrażenie, że w Polsce i w Anglii zwraca się przy rekrutacji uwagę na zup
 <p>Prowadzenie: Małgorzata Glabisz-Pniewska. Link do audycji <a href="https://www.polskieradio.pl/37/225/Artykul/436063,Oksford">Polskiego Radia</a>.</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Drugi biegun inwazji&#8230;</title>
 		<link>/2011/04/03/drugi-biegun-inwazji/</link>
-		<pubDate>Sun, 03 Apr 2011 22:15:00 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2011 22:15:00 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Angora]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
@@ -320,12 +353,15 @@ Mam wrażenie, że w Polsce i w Anglii zwraca się przy rekrutacji uwagę na zup
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Wielka Brytania]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=334</guid>
-		<description><![CDATA[Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.]]></description>
-				<content:encoded><![CDATA[<p>Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.</p>
-<p><a href="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg"><img class="alignnone size-large wp-image-114" src="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg?w=500" alt="Drugi biegun inwazji" width="500" height="620" /></a></p>
+
+					<description><![CDATA[Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.]]></description>
+										<content:encoded><![CDATA[<p>Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg"><img loading="lazy" class="alignnone size-large wp-image-114" src="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg?w=500" alt="Drugi biegun inwazji" width="500" height="620" /></a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

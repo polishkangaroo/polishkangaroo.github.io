@@ -12,11 +12,13 @@
 	<atom:link href="/tag/polscy-studenci/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 22:31:40 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>W awangardzie &#8211; VIII Kongres Polskich Stowarzyszeń Studenckich</title>
 		<link>/2015/03/02/w-awangardzie-viii-kongres-polskich-stowarzyszen-studenckich/</link>
-		<pubDate>Mon, 02 Mar 2015 20:32:17 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2015 20:32:17 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Angora]]></category>
@@ -38,17 +41,21 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polacy za granicą]]></category>
 		<category><![CDATA[polscy studenci]]></category>
-
 		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=876</guid>
-		<description><![CDATA[Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku Angora (pdf tekstu po kliknięciu w link).]]></description>
-				<content:encoded><![CDATA[<p>Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku <em><a href="https://jbagniewska.files.wordpress.com/2015/03/angora_2015-10_77.pdf">Angora</a></em> (pdf tekstu po kliknięciu w link).<span id="more-876"></span></p>
+
+					<description><![CDATA[Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku Angora (pdf tekstu po kliknięciu w link).]]></description>
+										<content:encoded><![CDATA[<p>Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku <em><a href="https://jbagniewska.files.wordpress.com/2015/03/angora_2015-10_77.pdf">Angora</a></em> (pdf tekstu po kliknięciu w link).<span id="more-876"></span></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Dziennik Polski: Studenci mają głos</title>
 		<link>/2014/03/20/dziennik-polski-studenci-maja-glos/</link>
-		<pubDate>Thu, 20 Mar 2014 23:26:19 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2014 23:26:19 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Dziennik Polski]]></category>
 		<category><![CDATA[Federacja Polskich Stowaryszeń Studenckich w UK]]></category>
@@ -58,10 +65,10 @@
 		<category><![CDATA[Tydzień Polski]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[Wielka Brytania]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=577</guid>
-		<description><![CDATA[Oxford. To miasto zdaje się być przesiąknięte atmosferą nauki. Może wydawać się, że od samego przebywania tutaj wiedza sama wchodzi do głowy. Od wieków pokolenia Brytyjczyków zdobywały tu wykształcenie. Obecnie uczy się tutaj również ok. 270 polskich studentów. Od wejścia Polski do Unii Europejskiej ta liczba polskich studentów w Oxfordzie...]]></description>
-				<content:encoded><![CDATA[<p><b><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png"><img class="alignnone size-full wp-image-578" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png" alt="dziennikPL-kongres" width="500" height="341" /></a></b></p>
+
+					<description><![CDATA[Oxford. To miasto zdaje się być przesiąknięte atmosferą nauki. Może wydawać się, że od samego przebywania tutaj wiedza sama wchodzi do głowy. Od wieków pokolenia Brytyjczyków zdobywały tu wykształcenie. Obecnie uczy się tutaj również ok. 270 polskich studentów. Od wejścia Polski do Unii Europejskiej ta liczba polskich studentów w Oxfordzie...]]></description>
+										<content:encoded><![CDATA[<p><b><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png"><img loading="lazy" class="alignnone size-full wp-image-578" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png" alt="dziennikPL-kongres" width="500" height="341" /></a></b></p>
 <p><b>Oxford. To miasto zdaje się być przesiąknięte atmosferą nauki. Może wydawać się, że od samego przebywania tutaj wiedza sama wchodzi do głowy. Od wieków pokolenia Brytyjczyków zdobywały tu wykształcenie.</b></p>
 <p>Obecnie uczy się tutaj również ok. 270 polskich studentów. Od wejścia Polski do Unii Europejskiej ta liczba polskich studentów w Oxfordzie z roku na roku rośnie. Ale nie samą nauką człowiek żyje – ci młodzi ludzie są przecież są ambitni, aktywni i mają wiele do powiedzenia na różne tematy. Chcą zmieniać świat na lepsze. W celu realizowania tych ambicji już po raz 7. Zorganizowano Congress of Polish Student Societies.</p>
 <p>– Historia zatoczyła koło, ponieważ pierwszy kongres został zorganizowany tu w Oxfordzie w 2008 roku i również wtedy był obecny na nim minister Sikorski. Jest to zupełnie oddolna inicjatywa, nieco zainspirowana przez profesora Pełczyńskiego, wykładowcy i byłego rektora Pembroke College. Odczuwaliśmy potrzebę zorganizowania wydarzenia, które będzie się odbywało regularnie, na którym będziemy mogli się spotkać ze studentami z innych uczelni, poznać się, porozmawiać o problemach i perspektywach. Organizacja kongresu spoczywa w całości na studentach, zarówno pod względem finansowym, jak i merytorycznym, jako że od początku była to inicjatywa studencka i taką pozostała do dzisiaj – mówił Krzysztof Bar, prezes Federacji Polskich Stowarzyszeń Studenckich w Wielkiej Brytanii, jeden z twórców kongresu, jak wyrażają się o nim koledzy „ideolog tego, w co wszyscy wierzymy”, a także absolwent Oxfordu, obecnie doktorant zgłębiający tajniki komputerów kwantowy.</p>
@@ -98,12 +105,16 @@
 <p><a href="https://www.dziennikpolski.co.uk/artykuly/2014/03/14/studenci-maja-glos/">Magdalena Grzymkowska</a></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Wywiad dla portalu Edukator.pl</title>
 		<link>/2014/02/13/wywiad-dla-portalu-edukator-pl/</link>
-		<pubDate>Thu, 13 Feb 2014 00:10:40 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2014 00:10:40 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Cambridge University]]></category>
@@ -114,21 +125,25 @@
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=476</guid>
-		<description><![CDATA[&#160; Resztę wywiadów można obejrzeć na stronie Edukator.pl &#160;]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/02/edukator.png"><img class="alignnone wp-image-477 size-full" src="https://jbagniewska.files.wordpress.com/2014/02/edukator.png" alt="edukator" width="500" height="430" /></a></p>
+
+					<description><![CDATA[&#160; Resztę wywiadów można obejrzeć na stronie Edukator.pl &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/02/edukator.png"><img loading="lazy" class="alignnone wp-image-477 size-full" src="https://jbagniewska.files.wordpress.com/2014/02/edukator.png" alt="edukator" width="500" height="430" /></a></p>
 <p>&nbsp;</p>
-<p><iframe width="790" height="444" src="https://www.youtube.com/embed/ecGffDnOsR4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/ecGffDnOsR4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 <p><span style="line-height: 1.7;">Resztę wywiadów można obejrzeć na stronie </span><a style="line-height: 1.7;" href="https://media.edukator.pl/Polskie-Perspektywy,9854.html">Edukator.pl</a></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>M. Suskiewicz: Święto polskiej nauki</title>
 		<link>/2013/11/20/m-suskiewicz-swieto-polskiej-nauki/</link>
-		<pubDate>Wed, 20 Nov 2013 23:41:00 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2013 23:41:00 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Cambridge University]]></category>
 		<category><![CDATA[Jagielloński24]]></category>
@@ -137,10 +152,10 @@
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[polscy studenci w UK]]></category>
 		<category><![CDATA[polska nauka]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=397</guid>
-		<description><![CDATA[Może przydałoby się spojrzeć na tego typu inicjatywy z chłodnego dystansu, opisać ich zalety i wady, zastanowić się nad tym, co trwałego wnoszą one do polskiej nauki, zwłaszcza, że większość ich uczestników przebywa przecież za granicą i nie wiadomo, czy kiedykolwiek do Polski wróci. Może, ale na razie jestem w...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/11/jagielloc584ski24.png"><img class="alignnone size-large wp-image-398" src="https://jbagniewska.files.wordpress.com/2013/11/jagielloc584ski24.png?w=500" alt="Jagielloński24" width="729" height="414" /></a></p>
+
+					<description><![CDATA[Może przydałoby się spojrzeć na tego typu inicjatywy z chłodnego dystansu, opisać ich zalety i wady, zastanowić się nad tym, co trwałego wnoszą one do polskiej nauki, zwłaszcza, że większość ich uczestników przebywa przecież za granicą i nie wiadomo, czy kiedykolwiek do Polski wróci. Może, ale na razie jestem w...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/11/jagielloc584ski24.png"><img loading="lazy" class="alignnone size-large wp-image-398" src="https://jbagniewska.files.wordpress.com/2013/11/jagielloc584ski24.png?w=500" alt="Jagielloński24" width="729" height="414" /></a></p>
 <p><strong>Może przydałoby się spojrzeć na tego typu inicjatywy z chłodnego dystansu, opisać ich zalety i wady, zastanowić się nad tym, co trwałego wnoszą one do polskiej nauki, zwłaszcza, że większość ich uczestników przebywa przecież za granicą i nie wiadomo, czy kiedykolwiek do Polski wróci. Może, ale na razie jestem w stanie opisać tylko niesamowite wrażenie, jakie „Polskie perspektywy” na mnie wywarły: wrażenie niezwykłego, radosnego święta.</strong></p>
 <p>Piątek rano. Przyleciałem z deszczu, z szarości, z mgły, a tu, gdzie spodziewać się można było pogody jeszcze gorszej, nieprzeniknionych chmur i silnych wiatrów – świeci słońce. Jedziemy, powoli mijając tłumy pieszych i rowerzystów i zatrzymując się kilka razy na światłach, w tym raz, by przepuścić grupę dziewcząt w szkolnych mundurkach z kijami do hokeja na trawie w dłoniach. Czy od dawna jest tak ładnie? Od niedawna, a i wkrótce ma się znów zepsuć, odpowiada życzliwie taksówkarz, ciągnąc dalej z nabytą przez lata wprawą tę fascynującą rozmowę o pogodzie. Przyleciałem, widzi, z Europy, a skąd dokładnie? Anglia najwyraźniej nie leży w Europie. Cała podróż z dworca do Peterhouse, najstarszego college’u w Cambridge, gdzie odbywa się tegoroczna edycja konferencji „Science. Polish Perspectives – Nauka. Polskie Perspektywy”, trwa może pięć-dziesięć minut. Patrzę przez okno, a w głowie kłębią mi się zapamiętane z lektur historie dotyczące tego miasta. Gdzieś za rogiem musiało być kino – czy nadal istnieje? – do którego uciekał po wykładach zmęczony Ludwig Wittgenstein. Widzę w wyobraźni, jak siada w pierwszym rzędzie, przy samym ekranie i nerwowo wcina pączki. Gdzieś nad rzeką z kolei stać musi wielka, późnogotycka King’s College Chapel. Jedziemy powoli przez miasto, a mnie z egzaltacji zdaje się niemalże, że w szumie samochodu słyszę „Magnificat” napisany specjalnie dla King’s College Choir przez Sir Johna Tavenera, tego samego Sir Johna Tavenera, którego śmierć ogłosiły kilka dni wcześniej gazety i strony internetowe.</p>
 <p>Drugi obraz: sobota wieczór, Corpus Christi College, kolacja kończąca konferencję. Była łacińska modlitwa, teraz wszyscy zajęci są wyborem koloru wina. Portrety i malowane wzory Williama Morrisa na ścianach, światło świec, wieczorowe stroje, gołąb na talerzu. Ktoś mówi, że nieudany, ale nigdy w życiu nie jadłem gołębia, więc nie wiem, co odpowiedzieć. Poczciwy Wittgenstein słusznie argumentował w „Dociekaniach filozoficznych” – przeciwko scejntystom, pozytywistom i samemu sobie z czasów „Traktatu” – że jest wiele sensownych użyć języka. Sensownie można rozmawiać w czasie dnia o różnych dziedzinach nauki: biologii, biochemii, fizyce, inżynierii, psychologii, ekonomii, ale sensownie można rozmawiać też wieczorem przy kolacji o gołębiu. Na żadnej innej konferencji nie widziałem, muszę przyznać, tak ożywionego życia towarzyskiego, tak naturalnie toczonych rozmów, tak dobrej atmosfery. Niezastąpieni główni organizatorzy, Tomasz Cebo (Cambridge) i Magdalena Richter (Instytut Biochemii i Biofizyki PAN, Warszawa i Cambridge), wznoszą toast za uczestników, jakiś czas później Michał Leszczyński reprezentujący London School of Economics Polish Society wygłasza z kolei długi toast za organizatorów, do których należą jeszcze Kinga Pławik, Paweł Jaworski, Ewelina Gregolińska, Piotr Oleśkiewicz i Aleksandra Kołodziejczyk, wszyscy z Cambridge bądź Oksfordu, oprócz Pawła Jaworskiego, który studiował na Politechnice Gdańskiej, a także w Chinach i na Tajwanie. Kieliszki z winem wędrują w górę, wybuchają długie brawa. Na sam koniec w naszej części sali wznosimy jeszcze parę dodatkowych, prywatnych toastów wyjętą spod stołu polską wódką.</p>
@@ -164,12 +179,16 @@
 <p>&nbsp;</p>
 <p>Tekst Marcina Suskiewicza dostępny <a href="https://jagiellonski24.pl/2013/11/20/m-suskiewicz-swieto-polskiej-nauki/">tutaj</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Film promocyjny The Kings Foundation</title>
 		<link>/2013/07/22/film-promocyjny-the-kings-foundation/</link>
-		<pubDate>Mon, 22 Jul 2013 18:16:07 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2013 18:16:07 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Oksford]]></category>
@@ -179,17 +198,21 @@
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[uniwersytety]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=375</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><iframe width="790" height="444" src="https://www.youtube.com/embed/vOrWgldd-Ic?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/vOrWgldd-Ic?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Polacy w Oksfordzie: ten uniwersytet otwiera wiele drzwi</title>
 		<link>/2012/10/22/polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi/</link>
-		<pubDate>Sun, 21 Oct 2012 23:05:13 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2012 23:05:13 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[Oksford]]></category>
@@ -198,11 +221,11 @@
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[uniwersytety]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=350</guid>
-		<description><![CDATA[Artykuł PAP – Nauka w Polsce: Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi. „Poziom matematyki i informatyki w Oksfordzie nie...]]></description>
-				<content:encoded><![CDATA[<p>Artykuł <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392490,polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi.html">PAP – Nauka w Polsce</a>:</p>
-<p><a href="https://jbagniewska.files.wordpress.com/2013/07/papox.png"><img class="alignnone size-large wp-image-351" src="https://jbagniewska.files.wordpress.com/2013/07/papox.png?w=500" alt="papOx" width="500" height="452" /></a></p>
+
+					<description><![CDATA[Artykuł PAP – Nauka w Polsce: Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi. „Poziom matematyki i informatyki w Oksfordzie nie...]]></description>
+										<content:encoded><![CDATA[<p>Artykuł <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392490,polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi.html">PAP – Nauka w Polsce</a>:</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/07/papox.png"><img loading="lazy" class="alignnone size-large wp-image-351" src="https://jbagniewska.files.wordpress.com/2013/07/papox.png?w=500" alt="papOx" width="500" height="452" /></a></p>
 <div><strong>Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi.</strong></div>
 <p>„Poziom matematyki i informatyki w Oksfordzie nie jest wcale wyższy niż na polskich uczelniach. Matematyka jest taka sama w każdym języku. Jednak te uniwersytety – Oksford i Cambridge &#8211; nie tylko uczą, ale też wychowują. Moim zdaniem to jest największa różnica między polskimi i brytyjskimi uczelniami” &#8211; powiedział PAP Krzysztof Bar z Uniwersytetu w Oksfordzie.</p>
 <p>Jak wyjaśnił, możliwości rozwoju nie tylko pod względem naukowym, ale też osobowościowym, sportowym czy organizacyjnym w Oksfordzie są nieograniczone. „To jest też kwestia tradycji. Od stuleci misją Oksbridge (Oksfordu i Cambridge &#8211; PAP) było wychowywanie elity społeczeństwa brytyjskiego. Dlatego studenci mogą angażować się w działalność najróżniejszych stowarzyszeń czy np. grać w orkiestrze” &#8211; opisał Bar, prezes Oxford University Polish Society.</p>
@@ -221,25 +244,29 @@
 <p>Jedną z okazji do spotkania była konferencja „Science. Polish Perspectives”, która odbyła się w Oksfordzie między 19 a 21 października. Wzięło w niej udział blisko 150 polskich studentów i młodych uczonych studiujących na uczelniach brytyjskich, ale też w Austrii, Holandii czy Niemczech.</p>
 <p>Z Oxfordu Ewelina Krajczyńska</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Polacy nie wracają</title>
 		<link>/2012/06/16/polacy-nie-wracaja/</link>
-		<pubDate>Sat, 16 Jun 2012 22:56:21 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Gazeta Wyborcza]]></category>
+		<pubDate>Sat, 16 Jun 2012 22:56:21 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[powroty]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=346</guid>
-		<description><![CDATA[Artykuł Gazety Wyborczej: Polacy, którzy wyjechali na studia za granicą, w większości nie wracają do kraju. Z Wielkiej Brytanii wraca co szósty. &#8221;Gazeta&#8221; dotarła do brytyjskich danych na temat tego, gdzie absolwenci pracują na sześć miesięcy po uzyskaniu dyplomu. Zbiera je co roku Higher Education Statistics Agency (HESA). Z 920...]]></description>
-				<content:encoded><![CDATA[<p>Artykuł <a href="https://wyborcza.pl/1,76842,11944068,Polacy_nie_wracaja.html">Gazety Wyborczej</a>:</p>
-<p><a href="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png"><img class="alignnone size-large wp-image-347" src="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png?w=500" alt="PolacyNieWracaja" width="500" height="458" /></a></p>
+
+					<description><![CDATA[Artykuł Gazety Wyborczej: Polacy, którzy wyjechali na studia za granicą, w większości nie wracają do kraju. Z Wielkiej Brytanii wraca co szósty. &#8221;Gazeta&#8221; dotarła do brytyjskich danych na temat tego, gdzie absolwenci pracują na sześć miesięcy po uzyskaniu dyplomu. Zbiera je co roku Higher Education Statistics Agency (HESA). Z 920...]]></description>
+										<content:encoded><![CDATA[<p>Artykuł <a href="https://wyborcza.pl/1,76842,11944068,Polacy_nie_wracaja.html">Gazety Wyborczej</a>:</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png"><img loading="lazy" class="alignnone size-large wp-image-347" src="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png?w=500" alt="PolacyNieWracaja" width="500" height="458" /></a></p>
 <p>Polacy, którzy wyjechali na studia za granicą, w większości nie wracają do kraju. Z Wielkiej Brytanii wraca co szósty.</p>
 <p>&#8221;Gazeta&#8221; dotarła do brytyjskich danych na temat tego, gdzie absolwenci pracują na sześć miesięcy po uzyskaniu dyplomu. Zbiera je co roku Higher Education Statistics Agency (HESA).</p>
 <p>Z 920 polskich absolwentów brytyjskich uniwersytetów z 2010 r., którzy odpowiedzieli na ankietę, aż 625 pracowało w Anglii. Kolejnych 85 w Szkocji, 30 w Walii, po kilku w Niemczech, Hiszpanii, Belgii, Francji, Szwecji, Szwajcarii. Do Polski wróciło 150.</p>
@@ -272,12 +299,16 @@ Mam wrażenie, że w Polsce i w Anglii zwraca się przy rekrutacji uwagę na zup
 <p>W trakcie studiów pracowałem w elastycznych godzinach w City, więc kończąc studia, miałem już w CV trochę doświadczenia zawodowego. W Polsce byłoby to dużo trudniejsze, tu szeroko pojęty sektor usług finansowych i, co za tym idzie, praktyki dla studentów są o wiele mniej rozwinięte. Dzięki temu mogłem też myśleć o pracy w finansach, choć ich nie studiowałem.</p>
 <p>Dla osób wracających z zagranicy barierą wejścia na polski rynek pracy jest brak kontaktów. Rynek pracy jest jednym z najbardziej nieefektywnych &#8211; informacje o miejscach pracy nie docierają do właściwych kandydatów i na odwrót.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>“Ślady na piasku” – Oksford</title>
 		<link>/2011/09/07/audycja-polskiego-radia-oksford-kojarzy-sie-przede-wszystkim/</link>
-		<pubDate>Tue, 06 Sep 2011 23:19:38 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2011 23:19:38 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[polscy studenci]]></category>
@@ -285,10 +316,10 @@ Mam wrażenie, że w Polsce i w Anglii zwraca się przy rekrutacji uwagę na zup
 		<category><![CDATA[radio]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=358</guid>
-		<description><![CDATA[Oksford kojarzy się przede wszystkim z najstarszym uniwersytetem w krajach anglojęzycznych. Obok Uniwersytetu Cambridge to najbardziej renomowana uczelnia w Wielkiej Brytanii, wysoko ceniona w Europie oraz na świecie. Ale Oksford to także miasto Polaków. W samym Oksfordzie i w jego okolicach mieszka około dwudziestu tysięcy naszych rodaków, liczących co najmniej...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.polskieradio.pl/37/225/Artykul/436063,Oksford"><img class="alignnone size-large wp-image-359" src="https://jbagniewska.files.wordpress.com/2013/07/radio.png?w=500" alt="radio" width="500" height="432" /></a></p>
+
+					<description><![CDATA[Oksford kojarzy się przede wszystkim z najstarszym uniwersytetem w krajach anglojęzycznych. Obok Uniwersytetu Cambridge to najbardziej renomowana uczelnia w Wielkiej Brytanii, wysoko ceniona w Europie oraz na świecie. Ale Oksford to także miasto Polaków. W samym Oksfordzie i w jego okolicach mieszka około dwudziestu tysięcy naszych rodaków, liczących co najmniej...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.polskieradio.pl/37/225/Artykul/436063,Oksford"><img loading="lazy" class="alignnone size-large wp-image-359" src="https://jbagniewska.files.wordpress.com/2013/07/radio.png?w=500" alt="radio" width="500" height="432" /></a></p>
 <p id="first-p"><strong>Oksford kojarzy się przede wszystkim z najstarszym uniwersytetem w krajach anglojęzycznych. Obok Uniwersytetu Cambridge to najbardziej renomowana uczelnia w Wielkiej Brytanii, wysoko ceniona w Europie oraz na świecie. Ale Oksford to także miasto Polaków. W samym Oksfordzie i w jego okolicach mieszka około dwudziestu tysięcy naszych rodaków, liczących co najmniej cztery pokolenia.</strong></p>
 <div id="article-body">
 <p>Istnieje tam polska szkoła, parafia, klub studencki. Ksiądz Krzysztof Pająk od 5 lat pracuje w Oksfordzie dla polskiej wspólnoty katolickiej.</p>
@@ -296,12 +327,16 @@ Mam wrażenie, że w Polsce i w Anglii zwraca się przy rekrutacji uwagę na zup
 <p>Prowadzenie: Małgorzata Glabisz-Pniewska. Link do audycji <a href="https://www.polskieradio.pl/37/225/Artykul/436063,Oksford">Polskiego Radia</a>.</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Drugi biegun inwazji&#8230;</title>
 		<link>/2011/04/03/drugi-biegun-inwazji/</link>
-		<pubDate>Sun, 03 Apr 2011 22:15:00 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2011 22:15:00 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Angora]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
@@ -310,12 +345,15 @@ Mam wrażenie, że w Polsce i w Anglii zwraca się przy rekrutacji uwagę na zup
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Wielka Brytania]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=334</guid>
-		<description><![CDATA[Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.]]></description>
-				<content:encoded><![CDATA[<p>Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.</p>
-<p><a href="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg"><img class="alignnone size-large wp-image-114" src="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg?w=500" alt="Drugi biegun inwazji" width="500" height="620" /></a></p>
+
+					<description><![CDATA[Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.]]></description>
+										<content:encoded><![CDATA[<p>Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg"><img loading="lazy" class="alignnone size-large wp-image-114" src="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg?w=500" alt="Drugi biegun inwazji" width="500" height="620" /></a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

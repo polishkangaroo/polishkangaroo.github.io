@@ -12,11 +12,13 @@
 	<atom:link href="/tag/powroty/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:33:05 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,18 @@
 	<item>
 		<title>Dr Bagniewska: młodym naukowcom trudno wrócić do Polski</title>
 		<link>/2015/03/27/dr-bagniewska-mlodym-naukowcom-trudno-wrocic-do-polski/</link>
-		<pubDate>Fri, 27 Mar 2015 00:49:45 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
+		<pubDate>Fri, 27 Mar 2015 00:49:45 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
+		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[powroty]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1008</guid>
-		<description><![CDATA[Wywiad z Eweliną Krajczyńską dla serwisu PAP-Nauka w Polsce. Młodzi polscy naukowcy pracujący za granicą myślą o powrocie do kraju, ale powrót utrudnia im sam proces rekrutacji w rodzimych instytucjach i obawy przed osobami &#8220;z zewnątrz&#8221;. Po doktoracie chciałam wrócić, ale nie bardzo miałam do czego &#8211; mówi dr Joanna...]]></description>
-				<content:encoded><![CDATA[<div class="social-buttons">
+
+					<description><![CDATA[Wywiad z Eweliną Krajczyńską dla serwisu PAP-Nauka w Polsce. Młodzi polscy naukowcy pracujący za granicą myślą o powrocie do kraju, ale powrót utrudnia im sam proces rekrutacji w rodzimych instytucjach i obawy przed osobami &#8220;z zewnątrz&#8221;. Po doktoracie chciałam wrócić, ale nie bardzo miałam do czego &#8211; mówi dr Joanna...]]></description>
+										<content:encoded><![CDATA[<div class="social-buttons">
 <div class="fb w-lewo" style="text-align: justify;">Wywiad z Eweliną Krajczyńską dla serwisu <em><a href="https://naukawpolsce.pap.pl/aktualnosci/news,404356,dr-bagniewska-mlodym-naukowcom-trudno-wrocic-do-polski.html">PAP-Nauka w Polsce</a>.</em></div>
 </div>
 <div class="googleplus w-lewo" style="text-align: justify;"></div>
@@ -76,25 +78,29 @@
 <p style="text-align: justify;"><em>PAP: Dziękuję za rozmowę.</em></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Polacy nie wracają</title>
 		<link>/2012/06/16/polacy-nie-wracaja/</link>
-		<pubDate>Sat, 16 Jun 2012 22:56:21 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Gazeta Wyborcza]]></category>
+		<pubDate>Sat, 16 Jun 2012 22:56:21 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[powroty]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=346</guid>
-		<description><![CDATA[Artykuł Gazety Wyborczej: Polacy, którzy wyjechali na studia za granicą, w większości nie wracają do kraju. Z Wielkiej Brytanii wraca co szósty. &#8221;Gazeta&#8221; dotarła do brytyjskich danych na temat tego, gdzie absolwenci pracują na sześć miesięcy po uzyskaniu dyplomu. Zbiera je co roku Higher Education Statistics Agency (HESA). Z 920...]]></description>
-				<content:encoded><![CDATA[<p>Artykuł <a href="https://wyborcza.pl/1,76842,11944068,Polacy_nie_wracaja.html">Gazety Wyborczej</a>:</p>
-<p><a href="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png"><img class="alignnone size-large wp-image-347" src="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png?w=500" alt="PolacyNieWracaja" width="500" height="458" /></a></p>
+
+					<description><![CDATA[Artykuł Gazety Wyborczej: Polacy, którzy wyjechali na studia za granicą, w większości nie wracają do kraju. Z Wielkiej Brytanii wraca co szósty. &#8221;Gazeta&#8221; dotarła do brytyjskich danych na temat tego, gdzie absolwenci pracują na sześć miesięcy po uzyskaniu dyplomu. Zbiera je co roku Higher Education Statistics Agency (HESA). Z 920...]]></description>
+										<content:encoded><![CDATA[<p>Artykuł <a href="https://wyborcza.pl/1,76842,11944068,Polacy_nie_wracaja.html">Gazety Wyborczej</a>:</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png"><img loading="lazy" class="alignnone size-large wp-image-347" src="https://jbagniewska.files.wordpress.com/2013/07/polacyniewracaja.png?w=500" alt="PolacyNieWracaja" width="500" height="458" /></a></p>
 <p>Polacy, którzy wyjechali na studia za granicą, w większości nie wracają do kraju. Z Wielkiej Brytanii wraca co szósty.</p>
 <p>&#8221;Gazeta&#8221; dotarła do brytyjskich danych na temat tego, gdzie absolwenci pracują na sześć miesięcy po uzyskaniu dyplomu. Zbiera je co roku Higher Education Statistics Agency (HESA).</p>
 <p>Z 920 polskich absolwentów brytyjskich uniwersytetów z 2010 r., którzy odpowiedzieli na ankietę, aż 625 pracowało w Anglii. Kolejnych 85 w Szkocji, 30 w Walii, po kilku w Niemczech, Hiszpanii, Belgii, Francji, Szwecji, Szwajcarii. Do Polski wróciło 150.</p>
@@ -127,6 +133,9 @@ Mam wrażenie, że w Polsce i w Anglii zwraca się przy rekrutacji uwagę na zup
 <p>W trakcie studiów pracowałem w elastycznych godzinach w City, więc kończąc studia, miałem już w CV trochę doświadczenia zawodowego. W Polsce byłoby to dużo trudniejsze, tu szeroko pojęty sektor usług finansowych i, co za tym idzie, praktyki dla studentów są o wiele mniej rozwinięte. Dzięki temu mogłem też myśleć o pracy w finansach, choć ich nie studiowałem.</p>
 <p>Dla osób wracających z zagranicy barierą wejścia na polski rynek pracy jest brak kontaktów. Rynek pracy jest jednym z najbardziej nieefektywnych &#8211; informacje o miejscach pracy nie docierają do właściwych kandydatów i na odwrót.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

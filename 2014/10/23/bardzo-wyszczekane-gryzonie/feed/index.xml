@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Bardzo wyszczekane gryzonie</title>
+	<title>
+	Comments on: Bardzo wyszczekane gryzonie	</title>
 	<atom:link href="/2014/10/23/bardzo-wyszczekane-gryzonie/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/10/23/bardzo-wyszczekane-gryzonie/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:56:28 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sun, 10 Jun 2018 11:14:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

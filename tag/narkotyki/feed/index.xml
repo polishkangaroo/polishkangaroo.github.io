@@ -12,11 +12,13 @@
 	<atom:link href="/tag/narkotyki/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:28:52 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>Polka nagrodzona w konkursie FameLab! Zaczęła tak: &#8220;Terroryści, baronowie narkotykowi&#8230;&#8221;</title>
 		<link>/2014/06/09/polka-nagrodzona-w-konkursie-famelab-zaczela-tak-terrorysci-baronowie-narkotykowi/</link>
-		<pubDate>Mon, 09 Jun 2014 22:10:22 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2014 22:10:22 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
@@ -37,10 +40,10 @@
 		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[narkotyki]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=700</guid>
-		<description><![CDATA[Dr Joanna Bagniewska zdobyła nagrodę laureatów w światowym konkursie dla najlepszych popularyzatorów nauki. W finale w brytyjskim Cheltenham Polka opowiadała o tym, że w wykrywaniu bomb i narkotyków mogą nam pomóc&#8230; pszczoły.Uczestnicy FameLab &#8211; naukowcy &#8211; muszą w zrozumiały i zajmujący sposób opowiedzieć o wybranym zagadnieniu naukowym. Tak żeby zafascynować...]]></description>
-				<content:encoded><![CDATA[<p><img class="alignleft size-full wp-image-701" src="https://jbagniewska.files.wordpress.com/2014/06/gw-nagroda.png" alt="GW-nagroda" width="500" height="329" /></p>
+
+					<description><![CDATA[Dr Joanna Bagniewska zdobyła nagrodę laureatów w światowym konkursie dla najlepszych popularyzatorów nauki. W finale w brytyjskim Cheltenham Polka opowiadała o tym, że w wykrywaniu bomb i narkotyków mogą nam pomóc&#8230; pszczoły.Uczestnicy FameLab &#8211; naukowcy &#8211; muszą w zrozumiały i zajmujący sposób opowiedzieć o wybranym zagadnieniu naukowym. Tak żeby zafascynować...]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-full wp-image-701" src="https://jbagniewska.files.wordpress.com/2014/06/gw-nagroda.png" alt="GW-nagroda" width="500" height="329" /></p>
 <div id="gazeta_article_lead">Dr Joanna Bagniewska zdobyła nagrodę laureatów w światowym konkursie dla najlepszych popularyzatorów nauki.</div>
 <p><span id="more-700"></span></p>
 <div id="gazeta_article_body">
@@ -75,12 +78,16 @@
 </div>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Skrzydlaci celnicy  na londyńskim lotnisku</title>
 		<link>/2014/03/03/skrzydlaci-celnicy-na-londynskim-lotnisku/</link>
-		<pubDate>Mon, 03 Mar 2014 23:50:02 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 23:50:02 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Dziennik Polski]]></category>
 		<category><![CDATA[materiały wybuchowe]]></category>
@@ -89,29 +96,33 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=537</guid>
-		<description><![CDATA[Artykuł z Dziennika Polskiego, całość dostępna tu: Dziennik polski. &#160; &#160;]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png"><img class="alignnone wp-image-539" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png" alt="DziennikPL-orig" width="1094" height="807" /></a></p>
+
+					<description><![CDATA[Artykuł z Dziennika Polskiego, całość dostępna tu: Dziennik polski. &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png"><img loading="lazy" class="alignnone wp-image-539" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png" alt="DziennikPL-orig" width="1094" height="807" /></a></p>
 <p>Artykuł z Dziennika Polskiego, całość dostępna tu: <a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl.pdf">Dziennik polski</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Pszczoły wytrenowane przez Polkę szukają narkotyków w Wielkiej Brytanii</title>
 		<link>/2013/12/23/pszczoly-wytrenowane-przez-polke-szukaja-narkotykow-w-wielkiej-brytanii/</link>
-		<pubDate>Mon, 23 Dec 2013 08:52:37 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2013 08:52:37 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[narkotyki]]></category>
 		<category><![CDATA[Newsweek]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=446</guid>
-		<description><![CDATA[&#160; Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. &#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania zapachów i kolorów zapewnia im przetrwanie, dzięki niej potrafią odnaleźć pyłek kwiatowy. W...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/newsweek.png"><img class="alignnone wp-image-447 size-full" src="https://jbagniewska.files.wordpress.com/2013/12/newsweek.png" alt="newsweek" width="500" height="541" /></a></p>
+
+					<description><![CDATA[&#160; Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. &#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania zapachów i kolorów zapewnia im przetrwanie, dzięki niej potrafią odnaleźć pyłek kwiatowy. W...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/newsweek.png"><img loading="lazy" class="alignnone wp-image-447 size-full" src="https://jbagniewska.files.wordpress.com/2013/12/newsweek.png" alt="newsweek" width="500" height="541" /></a></p>
 <p>&nbsp;</p>
 <p><strong>Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek.</strong></p>
 <div>
@@ -120,21 +131,25 @@
 <p>Cały tekst: <a href="https://nauka.newsweek.pl/pszczoly-wytrenowane-przez-polke-szukaja-narkotykow-w-wielkiej-brytanii,artykuly,277501,1.html">https://nauka.newsweek.pl/pszczoly-wytrenowane-przez-polke-szukaja-narkotykow-w-wielkiej-brytanii,artykuly,277501,1.html</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Przemytnika zdradzi&#8230; wysunięty języczek pszczoły</title>
 		<link>/2013/12/23/przemytnika-zdradzi-wysuniety-jezyczek-pszczoly/</link>
-		<pubDate>Mon, 23 Dec 2013 08:44:07 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2013 08:44:07 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[narkotyki]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=442</guid>
-		<description><![CDATA[23.12. Warszawa (PAP) &#8211; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować je tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. &#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/pap-pszczoly.png"><img class="alignnone wp-image-443 size-full" src="https://jbagniewska.files.wordpress.com/2013/12/pap-pszczoly.png" alt="pap-pszczoly" width="500" height="543" /></a></p>
+
+					<description><![CDATA[23.12. Warszawa (PAP) &#8211; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować je tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. &#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/pap-pszczoly.png"><img loading="lazy" class="alignnone wp-image-443 size-full" src="https://jbagniewska.files.wordpress.com/2013/12/pap-pszczoly.png" alt="pap-pszczoly" width="500" height="543" /></a></p>
 <p><b>23.12. Warszawa (PAP) &#8211; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować je tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek.</b></p>
 <p>&#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania zapachów i kolorów zapewnia im przetrwanie, dzięki niej potrafią odnaleźć pyłek kwiatowy. W zasadzie wykrywają i wyczuwają wszystkie zapachy, które rozpoznaje człowiek. Różnica polega na tym, że w porównaniu do ludzi a nawet psów, potrzebują znacznie mniejszego stężenia, by wyczuć dany zapach&#8221; &#8211; tłumaczy PAP dr Joanna Bagniewska z Nottingham Trent University.</p>
 <p>Dr Bagniewska wraz z zespołem naukowców z instytutu badawczego Rothamsted Research trenowała pszczoły i uczyła je rozpoznawania konkretnych zapachów, by mogły np. na lotniskach wykrywać narkotyki czy ładunki wybuchowe. &#8220;Pszczole wystarczy sześć sekund, by nauczyła się konkretnej woni i potrafiła ją rozpoznać&#8221; &#8211; wyjaśniła rozmówczyni PAP.</p>
@@ -151,12 +166,16 @@
 <p>Naukowcy od dawna wiedzą, że pszczoły bardzo łatwo nauczyć rozpoznawania zapachów, ale do tej pory wykorzystywali tę umiejętność raczej do badań podstawowych, a nie w praktyce. Oprócz naukowców brytyjskich pszczoły trenuje też grupa naukowców chorwackich. &#8220;Uczą pszczoły wykrywania min. Jednak nie wiem, jak rozwiążą problem, który może pojawić się, gdy wypuszczą pszczoły na zaminowaną łąkę. Wtedy raczej zajmą się kwiatami, które będą dla nich atrakcyjniejsze&#8221; &#8211; zwraca uwagę dr Bagniewska.</p>
 <p>Ewelina Krajczyńska (PAP)</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Pszczoły kontra przemytnicy. Polska uczona trenuje owady</title>
 		<link>/2013/12/23/pszczoly-kontra-przemytnicy-polska-uczona-trenuje-owady/</link>
-		<pubDate>Mon, 23 Dec 2013 06:56:18 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2013 06:56:18 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[badania]]></category>
 		<category><![CDATA[narkotyki]]></category>
@@ -164,10 +183,10 @@
 		<category><![CDATA[przemyt]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Radio Zet]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=449</guid>
-		<description><![CDATA[&#160; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Przemytnika zdradzi&#8230; wysunięty języczek owada. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, żeby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/radioz.png"><img class="alignnone size-full wp-image-450" src="https://jbagniewska.files.wordpress.com/2013/12/radioz.png" alt="radioZ" width="500" height="556" /></a></p>
+
+					<description><![CDATA[&#160; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Przemytnika zdradzi&#8230; wysunięty języczek owada. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, żeby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/radioz.png"><img loading="lazy" class="alignnone size-full wp-image-450" src="https://jbagniewska.files.wordpress.com/2013/12/radioz.png" alt="radioZ" width="500" height="556" /></a></p>
 <p>&nbsp;</p>
 <div>
 <p><strong>Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Przemytnika zdradzi&#8230; wysunięty języczek owada.</strong></p>
@@ -178,6 +197,9 @@
 <p>Cały tekst: <a href="https://wiadomosci.radiozet.pl/Nauka/Wiadomosci/Pszczoly-kontra-przemytnicy.-Polska-uczona-trenuje-owady">https://wiadomosci.radiozet.pl/Nauka/Wiadomosci/Pszczoly-kontra-przemytnicy.-Polska-uczona-trenuje-owady</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

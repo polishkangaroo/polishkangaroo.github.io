@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Focus: Jak bronią się rośliny?</title>
+	<title>
+	Comments on: Focus: Jak bronią się rośliny?	</title>
 	<atom:link href="/2014/03/03/focus-jak-bronia-sie-rosliny/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/03/03/focus-jak-bronia-sie-rosliny/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:54:48 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sun, 10 Jun 2018 12:26:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

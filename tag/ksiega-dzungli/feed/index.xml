@@ -12,11 +12,13 @@
 	<atom:link href="/tag/ksiega-dzungli/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Oct 2021 23:14:21 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>Disney się myli. Sprawdź, jak bajki naginają prawa biologii</title>
 		<link>/2016/10/16/disney-sie-myli-sprawdz-jak-bajki-naginaja-prawa-biologii/</link>
-		<pubDate>Sun, 16 Oct 2016 19:00:28 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 19:00:28 +0000</pubDate>
 				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -38,10 +41,10 @@
 		<category><![CDATA[Gdzie jest Nemo?]]></category>
 		<category><![CDATA[Król lew]]></category>
 		<category><![CDATA[Księga Dżungli]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1602</guid>
-		<description><![CDATA[Mój artykuł w Magazynie Focus &#124; Bohaterami filmu „Gdzie jest Nemo” są dwa błazenki – Marlin i jego synek Nemo. Zgodnie z biologicznym mechanizmem Marlin powinien zmienić płeć na żeńską, a Nemo byłby jego partnerem seksualnym&#8230; Disney nie dla dzieci? Jako zoolog postaram się przybliżyć najbardziej jaskrawe nieścisłości z popularnych filmów...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój artykuł w <a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">Magazynie Focus</a></em><a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105"> </a><a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">|</a></p>
+
+					<description><![CDATA[Mój artykuł w Magazynie Focus&#160;&#124; Bohaterami filmu „Gdzie jest Nemo” są dwa błazenki – Marlin i jego synek Nemo. Zgodnie z biologicznym mechanizmem Marlin powinien zmienić płeć na żeńską, a Nemo byłby jego partnerem seksualnym&#8230; Disney nie dla dzieci? Jako zoolog postaram się przybliżyć najbardziej jaskrawe nieścisłości z popularnych filmów...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój artykuł w <a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">Magazynie Focus</a></em><a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">&nbsp;</a><a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">|</a></p>
 <div id="gallery-thumbnails" class="bxslider" style="text-align: justify;">
 <div><strong>Bohaterami filmu „Gdzie jest Nemo” są dwa błazenki – Marlin i jego synek Nemo. Zgodnie z biologicznym mechanizmem Marlin powinien zmienić płeć na żeńską, a Nemo byłby jego partnerem seksualnym&#8230; Disney nie dla dzieci?</strong></div>
 <div></div>
@@ -49,7 +52,7 @@
 <p style="text-align: justify;">Jako zoolog postaram się przybliżyć najbardziej jaskrawe nieścisłości z popularnych filmów Disneya. Ale uwaga, po lekturze tego artykułu „Księga dżungli”, „Król Lew” i „Gdzie jest Nemo” już nigdy nie będą takie same – czytacie na własną odpowiedzialność&#8230;</p>
 <p><span id="more-1602"></span></p>
 <p style="text-align: justify;"><strong>Księga dżungli</strong><br />
-Na pierwszy ogień weźmy „Księgę dżungli”. Pamiętacie zapewne Mowgliego – „ludzkie szczenię” wychowane przez wilki. Najlepszym przyjacielem i nauczycielem chłopca jest kudłaty niedźwiedź Baloo. Na podstawie opisu jego zwyczajów (żywi się owocami, owadami i korzonkami) oraz jego miejsca występowania (akcja „Księgi dżungli” toczy się w Seoni w indyjskim stanie Madhya Pradesh) możemy wywnioskować, ze to niedźwiedź wargacz. Ten gatunek to bardzo zły kandydat na opiekuna małego chłopca. Wargacze, mimo przyjacielskiego  wyglądu, są zaskakująco agresywne. Zachowują  się nieprzewidywalnie i atakują niemal bez powodu.</p>
+Na pierwszy ogień weźmy „Księgę dżungli”. Pamiętacie zapewne Mowgliego – „ludzkie szczenię” wychowane przez wilki. Najlepszym przyjacielem i nauczycielem chłopca jest kudłaty niedźwiedź Baloo. Na podstawie opisu jego zwyczajów (żywi się owocami, owadami i korzonkami) oraz jego miejsca występowania (akcja „Księgi dżungli” toczy się w Seoni w indyjskim stanie Madhya Pradesh) możemy wywnioskować, ze to niedźwiedź wargacz. Ten gatunek to bardzo zły kandydat na opiekuna małego chłopca. Wargacze, mimo przyjacielskiego&nbsp; wyglądu, są zaskakująco agresywne. Zachowują&nbsp; się nieprzewidywalnie i atakują niemal bez powodu.</p>
 <p style="text-align: justify;">Podczas trwającego pięć lat badania przeprowadzonego w Madhya Pradesh odnotowano 48 wypadków śmiertelnych spowodowanych przez wargacze. Dla porównania, w całej Ameryce Północnej liczba ofiar śmiertelnych niedźwiedzi grizzly wyniosła ok. 100 w ciągu całego XX wieku. Autorzy indyjskiego badania twierdzą, że między 1989 a 1994 r. wargacze z Madhya Pradesh zaatakowały 735 osób. To ponad dwa razy więcej niż wypadki spowodowane przez lamparty, tygrysy i słonie – razem wzięte! Innymi słowy, złowrogi tygrys Shere Khan przy Baloo to niezbyt groźny kotek.</p>
 <p style="text-align: justify;">Za postać Baloo odpowiada autor książkowej „Księgi dżungli”, czyli Rudyard Kipling. Natomiast śpiewający Król Louie z filmu to wymysł Disneya. Jest ogromnym orangutanem, a te małpy pochodzą z Borneo i Sumatry. Król Louie musiałby więc przepłynąć przez ocean jakieś 3 tys. km, a potem przejść jeszcze 1 tys. km po ladzie, aby spotkać się z Mowglim w centrum Indii.</p>
 <p style="text-align: justify;"><strong>Król Lew</strong><br />
@@ -59,12 +62,15 @@ drogi. Jak się tam znalazły?</p>
 <p style="text-align: justify;">Jednak prawdziwy powód, dla którego takie małżeństwo byłoby niewskazane, jest inny. Aby go zrozumieć, przyjrzyjmy się biologii lwów. Samce tego gatunku – nawet szlachetny Mufasa – po objęciu przywództwa nad stadem zabijają młode swojego poprzednika. Dzięki temu samice mogą prędzej wejść w ruję, a samiec alfa ma pewność, ze wszystkie lwiątka są jego potomstwem. W filmie widzimy tylko jednego dominującego samca – Mufase. Jego brat Skaza nie ma własnego haremu. Wszystkie inne dorosłe lwy to samice. Ponieważ Simba i Nala są w jednym wieku, możemy wywnioskować, ze są bratem i siostrą.</p>
 <p style="text-align: justify;"><strong>Gdzie jest Nemo?</strong><br />
 Jeszcze większe zamieszanie panuje w rodzinie sympatycznych rybek. Na początku filmu „Gdzie jest Nemo?” para błazenków – samiec Marlin i samica Coral – oczekują potomstwa.</p>
-<p style="text-align: justify;">Po złożeniu ikry przez mamę tata opiekuje się jajeczkami, tak jak to ma miejsce w naturze. Niestety, zaraz pojawia się zła barakuda i jednym kłapnięciem paszczy pozera jajeczka wraz z Coral. Tatuś zostaje sam, z ostatnim jajeczkiem,  czyli małym Nemo. W tym momencie Disney pomija dość istotną kwestię. Samice błazenków są większe od samców, a rozmnaża się największa, dominująca samica. Jej partnerem zostaje największy samiec, druga co do wielkości ryba w stadzie. Co ciekawe,<br />
+<p style="text-align: justify;">Po złożeniu ikry przez mamę tata opiekuje się jajeczkami, tak jak to ma miejsce w naturze. Niestety, zaraz pojawia się zła barakuda i jednym kłapnięciem paszczy pozera jajeczka wraz z Coral. Tatuś zostaje sam, z ostatnim jajeczkiem,&nbsp; czyli małym Nemo. W tym momencie Disney pomija dość istotną kwestię. Samice błazenków są większe od samców, a rozmnaża się największa, dominująca samica. Jej partnerem zostaje największy samiec, druga co do wielkości ryba w stadzie. Co ciekawe,<br />
 u tego gatunku występuje zjawisko zwane hermafrodytyzmem sekwencyjnym. Wszystkie błazenki zaczynają życie jako samczyki, a dopiero później mogą zmienić płeć z męskiej na żeńską.</p>
 <p style="text-align: justify;">Jeśli dominująca samica ginie, jej miejsce w stadzie zajmuje druga co do wielkości ryba. Najczęściej jest to samiec, który zmienia płeć i staje się samica – a jej (jego?) partnerem zostaje kolejny rozmiarem błazenek.</p>
 <p style="text-align: justify;">I tu zaczyna się seksualna łamigłówka. Po śmierci partnerki Marlin, jako druga co do wielkości ryba, powinien zmienić płeć, czyli zostać nową mamusią Nemo!</p>
 <p style="text-align: justify;">Nie koniec na tym: ponieważ w filmie nie widać innych błazenków, Nemo jest kolejną pod względem rozmiaru ryba tego gatunku. A zatem, zgodnie z biologicznym mechanizmem, powinien zostać mężem swego tatusia, który stał się mamusią&#8230;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

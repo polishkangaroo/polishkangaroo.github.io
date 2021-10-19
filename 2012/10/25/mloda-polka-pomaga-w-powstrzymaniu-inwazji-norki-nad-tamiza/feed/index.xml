@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Młoda Polka pomaga w powstrzymaniu inwazji norki nad Tamizą</title>
+	<title>
+	Comments on: Młoda Polka pomaga w powstrzymaniu inwazji norki nad Tamizą	</title>
 	<atom:link href="/2012/10/25/mloda-polka-pomaga-w-powstrzymaniu-inwazji-norki-nad-tamiza/feed/" rel="self" type="application/rss+xml" />
 	<link>/2012/10/25/mloda-polka-pomaga-w-powstrzymaniu-inwazji-norki-nad-tamiza/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:54:50 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sat, 09 Jun 2018 10:40:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

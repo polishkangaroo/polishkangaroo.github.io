@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Pszczoły szukają narkotyków? &#8220;Są w tym lepsze od psów&#8221;</title>
+	<title>
+	Comments on: Pszczoły szukają narkotyków? &#8220;Są w tym lepsze od psów&#8221;	</title>
 	<atom:link href="/2014/07/10/pszczoly-szukaja-narkotykow-sa-w-tym-lepsze-od-psow/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/07/10/pszczoly-szukaja-narkotykow-sa-w-tym-lepsze-od-psow/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:56:11 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sun, 10 Jun 2018 11:51:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

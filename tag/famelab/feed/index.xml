@@ -12,11 +12,13 @@
 	<atom:link href="/tag/famelab/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Oct 2021 21:10:35 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,27 +30,32 @@
 	<item>
 		<title>FameLab tip &#8211; how to prepare a talk when you are not a native speaker?</title>
 		<link>/2018/06/11/famelab-tip-how-to-prepare-a-talk-when-you-are-not-a-native-speaker/</link>
-		<pubDate>Mon, 11 Jun 2018 11:26:24 +0000</pubDate>
+		
 		<dc:creator><![CDATA[blu]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2018 11:26:24 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[Science communication]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[British Council]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[science communication]]></category>
-
 		<guid isPermaLink="false">/?p=2509</guid>
-		<description><![CDATA[A video I made for the British Council. &#160;]]></description>
-				<content:encoded><![CDATA[<p>A video I made for the British Council.</p>
-<p><iframe width="790" height="444" src="https://www.youtube.com/embed/2bIFMMwl4PY?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+					<description><![CDATA[A video I made for the British Council. &#160;]]></description>
+										<content:encoded><![CDATA[<p>A video I made for the British Council.</p>
+<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/2bIFMMwl4PY?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>International Echoes of FameLab in Prague 2014</title>
 		<link>/2015/03/12/international-echoes-of-famelab-in-prague-2014/</link>
-		<pubDate>Thu, 12 Mar 2015 22:48:33 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2015 22:48:33 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[Science communication]]></category>
 		<category><![CDATA[Video]]></category>
@@ -56,26 +63,29 @@
 		<category><![CDATA[Czech Republic]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[melatonin]]></category>
-
 		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=881</guid>
-		<description><![CDATA[Last November I had the pleasure to go to Prague for a follow-up FameLab event: International Echoes of FameLab. It was a wonderful chance to hang out with the FameLabber community again, to talk science, drink beer and enjoy the city with all that it has to offer.  A big thank you to...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;">Last November I had the pleasure to go to Prague for a follow-up FameLab event: International Echoes of FameLab. It was a wonderful chance to hang out with the FameLabber community again, to talk science, drink beer and enjoy the city with all that it has to offer.  A big thank you to the organisers &#8211; British Council CZ and Daša Sephton. It was a wonderful experience!</p>
+
+					<description><![CDATA[Last November I had the pleasure to go to Prague for a follow-up FameLab event: International Echoes of FameLab. It was a wonderful chance to hang out with the FameLabber community again, to talk science, drink beer and enjoy the city with all that it has to offer.  A big thank you to...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Last November I had the pleasure to go to Prague for a follow-up FameLab event: International Echoes of FameLab. It was a wonderful chance to hang out with the FameLabber community again, to talk science, drink beer and enjoy the city with all that it has to offer.  A big thank you to the organisers &#8211; British Council CZ and Daša Sephton. It was a wonderful experience!</p>
 <p style="text-align: justify;">Here we are:</p>
-<p style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2015/03/10363533_749375261784269_4891619046948168944_n.jpg"><img class="aligncenter size-full wp-image-882" src="https://jbagniewska.files.wordpress.com/2015/03/10363533_749375261784269_4891619046948168944_n.jpg" alt="FameLab Echoes" width="500" height="333" /></a></p>
+<p style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2015/03/10363533_749375261784269_4891619046948168944_n.jpg"><img loading="lazy" class="aligncenter size-full wp-image-882" src="https://jbagniewska.files.wordpress.com/2015/03/10363533_749375261784269_4891619046948168944_n.jpg" alt="FameLab Echoes" width="500" height="333" /></a></p>
 <p style="text-align: justify;"><span id="fbPhotoSnowliftTagList" class="fbPhotoTagList"><span class="fcg"><span class="fbPhotoTagListTag tagItem">Matyáš Krijt</span>, <span class="fbPhotoTagListTag tagItem">David Davila</span>, <span class="fbPhotoTagListTag tagItem">Padraic Flood</span>, yours truly, <span class="fbPhotoTagListTag tagItem">Bogdan Ghiorghiu</span>, <span class="fbPhotoTagListTag tagItem">Anna Stöckl</span>, <span class="fbPhotoTagListTag tagItem">Jiří Dolanský</span>, <span class="fbPhotoTagListTag tagItem">Jitka Cejkova</span>, <span class="fbPhotoTagListTag tagItem">Michael Londesborough,</span> <span class="fbPhotoTagListTag tagItem">Marco Ferrigo, Daša Sephton and</span> <span class="fbPhotoTagListTag tagItem">Katya Sephton</span>.</span></span></p>
 <p style="text-align: justify;">And here is my presentation:</p>
-<p><iframe width="790" height="444" src="https://www.youtube.com/embed/9QR0uHmwbnI?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/9QR0uHmwbnI?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 <p style="text-align: justify;">
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Rozmowa z dr Joanną Bagniewską</title>
 		<link>/2015/01/18/rozmowa-z-dr-joanna-bagniewska/</link>
-		<pubDate>Sun, 18 Jan 2015 13:55:26 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 18 Jan 2015 13:55:26 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[gatunek inwazyjny]]></category>
@@ -86,18 +96,22 @@
 		<category><![CDATA[radio]]></category>
 		<category><![CDATA[Szkoła Liderów]]></category>
 		<category><![CDATA[zoologia]]></category>
-
 		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=862</guid>
-		<description><![CDATA[Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica.]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2015/01/pradio.png"><img class=" size-full wp-image-863 alignnone" src="https://jbagniewska.files.wordpress.com/2015/01/pradio.png" alt="PRadio" width="500" height="569" /></a></p>
+
+					<description><![CDATA[Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2015/01/pradio.png"><img loading="lazy" class=" size-full wp-image-863 alignnone" src="https://jbagniewska.files.wordpress.com/2015/01/pradio.png" alt="PRadio" width="500" height="569" /></a></p>
 <p><a href="https://www.radiozagranica.pl/8/251/Artykul/193837,Rozmowa-z-Dr-Joanna-Bagniewska">Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Dr Bagniewska: dokarmiam &#8220;smoka sławy&#8221;</title>
 		<link>/2014/07/23/dr-bagniewska-dokarmiam-smoka-slawy/</link>
-		<pubDate>Wed, 23 Jul 2014 11:17:45 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 11:17:45 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -105,10 +119,10 @@
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/2014/07/31/dr-bagniewska-dokarmiam-smoka-slawy/</guid>
-		<description><![CDATA[Po jej pierwszym wystąpieniu publicznym cała szkoła zamarła z wrażenia; w Szanghaju &#8211; mówiąc po chińsku- wygrała konkurs na wystąpienie publiczne; w tym roku podbiła zaś polski FameLab. W przyszłości dr Joannie Bagniewskiej marzy się np. pogram o zagrożonych wyginięciem zwierzętach. Dr Joanna Bagniewska z Nottingham Trent University w maju...]]></description>
-				<content:encoded><![CDATA[<div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png"><img class="size-full wp-image-766" src="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png" alt="pap-smok" width="500" height="320" /></a></div>
+
+					<description><![CDATA[Po jej pierwszym wystąpieniu publicznym cała szkoła zamarła z wrażenia; w Szanghaju &#8211; mówiąc po chińsku- wygrała konkurs na wystąpienie publiczne; w tym roku podbiła zaś polski FameLab. W przyszłości dr Joannie Bagniewskiej marzy się np. pogram o zagrożonych wyginięciem zwierzętach. Dr Joanna Bagniewska z Nottingham Trent University w maju...]]></description>
+										<content:encoded><![CDATA[<div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png"><img loading="lazy" class="size-full wp-image-766" src="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png" alt="pap-smok" width="500" height="320" /></a></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;">Po jej pierwszym wystąpieniu publicznym cała szkoła zamarła z wrażenia; w Szanghaju &#8211; mówiąc po chińsku- wygrała konkurs na wystąpienie publiczne; w tym roku podbiła zaś polski FameLab. W przyszłości dr Joannie Bagniewskiej marzy się np. pogram o zagrożonych wyginięciem zwierzętach.</div>
@@ -144,12 +158,16 @@
 <p style="text-align: justify;"><a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,401144,dr-bagniewska-dokarmiam-smoka-slawy.html">PAP &#8211; Nauka w Polsce</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Niełatwo jest mówić prosto o nauce</title>
 		<link>/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/</link>
-		<pubDate>Mon, 07 Jul 2014 13:50:20 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 07 Jul 2014 13:50:20 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[FameLab]]></category>
@@ -157,10 +175,10 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polska.pl]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/</guid>
-		<description><![CDATA[Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab. Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png"><img class="aligncenter size-full wp-image-739" src="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png" alt="polandgov2" width="500" height="364" /></a></p>
+
+					<description><![CDATA[Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab. Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png"><img loading="lazy" class="aligncenter size-full wp-image-739" src="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png" alt="polandgov2" width="500" height="364" /></a></p>
 <p><strong>Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab.</strong></p>
 <p><span id="more-738"></span>Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w Anglii. Zdobyła tam nagrodę przyznawaną przez laureatów poprzednich edycji FameLab. Celem konkursu jest wyłonienie naukowca z darem krasomówczym, który swoją trzyminutową prezentacją potrafi porwać tłumy. Dr Bagniewskiej się to udało.</p>
 <p><strong>Aleksandra Stanisławska, Polska.pl: Podczas międzynarodowego finału FameLab zdobyła Pani nagrodę przyznawaną przez laureatów poprzednich edycji tego konkursu. To duże wyróżnienie. Czy dotarcie do tak wysokiej lokaty było trudnym zadaniem?</strong></p>
@@ -175,17 +193,20 @@
 <p>Tak, naturalnie! Na razie jednak nie mam sprecyzowanych planów.</p>
 <p>Rozmawiała Aleksandra Stanisławska, <a href="https://www.polska.pl/Nielatwo,jest,mowic,prosto,o,nauce,Kalendarium,5577x4438.html">polska.pl</a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Joanna Bagniewska. Zoolożka wie od czego chomikom kurczą się jądra</title>
 		<link>/2014/07/01/joanna-bagniewska-zoolozka-wie-od-czego-chomikom-kurcza-sie-jadra/</link>
-		<pubDate>Tue, 01 Jul 2014 00:22:40 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2014 00:22:40 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[badania]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[Gazeta Wyborcza]]></category>
@@ -194,10 +215,10 @@
 		<category><![CDATA[seksizm]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[Wysokie Obcasy]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=723</guid>
-		<description><![CDATA[&#160; Wykorzystywaliśmy pszczoły do wykrywania kokainy, heroiny, materiałów wybuchowych. Pszczoła ma węch lepszy od psa, jej trening trwa sześć sekund. Rozmowa z Joanną Bagniewską &#8211; Małgorzata Borkowska, Wysokie Obcasy. Właśnie wygrałaś polski FameLab. Co to za konkurs? Zmusza młodych naukowców do opowiedzenia o jakiejś koncepcji naukowej w zrozumiały i atrakcyjny sposób....]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/wo.png"><img class="aligncenter size-full wp-image-724" src="https://jbagniewska.files.wordpress.com/2014/07/wo.png" alt="WO" width="500" height="279" /></a></p>
+
+					<description><![CDATA[&#160; Wykorzystywaliśmy pszczoły do wykrywania kokainy, heroiny, materiałów wybuchowych. Pszczoła ma węch lepszy od psa, jej trening trwa sześć sekund. Rozmowa z Joanną Bagniewską &#8211; Małgorzata Borkowska, Wysokie Obcasy. Właśnie wygrałaś polski FameLab. Co to za konkurs? Zmusza młodych naukowców do opowiedzenia o jakiejś koncepcji naukowej w zrozumiały i atrakcyjny sposób....]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/wo.png"><img loading="lazy" class="aligncenter size-full wp-image-724" src="https://jbagniewska.files.wordpress.com/2014/07/wo.png" alt="WO" width="500" height="279" /></a></p>
 <p>&nbsp;</p>
 <div id="gazeta_article_lead">Wykorzystywaliśmy pszczoły do wykrywania kokainy, heroiny, materiałów wybuchowych. Pszczoła ma węch lepszy od psa, jej trening trwa sześć sekund. Rozmowa z Joanną Bagniewską &#8211; Małgorzata Borkowska, <a href="https://www.wysokieobcasy.pl/wysokie-obcasy/1,114757,16213103,Joanna_Bagniewska__Zoolozka_wie_od_czego_chomikom.html">Wysokie Obcasy</a>.</div>
 <div></div>
@@ -280,24 +301,28 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Diwa na tropie dzikich zwierząt</title>
 		<link>/2014/06/27/diwa-na-tropie-dzikich-zwierzat/</link>
-		<pubDate>Fri, 27 Jun 2014 00:27:09 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2014 00:27:09 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=730</guid>
-		<description><![CDATA[&#160; &#160; 26 czerwca 2014, 17:43 &#124; Autor: Magdalena Grzymkowska fot. Marten Collins Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca?...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png"><img class="aligncenter size-full wp-image-731" src="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png" alt="DziennikPL-Diwa" width="500" height="344" /></a></p>
+
+					<description><![CDATA[&#160; &#160; 26 czerwca 2014, 17:43 &#124; Autor: Magdalena Grzymkowska fot. Marten Collins Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca?...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png"><img loading="lazy" class="aligncenter size-full wp-image-731" src="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png" alt="DziennikPL-Diwa" width="500" height="344" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="date">
@@ -305,7 +330,7 @@
 </div>
 <div class="content">
 <div class="img alignleft wp-image-30329">
-<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
 <div>fot. Marten Collins</div>
 </div>
 <p>Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca? Joanna Bagniewska jest nie tylko piękną kobietą i niezwykle interesującą osobą, lecz też zdolnym, ambitnym polskim naukowcem robiącym karierę w Wielkiej Brytanii.</p>
@@ -317,7 +342,7 @@
 <p><b>Jądra ciemności</b></p>
 <p>– Czy wy też potrzebujecie więcej snu? Chyba wszyscy mamy go za mało… Ale, drodzy panowie, czy tak chętnie kładlibyście się spać, gdybym Wam powiedziała, że od snu kurczą wam się jądra? Zanim wpadniecie w panikę posłuchajcie mnie przez trzy minuty – tak Joanna rozpoczęła swoją prezentację podczas polskiej edycji konkursu dla badaczy FameLab, mającego na celu popularyzowanie nauki. Jego uczestnicy mają za zadanie w przystępny i atrakcyjny sposób przedstawić zagadnienie naukowe. Tak, aby stało się ono zrozumiałe również dla laików. Mają na to właśnie 3 minuty.</p>
 <div class="img wp-image-30332 alignright">
-<p><img src="https://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel" width="360" height="240" /></p>
+<p><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel" width="360" height="240" /></p>
 <div>Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel</div>
 </div>
 <p>Dr Bagniewska w swoim wystąpieniu zatytułowanym „Jądra ciemności” wytłumaczyła zgromadzonej w Centrum Nauki Kopernik w Warszawie publiczności, że należy być bardzo ostrożnym przy interpretowaniu wyników badań prowadzonych na zwierzętach, ponieważ nie zawsze mają one przełożenie na ludzi. – Jeśli karmimy chomiki coraz większą dawką melatoniny, będącym u zwierząt hormonem snu, jest to dla nich sygnał, że noce stają się coraz dłuższe i nadchodzi zima. Zimą chomiki zapadają w torpor, czyli stan odrętwienia. Spowalnia się metabolizm, dookoła jest zimno, jedzenia jest mało i trzeb „odciąć prąd” organom, które nie są niezbędne, czyli jądrom. Ale czy to przekłada się na ludzi? Nie! My nie hibernujemy zimą, męskie jądra są takiej samej wielkości przez cały rok – konkludowała badaczka. Tą prezentacją ujęła jury, które przyznało jej główną nagrodę – 30 tysięcy złotych na cele naukowe i 5 tysięcy złotych na cele prywatne.</p>
@@ -325,7 +350,7 @@
 <p><b>Pracowita jak pszczółki</b></p>
 <p>Wygrana w polskiej edycji zapewniła jej też możliwość wystąpienia na FameLab International w Cheltenham w Anglii. Tam dostała się finału, gdzie również została wyróżniona nagrodą laureatów, tym razem dzięki prezentacji swoich badań na temat wykorzystania pszczół do… wykrywania narkotyków i materiałów wybuchowych.</p>
 <div class="img alignleft wp-image-30331">
-<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
 <div>Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>– Pszczoły lubią cukier, a gdy wyczują go w powietrzu, wysuwają język. Ach, pewnie większość z Was nie wiedziała, że pszczoły mają język! Otóż, mają – tłumaczyła Joanna. Przeszkolenie owadów, aby nauczyły się rozpoznawać również inne zapachy, jest tańsze i trwa krócej niż w przypadku psa. Fotokomórki zainstalowane w małym, przenośnym ulu, rejestrują wysunięcie się języka pszczoły w momencie, gdy ta wyczuje niebezpieczną substancję, a na wyświetlaczu pojawia się wynik takiego testu i… voilà! Tak powstaje naturalny, tani w utrzymaniu i bardzo dokładny detektor kokainy lub trotylu.</p>
@@ -335,7 +360,7 @@
 <p>Dzięki swoim rodzicom już za młodych lat miała okazję mieszkać w innych krajach. Kiedy miała 6 lat wyjechała z nimi do Włoch, mieszkała również w Tajlandii i w Chinach. Potem wrócili do Polski, gdzie Joanna skończyła w liceum, jednak miłość do podróżowania została. Mając doświadczenie ze szkołami międzynarodowymi postanowiła na studia iść na uczelnię zagraniczną. Wybrała Jacobs University Bremen w Niemczech, gdzie zrobiła licencjat. – Robiłam praktyki w Australii, byłam na wymianie studenckiej w Teksasie, a następnie wyjechałam do Wielkiej Brytanii, gdzie zrobiłam magisterkę i doktorat, przy czym część swojej pracy pisałam w RPA, gdzie badałam populacje psowatych, czyli szakali i listów. Obecnie pracuję na Nottingham Trent University, uczę ekologii, ochrony bioróżnorodności, zachowania zwierząt i rozrodu zwierząt – wymienia.</p>
 <p>&nbsp;</p>
 <div class="img wp-image-30333 alignright">
-<p><b><b><a href="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
+<p><b><b><a href="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
 <div>To również pani doktor / fot. archium Joanny Bagniewskiej</div>
 </div>
 <p><b>Wykład rano, turniej wieczorem</b></p>
@@ -347,7 +372,7 @@
 <p>Joanna Bagniewska udziela się również społecznie. Swoimi doświadczeniami dzieli się z innymi młodymi Polakami, pragnącymi studiować w Wielkiej Brytanii w ramach The Kings Foundation. Ta organizacja ma na celu zachęcać, pomagać i motywować, ale przyszły student też musi się wykazać inicjatywą.</p>
 <p>– Nie można siedzieć jak tabaka w rogu i czekać, aż coś spadnie z nieba. Jeżeli ktoś ma takie nastawienie, to nie dostanie się na Oxford, bo to oznacza, że nie jest przedsiębiorczy i nie poradzi sobie na uczelni. Dlatego nie wystarczy napisać do nas: „jak dostać się na Oxford?” Trzeba zadać konkretne pytanie, dotyczące określonego kierunku studiów, wtedy możemy udzielić kompetentnej rady – mówi.</p>
 <div class="img alignleft">
-<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
 <div>Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>Patrząc na wspaniałą karierę, ogromny entuzjazm i zaangażowanie Joanny Bagniewskiej, aż się ciśnie na usta pytanie, jak ona do tego wszystkiego doszła i czy istnieje uniwersalna recepta na osiągnięcie sukcesu za granicą.</p>
@@ -356,38 +381,46 @@
 <p>Tekst: Magdalena Grzymkowska</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Jestem Demotem!</title>
 		<link>/2014/06/16/jestem-demotem/</link>
-		<pubDate>Mon, 16 Jun 2014 22:48:34 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2014 22:48:34 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[demotywatory]]></category>
 		<category><![CDATA[FameLab]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=715</guid>
-		<description><![CDATA[Demot oczywiście ze strony Demotywatory.pl. &#160;]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/06/demot.png"><img class="aligncenter wp-image-716" src="https://jbagniewska.files.wordpress.com/2014/06/demot.png" alt="Demot" width="1000" height="810" /></a></p>
+
+					<description><![CDATA[Demot oczywiście ze strony Demotywatory.pl. &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/06/demot.png"><img loading="lazy" class="aligncenter wp-image-716" src="https://jbagniewska.files.wordpress.com/2014/06/demot.png" alt="Demot" width="1000" height="810" /></a></p>
 <p>Demot oczywiście ze strony <a href="https://demotywatory.pl/4347992#comments">Demotywatory.pl</a>.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Explosive stuff wins award for academic</title>
 		<link>/2014/06/14/explosive-stuff-wins-award-for-academic/</link>
-		<pubDate>Sat, 14 Jun 2014 17:01:59 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sat, 14 Jun 2014 17:01:59 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[Science communication]]></category>
 		<category><![CDATA[bees]]></category>
 		<category><![CDATA[explosives]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[Nottingham Post]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/2014/07/14/explosive-stuff-wins-award-for-academic/</guid>
-		<description><![CDATA[&#160; WILDLIFE conservation lecturer Dr Joanna Bagniewska has won a top award in the international final of a science communication competition. Joanna, of Nottingham Trent University, won the International Alumni Award at the FameLab 2014 International Final for her talk on &#8216;bomber bees&#8217;, which explored how honeybees can be used...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/nottpost.png"><img class="aligncenter size-full wp-image-748" src="https://jbagniewska.files.wordpress.com/2014/07/nottpost.png" alt="nottpost" width="500" height="290" /></a></p>
+
+					<description><![CDATA[&#160; WILDLIFE conservation lecturer Dr Joanna Bagniewska has won a top award in the international final of a science communication competition. Joanna, of Nottingham Trent University, won the International Alumni Award at the FameLab 2014 International Final for her talk on &#8216;bomber bees&#8217;, which explored how honeybees can be used...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/nottpost.png"><img loading="lazy" class="aligncenter size-full wp-image-748" src="https://jbagniewska.files.wordpress.com/2014/07/nottpost.png" alt="nottpost" width="500" height="290" /></a></p>
 <p>&nbsp;</p>
 <p>WILDLIFE conservation lecturer Dr Joanna Bagniewska has won a top award in the international final of a science communication competition.</p>
 <p><span id="more-749"></span>Joanna, of Nottingham Trent University, won the International Alumni Award at the FameLab 2014 International Final for her talk on &#8216;bomber bees&#8217;, which explored how honeybees can be used to detect explosives and drugs.</p>
@@ -396,12 +429,16 @@
 <p>She said: &#8220;I feel very proud of this award and am extremely pleased to have got as far as I did. The standard of the competitors was very high, so I did not expect to win an award, especially not such a prestigious one.&#8221;</p>
 <p>Read more: <a href="https://www.nottinghampost.com/Explosive-stuff-wins-award-academic/story-21230639-detail/story.html#ixzz37SmIY6cv">https://www.nottinghampost.com/Explosive-stuff-wins-award-academic/story-21230639-detail/story.html#ixzz37SmIY6cv</a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Polka nagrodzona w konkursie FameLab! Zaczęła tak: &#8220;Terroryści, baronowie narkotykowi&#8230;&#8221;</title>
 		<link>/2014/06/09/polka-nagrodzona-w-konkursie-famelab-zaczela-tak-terrorysci-baronowie-narkotykowi/</link>
-		<pubDate>Mon, 09 Jun 2014 22:10:22 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2014 22:10:22 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
@@ -409,10 +446,10 @@
 		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[narkotyki]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=700</guid>
-		<description><![CDATA[Dr Joanna Bagniewska zdobyła nagrodę laureatów w światowym konkursie dla najlepszych popularyzatorów nauki. W finale w brytyjskim Cheltenham Polka opowiadała o tym, że w wykrywaniu bomb i narkotyków mogą nam pomóc&#8230; pszczoły.Uczestnicy FameLab &#8211; naukowcy &#8211; muszą w zrozumiały i zajmujący sposób opowiedzieć o wybranym zagadnieniu naukowym. Tak żeby zafascynować...]]></description>
-				<content:encoded><![CDATA[<p><img class="alignleft size-full wp-image-701" src="https://jbagniewska.files.wordpress.com/2014/06/gw-nagroda.png" alt="GW-nagroda" width="500" height="329" /></p>
+
+					<description><![CDATA[Dr Joanna Bagniewska zdobyła nagrodę laureatów w światowym konkursie dla najlepszych popularyzatorów nauki. W finale w brytyjskim Cheltenham Polka opowiadała o tym, że w wykrywaniu bomb i narkotyków mogą nam pomóc&#8230; pszczoły.Uczestnicy FameLab &#8211; naukowcy &#8211; muszą w zrozumiały i zajmujący sposób opowiedzieć o wybranym zagadnieniu naukowym. Tak żeby zafascynować...]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-full wp-image-701" src="https://jbagniewska.files.wordpress.com/2014/06/gw-nagroda.png" alt="GW-nagroda" width="500" height="329" /></p>
 <div id="gazeta_article_lead">Dr Joanna Bagniewska zdobyła nagrodę laureatów w światowym konkursie dla najlepszych popularyzatorów nauki.</div>
 <p><span id="more-700"></span></p>
 <div id="gazeta_article_body">
@@ -447,6 +484,9 @@
 </div>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

@@ -12,11 +12,13 @@
 	<atom:link href="/tag/pszczoly/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:28:02 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>Pytanie na śniadanie &#8211; wywiad</title>
 		<link>/2016/08/27/pytanie-na-sniadanie-wywiad/</link>
-		<pubDate>Sat, 27 Aug 2016 21:19:35 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sat, 27 Aug 2016 21:19:35 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Brexit]]></category>
@@ -37,17 +40,21 @@
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Pytanie na Śniadanie]]></category>
 		<category><![CDATA[TVP]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1568</guid>
-		<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie.]]></description>
-				<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="https://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>.</p>
+
+					<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie.]]></description>
+										<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="https://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Gdańska zoolożka po Oksfordzie: &#8220;Z naukowców można się śmiać&#8221;</title>
 		<link>/2015/11/04/gdanska-zoolozka-po-oksfordzie-z-naukowcow-mozna-sie-smiac/</link>
-		<pubDate>Wed, 04 Nov 2015 23:18:55 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2015 23:18:55 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -57,10 +64,10 @@
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[zoologia]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1331</guid>
-		<description><![CDATA[Artykuł Doroty Karaś w trójmiejskiej Gazecie Wyborczej Joanna Bagniewska z puchaczem podczas kursu sokolnictwa w Stratford-upon-Avon (Fot. Archiwum prywatne) W Polsce komedia naukowa dopiero raczkuje. W Wielkiej Brytanii naukowiec dostaje mikrofon i około dziesięciu minut na to, żeby rozśmieszyć publiczność. Mam o tyle łatwo, że badania zoologa w dużej mierze obracają...]]></description>
-				<content:encoded><![CDATA[<div id="top_wrap">
+
+					<description><![CDATA[Artykuł Doroty Karaś w trójmiejskiej Gazecie Wyborczej Joanna Bagniewska z puchaczem podczas kursu sokolnictwa w Stratford-upon-Avon (Fot. Archiwum prywatne) W Polsce komedia naukowa dopiero raczkuje. W Wielkiej Brytanii naukowiec dostaje mikrofon i około dziesięciu minut na to, żeby rozśmieszyć publiczność. Mam o tyle łatwo, że badania zoologa w dużej mierze obracają...]]></description>
+										<content:encoded><![CDATA[<div id="top_wrap">
 <div id="holder_101" class="holder_top">
 <p><em>Artykuł Doroty Karaś w <a href="https://trojmiasto.wyborcza.pl/trojmiasto/1,35635,19101595,mt-polska-zoolozka-po-oksfordzie-z-naukowcow-mozna-sie-smiac.html#BoxLokTrojImg">trójmiejskiej Gazecie Wyborczej</a></em></p>
 </div>
@@ -151,15 +158,18 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Rozmowa z dr Joanną Bagniewską</title>
 		<link>/2015/01/18/rozmowa-z-dr-joanna-bagniewska/</link>
-		<pubDate>Sun, 18 Jan 2015 13:55:26 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 18 Jan 2015 13:55:26 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[gatunek inwazyjny]]></category>
@@ -170,28 +180,32 @@
 		<category><![CDATA[radio]]></category>
 		<category><![CDATA[Szkoła Liderów]]></category>
 		<category><![CDATA[zoologia]]></category>
-
 		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=862</guid>
-		<description><![CDATA[Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica.]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2015/01/pradio.png"><img class=" size-full wp-image-863 alignnone" src="https://jbagniewska.files.wordpress.com/2015/01/pradio.png" alt="PRadio" width="500" height="569" /></a></p>
+
+					<description><![CDATA[Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2015/01/pradio.png"><img loading="lazy" class=" size-full wp-image-863 alignnone" src="https://jbagniewska.files.wordpress.com/2015/01/pradio.png" alt="PRadio" width="500" height="569" /></a></p>
 <p><a href="https://www.radiozagranica.pl/8/251/Artykul/193837,Rozmowa-z-Dr-Joanna-Bagniewska">Rozmowa z Marią Wieczorkiewicz w Polskim Radiu Zagranica</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Pszczoły szukają narkotyków? &#8220;Są w tym lepsze od psów&#8221;</title>
 		<link>/2014/07/10/pszczoly-szukaja-narkotykow-sa-w-tym-lepsze-od-psow/</link>
-		<pubDate>Thu, 10 Jul 2014 19:12:18 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 10 Jul 2014 19:12:18 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[Czwórka]]></category>
 		<category><![CDATA[Polskie Radio]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[radio]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1617</guid>
-		<description><![CDATA[Rozmowa z Olgą Mickiewicz w audycji &#8220;Na cztery ręce&#8221; w radiowej Czwórce Pszczoła en face/źr.wikimedia.commons/fot.SdroegeFoto: wikimedia.commons/fot.Sdroege &#8211; Pszczoły mają niesamowity węch, a poza tym bardzo lubią cukier &#8211; tłumaczy w Czwórce dr Joanna Bagniewska, zwyciężczyni tegorocznej polskiej edycji konkurs FameLab i laureatka międzynarodowego finału. &#8211; Można to wykorzystać, by pomagały ludziom...]]></description>
-				<content:encoded><![CDATA[<header class="no-border">
+
+					<description><![CDATA[Rozmowa z Olgą Mickiewicz w audycji &#8220;Na cztery ręce&#8221; w radiowej Czwórce Pszczoła en face/źr.wikimedia.commons/fot.SdroegeFoto: wikimedia.commons/fot.Sdroege &#8211; Pszczoły mają niesamowity węch, a poza tym bardzo lubią cukier &#8211; tłumaczy w Czwórce dr Joanna Bagniewska, zwyciężczyni tegorocznej polskiej edycji konkurs FameLab i laureatka międzynarodowego finału. &#8211; Można to wykorzystać, by pomagały ludziom...]]></description>
+										<content:encoded><![CDATA[<header class="no-border">
 <div class="desc" style="text-align: justify;"><em>Rozmowa z Olgą Mickiewicz w audycji &#8220;<a href="https://www.polskieradio.pl/10/601/Artykul/1174096,Pszczoly-szukaja-narkotykow-Sa-w-tym-lepsze-od-psow">Na cztery ręce</a>&#8221; w radiowej Czwórce</em></div>
 <div class="desc" style="text-align: justify;">
 <div class="imageOnLayer"><img id="imgArticleMain" class="NoRightBtn" src="https://static.prsa.pl/images/b559b8bf-513c-4753-b991-0d3373b66ad7.jpg" alt="Pszczoła en faceźr.wikimedia.commonsfot.Sdroege" /></div>
@@ -213,12 +227,16 @@
 <p style="text-align: justify;"><strong>Zapraszamy do wysłuchania nagrania całej rozmowy z dr Joanną Bagniewską w audycji<a href="https://www.polskieradio.pl/10/Audycja/7539" target="_blank" rel="noopener">&#8220;Na cztery ręce&#8221; </a>.</strong></p>
 <p style="text-align: justify;">Dr Joanna Bagniewska jest zoologiem. Jej doktorat na Uniwersytecie Oksfordzkim dotyczył biotelemetrii, czyli dyskretnego podglądania prywatnego życia dzikich zwierząt. Dotychczas prowadziła badania na kretoszczurach w Teksasie, wombatach w Australii i szakalach oraz lisach w RPA, a także norkach w Wielkiej Brytanii. Obecnie wykłada ekologię i bioróżnorodność na Nottingham Trent University.  Jest założycielką Federacji Polskich Stowarzyszeń Studenckich w UK.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Niełatwo jest mówić prosto o nauce</title>
 		<link>/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/</link>
-		<pubDate>Mon, 07 Jul 2014 13:50:20 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 07 Jul 2014 13:50:20 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[FameLab]]></category>
@@ -226,10 +244,10 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polska.pl]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/</guid>
-		<description><![CDATA[Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab. Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png"><img class="aligncenter size-full wp-image-739" src="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png" alt="polandgov2" width="500" height="364" /></a></p>
+
+					<description><![CDATA[Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab. Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png"><img loading="lazy" class="aligncenter size-full wp-image-739" src="https://jbagniewska.files.wordpress.com/2014/07/polandgov2.png" alt="polandgov2" width="500" height="364" /></a></p>
 <p><strong>Na moim uniwersytecie w Nottingham czuję się lokalnym ambasadorem polskości – mówi dr Joanna Bagniewska, zwyciężczyni polskiej edycji konkursu FameLab.</strong></p>
 <p><span id="more-738"></span>Dr Joanna Bagniewska to zoolożka i wykładowczyni ekologii i bioróżnorodności na Nottingham Trent University. Zwyciężyła w polskiej edycji FameLab i reprezentowała Polskę w międzynarodowym finale tego konkursu w Chentelham w Anglii. Zdobyła tam nagrodę przyznawaną przez laureatów poprzednich edycji FameLab. Celem konkursu jest wyłonienie naukowca z darem krasomówczym, który swoją trzyminutową prezentacją potrafi porwać tłumy. Dr Bagniewskiej się to udało.</p>
 <p><strong>Aleksandra Stanisławska, Polska.pl: Podczas międzynarodowego finału FameLab zdobyła Pani nagrodę przyznawaną przez laureatów poprzednich edycji tego konkursu. To duże wyróżnienie. Czy dotarcie do tak wysokiej lokaty było trudnym zadaniem?</strong></p>
@@ -244,24 +262,28 @@
 <p>Tak, naturalnie! Na razie jednak nie mam sprecyzowanych planów.</p>
 <p>Rozmawiała Aleksandra Stanisławska, <a href="https://www.polska.pl/Nielatwo,jest,mowic,prosto,o,nauce,Kalendarium,5577x4438.html">polska.pl</a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Diwa na tropie dzikich zwierząt</title>
 		<link>/2014/06/27/diwa-na-tropie-dzikich-zwierzat/</link>
-		<pubDate>Fri, 27 Jun 2014 00:27:09 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2014 00:27:09 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=730</guid>
-		<description><![CDATA[&#160; &#160; 26 czerwca 2014, 17:43 &#124; Autor: Magdalena Grzymkowska fot. Marten Collins Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca?...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png"><img class="aligncenter size-full wp-image-731" src="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png" alt="DziennikPL-Diwa" width="500" height="344" /></a></p>
+
+					<description><![CDATA[&#160; &#160; 26 czerwca 2014, 17:43 &#124; Autor: Magdalena Grzymkowska fot. Marten Collins Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca?...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png"><img loading="lazy" class="aligncenter size-full wp-image-731" src="https://jbagniewska.files.wordpress.com/2014/07/dziennikpl-diwa.png" alt="DziennikPL-Diwa" width="500" height="344" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="date">
@@ -269,7 +291,7 @@
 </div>
 <div class="content">
 <div class="img alignleft wp-image-30329">
-<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/1-diwa-na-tropie-600x679.jpg" alt="fot. Marten Collins" width="259" height="293" /></a></p>
 <div>fot. Marten Collins</div>
 </div>
 <p>Śliczna buzia, bystre oczy, zniewalający uśmiech. Kto by pomyślał, że ta młodziutka dziewczyna ma dyplom Oxfordu? I doktorat? I właśnie zdobyła nagrodę w międzynarodowym konkursie dla popularyzatorów nauki? A w wolnych chwilach gania wombaty lub tańczy walca? Joanna Bagniewska jest nie tylko piękną kobietą i niezwykle interesującą osobą, lecz też zdolnym, ambitnym polskim naukowcem robiącym karierę w Wielkiej Brytanii.</p>
@@ -281,7 +303,7 @@
 <p><b>Jądra ciemności</b></p>
 <p>– Czy wy też potrzebujecie więcej snu? Chyba wszyscy mamy go za mało… Ale, drodzy panowie, czy tak chętnie kładlibyście się spać, gdybym Wam powiedziała, że od snu kurczą wam się jądra? Zanim wpadniecie w panikę posłuchajcie mnie przez trzy minuty – tak Joanna rozpoczęła swoją prezentację podczas polskiej edycji konkursu dla badaczy FameLab, mającego na celu popularyzowanie nauki. Jego uczestnicy mają za zadanie w przystępny i atrakcyjny sposób przedstawić zagadnienie naukowe. Tak, aby stało się ono zrozumiałe również dla laików. Mają na to właśnie 3 minuty.</p>
 <div class="img wp-image-30332 alignright">
-<p><img src="https://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel" width="360" height="240" /></p>
+<p><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/4-diwa-na-tropie-600x400.jpg" alt="Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel" width="360" height="240" /></p>
 <div>Joanna Bagniewska podczas z gali finałowej / fot. Wojciech Surdziel</div>
 </div>
 <p>Dr Bagniewska w swoim wystąpieniu zatytułowanym „Jądra ciemności” wytłumaczyła zgromadzonej w Centrum Nauki Kopernik w Warszawie publiczności, że należy być bardzo ostrożnym przy interpretowaniu wyników badań prowadzonych na zwierzętach, ponieważ nie zawsze mają one przełożenie na ludzi. – Jeśli karmimy chomiki coraz większą dawką melatoniny, będącym u zwierząt hormonem snu, jest to dla nich sygnał, że noce stają się coraz dłuższe i nadchodzi zima. Zimą chomiki zapadają w torpor, czyli stan odrętwienia. Spowalnia się metabolizm, dookoła jest zimno, jedzenia jest mało i trzeb „odciąć prąd” organom, które nie są niezbędne, czyli jądrom. Ale czy to przekłada się na ludzi? Nie! My nie hibernujemy zimą, męskie jądra są takiej samej wielkości przez cały rok – konkludowała badaczka. Tą prezentacją ujęła jury, które przyznało jej główną nagrodę – 30 tysięcy złotych na cele naukowe i 5 tysięcy złotych na cele prywatne.</p>
@@ -289,7 +311,7 @@
 <p><b>Pracowita jak pszczółki</b></p>
 <p>Wygrana w polskiej edycji zapewniła jej też możliwość wystąpienia na FameLab International w Cheltenham w Anglii. Tam dostała się finału, gdzie również została wyróżniona nagrodą laureatów, tym razem dzięki prezentacji swoich badań na temat wykorzystania pszczół do… wykrywania narkotyków i materiałów wybuchowych.</p>
 <div class="img alignleft wp-image-30331">
-<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/3-diwa-na-tropie-600x901.jpg" alt="Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej" width="269" height="404" /></a></p>
 <div>Rośliny nie są nudne / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>– Pszczoły lubią cukier, a gdy wyczują go w powietrzu, wysuwają język. Ach, pewnie większość z Was nie wiedziała, że pszczoły mają język! Otóż, mają – tłumaczyła Joanna. Przeszkolenie owadów, aby nauczyły się rozpoznawać również inne zapachy, jest tańsze i trwa krócej niż w przypadku psa. Fotokomórki zainstalowane w małym, przenośnym ulu, rejestrują wysunięcie się języka pszczoły w momencie, gdy ta wyczuje niebezpieczną substancję, a na wyświetlaczu pojawia się wynik takiego testu i… voilà! Tak powstaje naturalny, tani w utrzymaniu i bardzo dokładny detektor kokainy lub trotylu.</p>
@@ -299,7 +321,7 @@
 <p>Dzięki swoim rodzicom już za młodych lat miała okazję mieszkać w innych krajach. Kiedy miała 6 lat wyjechała z nimi do Włoch, mieszkała również w Tajlandii i w Chinach. Potem wrócili do Polski, gdzie Joanna skończyła w liceum, jednak miłość do podróżowania została. Mając doświadczenie ze szkołami międzynarodowymi postanowiła na studia iść na uczelnię zagraniczną. Wybrała Jacobs University Bremen w Niemczech, gdzie zrobiła licencjat. – Robiłam praktyki w Australii, byłam na wymianie studenckiej w Teksasie, a następnie wyjechałam do Wielkiej Brytanii, gdzie zrobiłam magisterkę i doktorat, przy czym część swojej pracy pisałam w RPA, gdzie badałam populacje psowatych, czyli szakali i listów. Obecnie pracuję na Nottingham Trent University, uczę ekologii, ochrony bioróżnorodności, zachowania zwierząt i rozrodu zwierząt – wymienia.</p>
 <p>&nbsp;</p>
 <div class="img wp-image-30333 alignright">
-<p><b><b><a href="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
+<p><b><b><a href="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie.jpg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/5-diwa-na-tropie-600x900.jpg" alt="To również pani doktor / fot. archium Joanny Bagniewskiej" width="259" height="389" /></a></b></b></p>
 <div>To również pani doktor / fot. archium Joanny Bagniewskiej</div>
 </div>
 <p><b>Wykład rano, turniej wieczorem</b></p>
@@ -311,7 +333,7 @@
 <p>Joanna Bagniewska udziela się również społecznie. Swoimi doświadczeniami dzieli się z innymi młodymi Polakami, pragnącymi studiować w Wielkiej Brytanii w ramach The Kings Foundation. Ta organizacja ma na celu zachęcać, pomagać i motywować, ale przyszły student też musi się wykazać inicjatywą.</p>
 <p>– Nie można siedzieć jak tabaka w rogu i czekać, aż coś spadnie z nieba. Jeżeli ktoś ma takie nastawienie, to nie dostanie się na Oxford, bo to oznacza, że nie jest przedsiębiorczy i nie poradzi sobie na uczelni. Dlatego nie wystarczy napisać do nas: „jak dostać się na Oxford?” Trzeba zadać konkretne pytanie, dotyczące określonego kierunku studiów, wtedy możemy udzielić kompetentnej rady – mówi.</p>
 <div class="img alignleft">
-<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img src="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
+<p><a href="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg"><img loading="lazy" src="https://www.dziennikpolski.co.uk/media/2014/06/5.jpeg" alt="Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej" width="384" height="256" /></a></p>
 <div>Joanna mieszkała w 7 państwach, a 5 prowadziła badania naukowe / fot. archiwum Joanny Bagniewskiej</div>
 </div>
 <p>Patrząc na wspaniałą karierę, ogromny entuzjazm i zaangażowanie Joanny Bagniewskiej, aż się ciśnie na usta pytanie, jak ona do tego wszystkiego doszła i czy istnieje uniwersalna recepta na osiągnięcie sukcesu za granicą.</p>
@@ -320,12 +342,16 @@
 <p>Tekst: Magdalena Grzymkowska</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Polka nagrodzona w konkursie FameLab! Zaczęła tak: &#8220;Terroryści, baronowie narkotykowi&#8230;&#8221;</title>
 		<link>/2014/06/09/polka-nagrodzona-w-konkursie-famelab-zaczela-tak-terrorysci-baronowie-narkotykowi/</link>
-		<pubDate>Mon, 09 Jun 2014 22:10:22 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2014 22:10:22 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
@@ -333,10 +359,10 @@
 		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[narkotyki]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=700</guid>
-		<description><![CDATA[Dr Joanna Bagniewska zdobyła nagrodę laureatów w światowym konkursie dla najlepszych popularyzatorów nauki. W finale w brytyjskim Cheltenham Polka opowiadała o tym, że w wykrywaniu bomb i narkotyków mogą nam pomóc&#8230; pszczoły.Uczestnicy FameLab &#8211; naukowcy &#8211; muszą w zrozumiały i zajmujący sposób opowiedzieć o wybranym zagadnieniu naukowym. Tak żeby zafascynować...]]></description>
-				<content:encoded><![CDATA[<p><img class="alignleft size-full wp-image-701" src="https://jbagniewska.files.wordpress.com/2014/06/gw-nagroda.png" alt="GW-nagroda" width="500" height="329" /></p>
+
+					<description><![CDATA[Dr Joanna Bagniewska zdobyła nagrodę laureatów w światowym konkursie dla najlepszych popularyzatorów nauki. W finale w brytyjskim Cheltenham Polka opowiadała o tym, że w wykrywaniu bomb i narkotyków mogą nam pomóc&#8230; pszczoły.Uczestnicy FameLab &#8211; naukowcy &#8211; muszą w zrozumiały i zajmujący sposób opowiedzieć o wybranym zagadnieniu naukowym. Tak żeby zafascynować...]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft size-full wp-image-701" src="https://jbagniewska.files.wordpress.com/2014/06/gw-nagroda.png" alt="GW-nagroda" width="500" height="329" /></p>
 <div id="gazeta_article_lead">Dr Joanna Bagniewska zdobyła nagrodę laureatów w światowym konkursie dla najlepszych popularyzatorów nauki.</div>
 <p><span id="more-700"></span></p>
 <div id="gazeta_article_body">
@@ -371,12 +397,16 @@
 </div>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Skrzydlaci celnicy  na londyńskim lotnisku</title>
 		<link>/2014/03/03/skrzydlaci-celnicy-na-londynskim-lotnisku/</link>
-		<pubDate>Mon, 03 Mar 2014 23:50:02 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 23:50:02 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Dziennik Polski]]></category>
 		<category><![CDATA[materiały wybuchowe]]></category>
@@ -385,29 +415,33 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Tydzień Polski]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=537</guid>
-		<description><![CDATA[Artykuł z Dziennika Polskiego, całość dostępna tu: Dziennik polski. &#160; &#160;]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png"><img class="alignnone wp-image-539" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png" alt="DziennikPL-orig" width="1094" height="807" /></a></p>
+
+					<description><![CDATA[Artykuł z Dziennika Polskiego, całość dostępna tu: Dziennik polski. &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png"><img loading="lazy" class="alignnone wp-image-539" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-orig.png" alt="DziennikPL-orig" width="1094" height="807" /></a></p>
 <p>Artykuł z Dziennika Polskiego, całość dostępna tu: <a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl.pdf">Dziennik polski</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Pszczoły wytrenowane przez Polkę szukają narkotyków w Wielkiej Brytanii</title>
 		<link>/2013/12/23/pszczoly-wytrenowane-przez-polke-szukaja-narkotykow-w-wielkiej-brytanii/</link>
-		<pubDate>Mon, 23 Dec 2013 08:52:37 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2013 08:52:37 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[narkotyki]]></category>
 		<category><![CDATA[Newsweek]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=446</guid>
-		<description><![CDATA[&#160; Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. &#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania zapachów i kolorów zapewnia im przetrwanie, dzięki niej potrafią odnaleźć pyłek kwiatowy. W...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/newsweek.png"><img class="alignnone wp-image-447 size-full" src="https://jbagniewska.files.wordpress.com/2013/12/newsweek.png" alt="newsweek" width="500" height="541" /></a></p>
+
+					<description><![CDATA[&#160; Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. &#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania zapachów i kolorów zapewnia im przetrwanie, dzięki niej potrafią odnaleźć pyłek kwiatowy. W...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/newsweek.png"><img loading="lazy" class="alignnone wp-image-447 size-full" src="https://jbagniewska.files.wordpress.com/2013/12/newsweek.png" alt="newsweek" width="500" height="541" /></a></p>
 <p>&nbsp;</p>
 <p><strong>Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek.</strong></p>
 <div>
@@ -416,21 +450,25 @@
 <p>Cały tekst: <a href="https://nauka.newsweek.pl/pszczoly-wytrenowane-przez-polke-szukaja-narkotykow-w-wielkiej-brytanii,artykuly,277501,1.html">https://nauka.newsweek.pl/pszczoly-wytrenowane-przez-polke-szukaja-narkotykow-w-wielkiej-brytanii,artykuly,277501,1.html</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Przemytnika zdradzi&#8230; wysunięty języczek pszczoły</title>
 		<link>/2013/12/23/przemytnika-zdradzi-wysuniety-jezyczek-pszczoly/</link>
-		<pubDate>Mon, 23 Dec 2013 08:44:07 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2013 08:44:07 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[narkotyki]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=442</guid>
-		<description><![CDATA[23.12. Warszawa (PAP) &#8211; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować je tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. &#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/pap-pszczoly.png"><img class="alignnone wp-image-443 size-full" src="https://jbagniewska.files.wordpress.com/2013/12/pap-pszczoly.png" alt="pap-pszczoly" width="500" height="543" /></a></p>
+
+					<description><![CDATA[23.12. Warszawa (PAP) &#8211; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować je tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. &#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/pap-pszczoly.png"><img loading="lazy" class="alignnone wp-image-443 size-full" src="https://jbagniewska.files.wordpress.com/2013/12/pap-pszczoly.png" alt="pap-pszczoly" width="500" height="543" /></a></p>
 <p><b>23.12. Warszawa (PAP) &#8211; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować je tak, aby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek.</b></p>
 <p>&#8220;Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność rozpoznawania zapachów i kolorów zapewnia im przetrwanie, dzięki niej potrafią odnaleźć pyłek kwiatowy. W zasadzie wykrywają i wyczuwają wszystkie zapachy, które rozpoznaje człowiek. Różnica polega na tym, że w porównaniu do ludzi a nawet psów, potrzebują znacznie mniejszego stężenia, by wyczuć dany zapach&#8221; &#8211; tłumaczy PAP dr Joanna Bagniewska z Nottingham Trent University.</p>
 <p>Dr Bagniewska wraz z zespołem naukowców z instytutu badawczego Rothamsted Research trenowała pszczoły i uczyła je rozpoznawania konkretnych zapachów, by mogły np. na lotniskach wykrywać narkotyki czy ładunki wybuchowe. &#8220;Pszczole wystarczy sześć sekund, by nauczyła się konkretnej woni i potrafiła ją rozpoznać&#8221; &#8211; wyjaśniła rozmówczyni PAP.</p>
@@ -447,6 +485,9 @@
 <p>Naukowcy od dawna wiedzą, że pszczoły bardzo łatwo nauczyć rozpoznawania zapachów, ale do tej pory wykorzystywali tę umiejętność raczej do badań podstawowych, a nie w praktyce. Oprócz naukowców brytyjskich pszczoły trenuje też grupa naukowców chorwackich. &#8220;Uczą pszczoły wykrywania min. Jednak nie wiem, jak rozwiążą problem, który może pojawić się, gdy wypuszczą pszczoły na zaminowaną łąkę. Wtedy raczej zajmą się kwiatami, które będą dla nich atrakcyjniejsze&#8221; &#8211; zwraca uwagę dr Bagniewska.</p>
 <p>Ewelina Krajczyńska (PAP)</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

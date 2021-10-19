@@ -12,11 +12,13 @@
 	<atom:link href="/tag/edulandia-pl/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Jun 2018 22:36:01 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,22 +30,22 @@
 	<item>
 		<title>&#8220;Pszczoły pachną jak miód i skrzydełka. To mój ulubiony zapach na świecie&#8221; &#8211; wywiad z Joanną Bagniewską</title>
 		<link>/2015/11/12/pszczoly-pachna-jak-miod-i-skrzydelka-to-moj-ulubiony-zapach-na-swiecie-wywiad-z-joanna-bagniewska/</link>
-		<pubDate>Thu, 12 Nov 2015 17:29:19 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2015 17:29:19 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[Edulandia.pl]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
 		<category><![CDATA[Science. Polish Perspectives]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1338</guid>
-		<description><![CDATA[Wywiad Beaty Dżumagi dla portalu Edulandia.pl W szkole miała najgorsze oceny z biologii &#8211; dziś jest zoologiem po doktoracie na Oxfordzie. Joanna Bagniewska jest jednym z polskich naukowców pracujących w Wielkiej Brytanii. Tam też działa na rzecz promocji polskich uczonych. Nam opowiada o tym, jak popularyzować naukę wśród młodzieży, dlaczego...]]></description>
-				<content:encoded><![CDATA[<div style="text-align: justify;"><em>Wywiad Beaty Dżumagi dla portalu <a href="https://www.edulandia.pl/edulandia/1,118533,19148063,pszczoly-pachna-jak-miod-i-skrzydelka-to-moj-ulubiony-zapach.html?as=1">Edulandia.pl</a></em></div>
+
+					<description><![CDATA[Wywiad Beaty Dżumagi dla portalu Edulandia.pl W szkole miała najgorsze oceny z biologii &#8211; dziś jest zoologiem po doktoracie na Oxfordzie. Joanna Bagniewska jest jednym z polskich naukowców pracujących w Wielkiej Brytanii. Tam też działa na rzecz promocji polskich uczonych. Nam opowiada o tym, jak popularyzować naukę wśród młodzieży, dlaczego...]]></description>
+										<content:encoded><![CDATA[<div style="text-align: justify;"><em>Wywiad Beaty Dżumagi dla portalu <a href="https://www.edulandia.pl/edulandia/1,118533,19148063,pszczoly-pachna-jak-miod-i-skrzydelka-to-moj-ulubiony-zapach.html?as=1">Edulandia.pl</a></em></div>
 <div style="text-align: justify;"></div>
 <div style="text-align: justify;"><img title="Joanna Bagniewska jest jedną z organizatorek konferencji Science: Polish Perspectives" src="https://bi.gazeta.pl/im/42/42/12/z19148098Q,Joanna-Bagniewska-jest-jedna-z-organizatorek-konfe.jpg" alt="Joanna Bagniewska jest jedną z organizatorek konferencji Science: Polish Perspectives" border="0" /></div>
 <div style="text-align: justify;"></div>
@@ -106,6 +108,9 @@
 <p style="text-align: justify;">&#8211; <b>Po drugie:</b> jeżeli życie nie toczy się po waszej myśli, trzeba je wziąć we własne ręce i pokierować nim. Tak jak w moim przypadku &#8211; kiedy w Niemczech męczyłam się nad komórkami w laboratoriach i stwierdziłam, że wcale nie chcę tutaj być, znalazłam kurs zachowania zwierząt na drugim końcu kraju, w Norymberdze. I miałam na tyle duży tupet, żeby po pierwsze pójść do swoich profesorów i poprosić ich o zwolnienie na dwa tygodnie, a po drugie powiedziałam, że to jest coś, czego chcę się bardziej uczyć i skoro nie ma tego w programie, to uniwersytet powinien zapłacić za mój kurs. I oni się zgodzili. To nie jest tak, że życie poda ci rozwiązanie na talerzu. Trzeba nim pokierować samemu.</p>
 <p style="text-align: justify;">&#8211; <b>Trzecia rzecz:</b> nie do końca należy słuchać innych. Np. moja mama była przerażona tym, że chciałam studiować coś związanego ze zwierzętami. Była przekonana, że skończy się tak, że będę musiała wkładać ręce krowom w nieprzyzwoite miejsca i użerać się z rolnikami. Że nikt mnie nie będzie szanował, bo jestem kobietą, a zoolog to żaden zawód dla kobiety. A trzeba sprawdzić na własnej skórze, jak dany zawód wygląda.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

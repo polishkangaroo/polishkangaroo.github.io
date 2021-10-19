@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Niełatwo jest mówić prosto o nauce</title>
+	<title>
+	Comments on: Niełatwo jest mówić prosto o nauce	</title>
 	<atom:link href="/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/07/07/nielatwo-jest-mowic-prosto-o-nauce/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:54:36 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sun, 10 Jun 2018 11:51:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

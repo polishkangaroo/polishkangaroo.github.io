@@ -12,11 +12,13 @@
 	<atom:link href="/tag/uniwersytety/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Oct 2021 23:16:41 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,19 +30,20 @@
 	<item>
 		<title>Brytyjscy naukowcy kontra Brexit. Oxford i Cambridge sobie poradzą, a reszta?</title>
 		<link>/2017/05/25/brytyjscy-naukowcy-kontra-brexit-oxford-i-cambridge-sobie-poradza-a-reszta/</link>
-		<pubDate>Thu, 25 May 2017 20:13:47 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Gazeta Wyborcza]]></category>
-		<category><![CDATA[Moje teksty]]></category>
+		<pubDate>Thu, 25 May 2017 20:13:47 +0000</pubDate>
+				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Brexit]]></category>
+		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[uniwersytety]]></category>
 		<category><![CDATA[Wielka Brytania]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1692</guid>
-		<description><![CDATA[Mój artykuł w Gazecie Wyborczej &#124; W zeszłorocznym referendum 52 proc. Brytyjczyków zagłosowało za wyjściem z UE. Jednak wśród naukowców odsetek ten był zgoła inny: za pozostaniem optowało według ankiety &#8220;The Times Higher Education&#8221; prawie dziewięciu na dziesięciu pracowników akademickich. Dlaczego? Po pierwsze &#8211; pieniądze Jednym z głównych argumentów zwolenników...]]></description>
-				<content:encoded><![CDATA[<div class="grid-row">
+
+					<description><![CDATA[Mój artykuł w Gazecie Wyborczej &#124; W zeszłorocznym referendum 52 proc. Brytyjczyków zagłosowało za wyjściem z UE. Jednak wśród naukowców odsetek ten był zgoła inny: za pozostaniem optowało według ankiety &#8220;The Times Higher Education&#8221; prawie dziewięciu na dziesięciu pracowników akademickich. Dlaczego? Po pierwsze &#8211; pieniądze Jednym z głównych argumentów zwolenników...]]></description>
+										<content:encoded><![CDATA[<div class="grid-row">
 <div class="grid-col-wide">
 <header id="art-header" class="art-header ">
 <div class="art-headline">
@@ -98,28 +101,31 @@
 </section>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Jedenaste &#8211; nie podpowiadaj</title>
 		<link>/2015/06/21/jedenaste-nie-podpowiadaj/</link>
-		<pubDate>Sun, 21 Jun 2015 16:25:18 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Gazeta Wyborcza]]></category>
-		<category><![CDATA[Moje teksty]]></category>
+		<pubDate>Sun, 21 Jun 2015 16:25:18 +0000</pubDate>
+				<category><![CDATA[Moje teksty]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[szkoła]]></category>
 		<category><![CDATA[uczciwość]]></category>
 		<category><![CDATA[uniwersytety]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1064</guid>
-		<description><![CDATA[Mój artykuł w Gazecie Wyborczej Fot. 123RF Nie pożądaj żony bliźniego swego ani żadnej rzeczy, która jego jest. A co z cudzą klasówką z matmy? Klasówka z matmy. Nauczyciel rozdaje kartki z zadaniami i wychodzi. W klasie cisza. Wszyscy liczą w skupieniu, każdy patrzy w swoją kartkę. W pewnej chwili...]]></description>
-				<content:encoded><![CDATA[<div id="gazeta_article_author" style="text-align: justify;"><em>Mój artykuł w <a href="https://wyborcza.pl/magazyn/1,145324,18173664,Jedenaste___nie_podpowiadaj.html">Gazecie Wyborczej</a></em></div>
+
+					<description><![CDATA[Mój artykuł w Gazecie Wyborczej Fot. 123RF Nie pożądaj żony bliźniego swego ani żadnej rzeczy, która jego jest. A co z cudzą klasówką z matmy? Klasówka z matmy. Nauczyciel rozdaje kartki z zadaniami i wychodzi. W klasie cisza. Wszyscy liczą w skupieniu, każdy patrzy w swoją kartkę. W pewnej chwili...]]></description>
+										<content:encoded><![CDATA[<div id="gazeta_article_author" style="text-align: justify;"><em>Mój artykuł w <a href="https://wyborcza.pl/magazyn/1,145324,18173664,Jedenaste___nie_podpowiadaj.html">Gazecie Wyborczej</a></em></div>
 <div style="text-align: justify;"></div>
 <div id="gazeta_article_date" style="text-align: justify;"></div>
 <div id="gazeta_article_image" style="text-align: justify;">
 <div>
-<p><img title="" src="https://bi.gazeta.pl/im/cf/4e/11/z18146767Q.jpg" alt="" border="0" /></p>
+<p><img title="" src="https://bi.gazeta.pl/im/cf/4e/11/z18146767Q.jpg" alt="" border="0"></p>
 <p class="desc"><em>Fot. 123RF</em></p>
 </div>
 </div>
@@ -162,12 +168,16 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>W Cambridge zakończono &#8220;Polskie Perspektywy&#8221;</title>
 		<link>/2013/11/28/w-cambridge-zakonczono-polskie-perspektywy/</link>
-		<pubDate>Thu, 28 Nov 2013 21:03:12 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2013 21:03:12 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Cambridge University]]></category>
 		<category><![CDATA[Nauka w Polsce]]></category>
@@ -175,10 +185,10 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[polscy naukowcy]]></category>
 		<category><![CDATA[uniwersytety]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=428</guid>
-		<description><![CDATA[18 tys. sekund fascynujących prezentacji, ponad 170 uczestników, 24 przygotowane postery, 1100 zrobionych zdjęć i 777 &#8230; wypitych filiżanek kawy, to niektóre efekty konferencji Nauka. Polskie Perspektywy. Jej drugą edycję zorganizowano w brytyjskim Cambridge. &#160; Zorganizowana po raz drugi konferencja jest adresowana do młodych naukowców, doktorantów i studentów polskiego pochodzenia,...]]></description>
-				<content:encoded><![CDATA[<div><strong><a href="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png"><img class="alignnone wp-image-429" src="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png?w=500" alt="pap-persp" width="685" height="635" /></a></strong></div>
+
+					<description><![CDATA[18 tys. sekund fascynujących prezentacji, ponad 170 uczestników, 24 przygotowane postery, 1100 zrobionych zdjęć i 777 &#8230; wypitych filiżanek kawy, to niektóre efekty konferencji Nauka. Polskie Perspektywy. Jej drugą edycję zorganizowano w brytyjskim Cambridge. &#160; Zorganizowana po raz drugi konferencja jest adresowana do młodych naukowców, doktorantów i studentów polskiego pochodzenia,...]]></description>
+										<content:encoded><![CDATA[<div><strong><a href="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png"><img loading="lazy" class="alignnone wp-image-429" src="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png?w=500" alt="pap-persp" width="685" height="635" /></a></strong></div>
 <div><strong>18 tys. sekund fascynujących prezentacji, ponad 170 uczestników, 24 przygotowane postery, 1100 zrobionych zdjęć i 777 &#8230; wypitych filiżanek kawy, to niektóre efekty konferencji Nauka. Polskie Perspektywy. Jej drugą edycję zorganizowano w brytyjskim Cambridge.</strong></div>
 <p>&nbsp;</p>
 <p>Zorganizowana po raz drugi konferencja jest adresowana do młodych naukowców, doktorantów i studentów polskiego pochodzenia, którzy prowadzą swoje badania na uniwersytetach i w instytutach poza granicami Polski. Uczącym się za granicą studentom umożliwia spotkanie się, zbudowanie sieci kontaktów oraz podjęcie dyskusji na tematy związane z uczestnictwem Polski w rozwoju nauki i technologii.</p>
@@ -199,12 +209,16 @@
 <p><em> </em></p>
 <p>PAP &#8211; Nauka w Polsce</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Film promocyjny The Kings Foundation</title>
 		<link>/2013/07/22/film-promocyjny-the-kings-foundation/</link>
-		<pubDate>Mon, 22 Jul 2013 18:16:07 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2013 18:16:07 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[Oksford]]></category>
@@ -214,17 +228,21 @@
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[uniwersytety]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=375</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><iframe width="790" height="444" src="https://www.youtube.com/embed/vOrWgldd-Ic?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/vOrWgldd-Ic?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Polacy w Oksfordzie: ten uniwersytet otwiera wiele drzwi</title>
 		<link>/2012/10/22/polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi/</link>
-		<pubDate>Sun, 21 Oct 2012 23:05:13 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2012 23:05:13 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[Oksford]]></category>
@@ -233,11 +251,11 @@
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[uniwersytety]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=350</guid>
-		<description><![CDATA[Artykuł PAP – Nauka w Polsce: Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi. „Poziom matematyki i informatyki w Oksfordzie nie...]]></description>
-				<content:encoded><![CDATA[<p>Artykuł <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392490,polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi.html">PAP – Nauka w Polsce</a>:</p>
-<p><a href="https://jbagniewska.files.wordpress.com/2013/07/papox.png"><img class="alignnone size-large wp-image-351" src="https://jbagniewska.files.wordpress.com/2013/07/papox.png?w=500" alt="papOx" width="500" height="452" /></a></p>
+
+					<description><![CDATA[Artykuł PAP – Nauka w Polsce: Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi. „Poziom matematyki i informatyki w Oksfordzie nie...]]></description>
+										<content:encoded><![CDATA[<p>Artykuł <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392490,polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi.html">PAP – Nauka w Polsce</a>:</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/07/papox.png"><img loading="lazy" class="alignnone size-large wp-image-351" src="https://jbagniewska.files.wordpress.com/2013/07/papox.png?w=500" alt="papOx" width="500" height="452" /></a></p>
 <div><strong>Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi.</strong></div>
 <p>„Poziom matematyki i informatyki w Oksfordzie nie jest wcale wyższy niż na polskich uczelniach. Matematyka jest taka sama w każdym języku. Jednak te uniwersytety – Oksford i Cambridge &#8211; nie tylko uczą, ale też wychowują. Moim zdaniem to jest największa różnica między polskimi i brytyjskimi uczelniami” &#8211; powiedział PAP Krzysztof Bar z Uniwersytetu w Oksfordzie.</p>
 <p>Jak wyjaśnił, możliwości rozwoju nie tylko pod względem naukowym, ale też osobowościowym, sportowym czy organizacyjnym w Oksfordzie są nieograniczone. „To jest też kwestia tradycji. Od stuleci misją Oksbridge (Oksfordu i Cambridge &#8211; PAP) było wychowywanie elity społeczeństwa brytyjskiego. Dlatego studenci mogą angażować się w działalność najróżniejszych stowarzyszeń czy np. grać w orkiestrze” &#8211; opisał Bar, prezes Oxford University Polish Society.</p>
@@ -256,6 +274,9 @@
 <p>Jedną z okazji do spotkania była konferencja „Science. Polish Perspectives”, która odbyła się w Oksfordzie między 19 a 21 października. Wzięło w niej udział blisko 150 polskich studentów i młodych uczonych studiujących na uczelniach brytyjskich, ale też w Austrii, Holandii czy Niemczech.</p>
 <p>Z Oxfordu Ewelina Krajczyńska</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

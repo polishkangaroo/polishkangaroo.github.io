@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Famelab crowns the &#8216;best stand-up scientist in the world&#8217;</title>
+	<title>
+	Comments on: Famelab crowns the &#8216;best stand-up scientist in the world&#8217;	</title>
 	<atom:link href="/2014/06/09/famelab-crowns-the-best-stand-up-scientist-in-the-world/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/06/09/famelab-crowns-the-best-stand-up-scientist-in-the-world/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:56:20 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sun, 10 Jun 2018 12:00:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

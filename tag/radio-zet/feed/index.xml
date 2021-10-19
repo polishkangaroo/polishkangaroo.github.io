@@ -12,11 +12,13 @@
 	<atom:link href="/tag/radio-zet/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:28:52 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>Pszczoły kontra przemytnicy. Polska uczona trenuje owady</title>
 		<link>/2013/12/23/pszczoly-kontra-przemytnicy-polska-uczona-trenuje-owady/</link>
-		<pubDate>Mon, 23 Dec 2013 06:56:18 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2013 06:56:18 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[badania]]></category>
 		<category><![CDATA[narkotyki]]></category>
@@ -37,10 +40,10 @@
 		<category><![CDATA[przemyt]]></category>
 		<category><![CDATA[pszczoły]]></category>
 		<category><![CDATA[Radio Zet]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=449</guid>
-		<description><![CDATA[&#160; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Przemytnika zdradzi&#8230; wysunięty języczek owada. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, żeby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/radioz.png"><img class="alignnone size-full wp-image-450" src="https://jbagniewska.files.wordpress.com/2013/12/radioz.png" alt="radioZ" width="500" height="556" /></a></p>
+
+					<description><![CDATA[&#160; Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Przemytnika zdradzi&#8230; wysunięty języczek owada. Pracująca w Wielkiej Brytanii polska uczona potrafi wytrenować pszczoły tak, żeby czując w próbce powietrza zapach heroiny czy kokainy, wysuwały zwinięty w rurkę języczek. Dla pszczół najważniejsze zmysły to wzrok i węch. To właśnie umiejętność...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/12/radioz.png"><img loading="lazy" class="alignnone size-full wp-image-450" src="https://jbagniewska.files.wordpress.com/2013/12/radioz.png" alt="radioZ" width="500" height="556" /></a></p>
 <p>&nbsp;</p>
 <div>
 <p><strong>Pszczoły potrafią wykryć nawet śladowe ilości narkotyków czy materiałów wybuchowych. Przemytnika zdradzi&#8230; wysunięty języczek owada.</strong></p>
@@ -51,6 +54,9 @@
 <p>Cały tekst: <a href="https://wiadomosci.radiozet.pl/Nauka/Wiadomosci/Pszczoly-kontra-przemytnicy.-Polska-uczona-trenuje-owady">https://wiadomosci.radiozet.pl/Nauka/Wiadomosci/Pszczoly-kontra-przemytnicy.-Polska-uczona-trenuje-owady</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

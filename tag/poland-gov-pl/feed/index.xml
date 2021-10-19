@@ -12,11 +12,13 @@
 	<atom:link href="/tag/poland-gov-pl/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 22:31:03 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,19 @@
 	<item>
 		<title>Results of Polish FameLab announced</title>
 		<link>/2014/05/14/results-of-polish-famelab-announced/</link>
-		<pubDate>Wed, 14 May 2014 18:59:09 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 14 May 2014 18:59:09 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[Cheltenham Science Festival]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[melatonin]]></category>
 		<category><![CDATA[Poland.gov.pl]]></category>
 		<category><![CDATA[science communication]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=598</guid>
-		<description><![CDATA[ Photo: Filip Klimaszewski &#124; Fotografia From poland.gov.pl Dr Joanna Bagniewska, a zoologist from Nottingham Trent University, will represent Poland during the international final of FameLab, a competition for young researchers. How to share the results of research that has taken months or even years to get done if you have...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2014/05/polandgov.png"><img class="size-full wp-image-599" src="https://jbagniewska.files.wordpress.com/2014/05/polandgov.png" alt="polandgov" width="500" height="238" /></a></p>
+
+					<description><![CDATA[ Photo: Filip Klimaszewski &#124; Fotografia From poland.gov.pl Dr Joanna Bagniewska, a zoologist from Nottingham Trent University, will represent Poland during the international final of FameLab, a competition for young researchers. How to share the results of research that has taken months or even years to get done if you have...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2014/05/polandgov.png"><img loading="lazy" class="size-full wp-image-599" src="https://jbagniewska.files.wordpress.com/2014/05/polandgov.png" alt="polandgov" width="500" height="238" /></a></p>
 <div class="fotos" style="text-align: justify;"> Photo: Filip Klimaszewski | Fotografia</div>
 <div class="fotos" style="text-align: justify;"></div>
 <div class="fotos" style="text-align: justify;"></div>
@@ -60,6 +63,9 @@
 <p style="text-align: justify;">Aleksandra Stanisławska</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

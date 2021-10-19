@@ -12,11 +12,13 @@
 	<atom:link href="/tag/polish-city-club/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Jun 2018 22:44:03 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,20 +30,21 @@
 	<item>
 		<title>Gala Wybitny Polak 2015</title>
 		<link>/2015/07/07/gala-wybitny-polak-2015/</link>
-		<pubDate>Tue, 07 Jul 2015 18:40:40 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2015 18:40:40 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
+		<category><![CDATA[O społeczeństwie]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
 		<category><![CDATA[PANGEA]]></category>
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polacy za granicą]]></category>
 		<category><![CDATA[Polish City Club]]></category>
 		<category><![CDATA[Polonia]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1091</guid>
-		<description><![CDATA[Tekst ze strony Ambasady RP w Londynie Ambasador Witold Sobków wziął udział w gali przyznania nagród w konkursie “Wybitny Polak” adresowanym do liderów polonijnych. Konkurs Wybitny Polak odbywa sie w wielu krajach świata od 6 lat. W Wielkiej Brytanii został zorganizowany po raz pierwszy dzięki inicjatywie londyńskiego Polish City Club...]]></description>
-				<content:encoded><![CDATA[<div class="Title whiteBorder seq2 whiteBorderSeries">
+
+					<description><![CDATA[Tekst ze strony Ambasady RP w Londynie Ambasador Witold Sobków wziął udział w gali przyznania nagród w konkursie “Wybitny Polak” adresowanym do liderów polonijnych. Konkurs Wybitny Polak odbywa sie w wielu krajach świata od 6 lat. W Wielkiej Brytanii został zorganizowany po raz pierwszy dzięki inicjatywie londyńskiego Polish City Club...]]></description>
+										<content:encoded><![CDATA[<div class="Title whiteBorder seq2 whiteBorderSeries">
 <div id="PTitleP288849P34427" class="content">
 <div class="whiteBarBg">
 <div class="floatA colorC" style="text-align: justify;"><em>Tekst ze strony <a href="https://www.londyn.msz.gov.pl/pl/aktualnosci/gala_wybitny_polak_2015;jsessionid=A6FFF200AB3C8B3887D4FEF8C1960129.cmsap6p">Ambasady RP w Londynie</a></em></div>
@@ -88,6 +91,9 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

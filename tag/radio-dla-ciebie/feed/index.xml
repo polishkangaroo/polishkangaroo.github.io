@@ -12,11 +12,13 @@
 	<atom:link href="/tag/radio-dla-ciebie/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:11:55 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,13 +30,13 @@
 	<item>
 		<title>Popołudnie RDC: Broad Peak, wirus MERS, recykling komórek i chomiki</title>
 		<link>/2014/05/14/popoludnie-rdc-broad-peak-wirus-mers-recykling-komorek-i-chomiki/</link>
-		<pubDate>Wed, 14 May 2014 22:15:43 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 14 May 2014 22:15:43 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[chomiki]]></category>
 		<category><![CDATA[kretoszczury]]></category>
@@ -44,12 +46,15 @@
 		<category><![CDATA[Science. Polish Perspectives]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=673</guid>
-		<description><![CDATA[Audycja Radia Dla Ciebie, prowadzona przez Tomasza Kwaśniewskiego. Link tutaj. &#160;]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/rdc-kwasniewski.png"><img class="alignleft size-full wp-image-674" src="https://jbagniewska.files.wordpress.com/2014/05/rdc-kwasniewski.png" alt="RDC-Kwasniewski" width="500" height="310" /></a>Audycja Radia Dla Ciebie, prowadzona przez Tomasza Kwaśniewskiego. Link<strong> <a href="https://www.rdc.pl/publikacja/popoludnie-rdc-broad-peak-wirus-mers-recykling-komorek-i-chomiki/">tutaj</a>.</strong></p>
+
+					<description><![CDATA[Audycja Radia Dla Ciebie, prowadzona przez Tomasza Kwaśniewskiego. Link tutaj. &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/rdc-kwasniewski.png"><img loading="lazy" class="alignleft size-full wp-image-674" src="https://jbagniewska.files.wordpress.com/2014/05/rdc-kwasniewski.png" alt="RDC-Kwasniewski" width="500" height="310" /></a>Audycja Radia Dla Ciebie, prowadzona przez Tomasza Kwaśniewskiego. Link<strong> <a href="https://www.rdc.pl/publikacja/popoludnie-rdc-broad-peak-wirus-mers-recykling-komorek-i-chomiki/">tutaj</a>.</strong></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

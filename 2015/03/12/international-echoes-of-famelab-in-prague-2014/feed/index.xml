@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: International Echoes of FameLab in Prague 2014</title>
+	<title>
+	Comments on: International Echoes of FameLab in Prague 2014	</title>
 	<atom:link href="/2015/03/12/international-echoes-of-famelab-in-prague-2014/feed/" rel="self" type="application/rss+xml" />
 	<link>/2015/03/12/international-echoes-of-famelab-in-prague-2014/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:54:05 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sun, 10 Jun 2018 22:35:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

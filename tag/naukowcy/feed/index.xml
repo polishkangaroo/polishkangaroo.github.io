@@ -12,11 +12,13 @@
 	<atom:link href="/tag/naukowcy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 11:15:06 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,10 +30,11 @@
 	<item>
 		<title>Ściągnąć mądre głowy do Polski. Wywiad z dr Joanną Bagniewską</title>
 		<link>/2014/10/10/sciagnac-madre-glowy-do-polski-wywiad-z-dr-joanna-bagniewska/</link>
-		<pubDate>Fri, 10 Oct 2014 19:59:59 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
+		<pubDate>Fri, 10 Oct 2014 19:59:59 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
+		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[NaTemat.pl]]></category>
 		<category><![CDATA[naukowcy]]></category>
 		<category><![CDATA[Oksford]]></category>
@@ -39,10 +42,10 @@
 		<category><![CDATA[polscy studenci w UK]]></category>
 		<category><![CDATA[polska nauka]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=819</guid>
-		<description><![CDATA[Wywiad w NaTemat.pl. O życiu akademickim w Wielkiej Brytanii i o tym, że nie znosi nudy z dr Joanną Bagniewską rozmawia Dorota Goliszewska. Ilu jest ludzi takich jak Pani, którzy przyjechali do Wielkiej Brytanii nie po pracę, ale po wiedzę? W szczytowym okresie na Wyspach uczyło się około 15 tys....]]></description>
-				<content:encoded><![CDATA[<p style="text-align: left;"><a href="https://jbagniewska.files.wordpress.com/2014/10/natemat.png"><img class="aligncenter size-full wp-image-820" src="https://jbagniewska.files.wordpress.com/2014/10/natemat.png" alt="natemat" width="500" height="263" /></a></p>
+
+					<description><![CDATA[Wywiad w NaTemat.pl. O życiu akademickim w Wielkiej Brytanii i o tym, że nie znosi nudy z dr Joanną Bagniewską rozmawia Dorota Goliszewska. Ilu jest ludzi takich jak Pani, którzy przyjechali do Wielkiej Brytanii nie po pracę, ale po wiedzę? W szczytowym okresie na Wyspach uczyło się około 15 tys....]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;"><a href="https://jbagniewska.files.wordpress.com/2014/10/natemat.png"><img loading="lazy" class="aligncenter size-full wp-image-820" src="https://jbagniewska.files.wordpress.com/2014/10/natemat.png" alt="natemat" width="500" height="263" /></a></p>
 <p style="text-align: left;"><em>Wywiad w <a href="https://obywatelski.natemat.pl/119713,sciagnac-madre-glowy-do-polski-wywiad-z-dr-joanna-bagniewska">NaTemat.pl</a>.</em></p>
 <p style="text-align: left;">O życiu akademickim w Wielkiej Brytanii i o tym, że nie znosi nudy z dr Joanną Bagniewską rozmawia Dorota Goliszewska.</p>
 <p style="text-align: left;"><span id="more-819"></span></p>
@@ -67,6 +70,9 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <p>***</p>
 <p>Dr Joanna Bagniewska &#8211; zoolog, wykładowca Nottingham Trent University, laureatka trzeciej polskiej edycji konkursu FameLab. Świeżo upieczona mężatka, dziewczyna, która nie usiedzi w jednym miejscu zbyt długo, zawsze musi być w ruchu, coś organizować.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

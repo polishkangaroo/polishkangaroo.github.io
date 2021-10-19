@@ -12,11 +12,13 @@
 	<atom:link href="/tag/nauka-w-polsce/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:40:13 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>Zoolog: zamknięciu ferm norek powinna towarzyszyć akcja uświadamiająca</title>
 		<link>/2017/12/17/zoolog-zamknieciu-ferm-norek-powinna-towarzyszyc-akcja-uswiadamiajaca/</link>
-		<pubDate>Sun, 17 Dec 2017 21:26:47 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 17 Dec 2017 21:26:47 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -38,10 +41,10 @@
 		<category><![CDATA[norka amerykańska]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[zwierzęta futerkowe]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1764</guid>
-		<description><![CDATA[Wywiad dla PAP &#8211; Nauka w Polsce. &#124; Zamknięcie ferm, w których hodowane są norki, miałoby sens, gdyby jednocześnie przeprowadzono akcje uświadamiające skierowane do konsumentów. Jeśli popyt na futra utrzyma się, problem przeniesie się do innych krajów &#8211; powiedziała PAP zoolog dr Joanna Bagniewska. Posłowie PiS złożyli w Sejmie projekt...]]></description>
-				<content:encoded><![CDATA[<div class="titleAuthorWrapper">
+
+					<description><![CDATA[Wywiad dla PAP &#8211; Nauka w Polsce. &#124; Zamknięcie ferm, w których hodowane są norki, miałoby sens, gdyby jednocześnie przeprowadzono akcje uświadamiające skierowane do konsumentów. Jeśli popyt na futra utrzyma się, problem przeniesie się do innych krajów &#8211; powiedziała PAP zoolog dr Joanna Bagniewska. Posłowie PiS złożyli w Sejmie projekt...]]></description>
+										<content:encoded><![CDATA[<div class="titleAuthorWrapper">
 <p class="title" style="text-align: justify;"><em>Wywiad dla <a href="https://naukawpolsce.pap.pl/aktualnosci/news%2C27281%2Czoolog-zamknieciu-ferm-norek-powinna-towarzyszyc-akcja-uswiadamiajaca.html">PAP &#8211; Nauka w Polsce</a>. </em>|<em><br />
 </em></p>
 </div>
@@ -62,21 +65,25 @@
 <p style="text-align: justify;">Edytor: Anna Ślązak</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>W Białymstoku rusza naukowe show: Kreatywne Rozmowy o Nauce</title>
 		<link>/2016/02/12/w-bialymstoku-rusza-naukowe-show-kreatywne-rozmowy-o-nauce/</link>
-		<pubDate>Fri, 12 Feb 2016 16:24:14 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2016 16:24:14 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1350</guid>
-		<description><![CDATA[Artykuł PAP &#8211; Nauka w Polsce Sześcioro naukowców (chemik, dwóch fizyków oraz troje biologów) będzie miało po ok. 20 minut, żeby wprowadzić widzów w ciekawostki świata przyrody i techniki. Uniwersytet w Białymstoku zaprasza 18 lutego na naukowe show &#8211; KRON &#8211; czyli Kreatywne Rozmowy o Nauce. Inspiracją wydarzenia organizowanego przez...]]></description>
-				<content:encoded><![CDATA[<div class="margines wiadomosc">
+
+					<description><![CDATA[Artykuł PAP &#8211; Nauka w Polsce Sześcioro naukowców (chemik, dwóch fizyków oraz troje biologów) będzie miało po ok. 20 minut, żeby wprowadzić widzów w ciekawostki świata przyrody i techniki. Uniwersytet w Białymstoku zaprasza 18 lutego na naukowe show &#8211; KRON &#8211; czyli Kreatywne Rozmowy o Nauce. Inspiracją wydarzenia organizowanego przez...]]></description>
+										<content:encoded><![CDATA[<div class="margines wiadomosc">
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><em>Artykuł <a href="https://naukawpolsce.pap.pl/aktualnosci/news,408389,w-bialymstoku-rusza-naukowe-show-kreatywne-rozmowy-o-nauce.html">PAP &#8211; Nauka w Polsce</a></em></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><strong>Sześcioro naukowców (chemik, dwóch fizyków oraz troje biologów) będzie miało po ok. 20 minut, żeby wprowadzić widzów w ciekawostki świata przyrody i techniki. Uniwersytet w Białymstoku zaprasza 18 lutego na naukowe show &#8211; KRON &#8211; czyli Kreatywne Rozmowy o Nauce.</strong></div>
 <div class="tresc information-content szablon-2">
@@ -96,22 +103,25 @@
 </div>
 <div class="belka-1"></div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Dr Bagniewska: młodym naukowcom trudno wrócić do Polski</title>
 		<link>/2015/03/27/dr-bagniewska-mlodym-naukowcom-trudno-wrocic-do-polski/</link>
-		<pubDate>Fri, 27 Mar 2015 00:49:45 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
+		<pubDate>Fri, 27 Mar 2015 00:49:45 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
+		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[powroty]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1008</guid>
-		<description><![CDATA[Wywiad z Eweliną Krajczyńską dla serwisu PAP-Nauka w Polsce. Młodzi polscy naukowcy pracujący za granicą myślą o powrocie do kraju, ale powrót utrudnia im sam proces rekrutacji w rodzimych instytucjach i obawy przed osobami &#8220;z zewnątrz&#8221;. Po doktoracie chciałam wrócić, ale nie bardzo miałam do czego &#8211; mówi dr Joanna...]]></description>
-				<content:encoded><![CDATA[<div class="social-buttons">
+
+					<description><![CDATA[Wywiad z Eweliną Krajczyńską dla serwisu PAP-Nauka w Polsce. Młodzi polscy naukowcy pracujący za granicą myślą o powrocie do kraju, ale powrót utrudnia im sam proces rekrutacji w rodzimych instytucjach i obawy przed osobami &#8220;z zewnątrz&#8221;. Po doktoracie chciałam wrócić, ale nie bardzo miałam do czego &#8211; mówi dr Joanna...]]></description>
+										<content:encoded><![CDATA[<div class="social-buttons">
 <div class="fb w-lewo" style="text-align: justify;">Wywiad z Eweliną Krajczyńską dla serwisu <em><a href="https://naukawpolsce.pap.pl/aktualnosci/news,404356,dr-bagniewska-mlodym-naukowcom-trudno-wrocic-do-polski.html">PAP-Nauka w Polsce</a>.</em></div>
 </div>
 <div class="googleplus w-lewo" style="text-align: justify;"></div>
@@ -148,12 +158,16 @@
 <p style="text-align: justify;"><em>PAP: Dziękuję za rozmowę.</em></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Dr Bagniewska: dokarmiam &#8220;smoka sławy&#8221;</title>
 		<link>/2014/07/23/dr-bagniewska-dokarmiam-smoka-slawy/</link>
-		<pubDate>Wed, 23 Jul 2014 11:17:45 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 11:17:45 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -161,10 +175,10 @@
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/2014/07/31/dr-bagniewska-dokarmiam-smoka-slawy/</guid>
-		<description><![CDATA[Po jej pierwszym wystąpieniu publicznym cała szkoła zamarła z wrażenia; w Szanghaju &#8211; mówiąc po chińsku- wygrała konkurs na wystąpienie publiczne; w tym roku podbiła zaś polski FameLab. W przyszłości dr Joannie Bagniewskiej marzy się np. pogram o zagrożonych wyginięciem zwierzętach. Dr Joanna Bagniewska z Nottingham Trent University w maju...]]></description>
-				<content:encoded><![CDATA[<div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png"><img class="size-full wp-image-766" src="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png" alt="pap-smok" width="500" height="320" /></a></div>
+
+					<description><![CDATA[Po jej pierwszym wystąpieniu publicznym cała szkoła zamarła z wrażenia; w Szanghaju &#8211; mówiąc po chińsku- wygrała konkurs na wystąpienie publiczne; w tym roku podbiła zaś polski FameLab. W przyszłości dr Joannie Bagniewskiej marzy się np. pogram o zagrożonych wyginięciem zwierzętach. Dr Joanna Bagniewska z Nottingham Trent University w maju...]]></description>
+										<content:encoded><![CDATA[<div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"><a href="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png"><img loading="lazy" class="size-full wp-image-766" src="https://jbagniewska.files.wordpress.com/2014/07/pap-smok.png" alt="pap-smok" width="500" height="320" /></a></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;"></div>
 <div class="skrot shr-bookmarks-content information-content" style="text-align: justify;">Po jej pierwszym wystąpieniu publicznym cała szkoła zamarła z wrażenia; w Szanghaju &#8211; mówiąc po chińsku- wygrała konkurs na wystąpienie publiczne; w tym roku podbiła zaś polski FameLab. W przyszłości dr Joannie Bagniewskiej marzy się np. pogram o zagrożonych wyginięciem zwierzętach.</div>
@@ -200,12 +214,16 @@
 <p style="text-align: justify;"><a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,401144,dr-bagniewska-dokarmiam-smoka-slawy.html">PAP &#8211; Nauka w Polsce</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Chomiczy problem, który mężczyznom na szczęście nie grozi</title>
 		<link>/2014/05/13/chomiczy-problem-ktory-mezczyznom-na-szczescie-nie-grozi/</link>
-		<pubDate>Tue, 13 May 2014 21:31:00 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 13 May 2014 21:31:00 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[chomiki]]></category>
@@ -214,10 +232,10 @@
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=663</guid>
-		<description><![CDATA[&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Chomiki, które zapadają w sen muszą &#8220;liczyć się&#8221; z tym, że ich jądra w tym czasie nieco się&#8230; zmniejszą. Na szczęście mężczyznom nie grożą podobne skutki długiego snu &#8211; przekonywała dr Joanna Bagniewska, w wystąpieniu, które przyniosło jej...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/pap-chomik.png"><img class="alignleft size-full wp-image-664" src="https://jbagniewska.files.wordpress.com/2014/05/pap-chomik.png" alt="pap-chomik" width="500" height="531" /></a></p>
+
+					<description><![CDATA[&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Chomiki, które zapadają w sen muszą &#8220;liczyć się&#8221; z tym, że ich jądra w tym czasie nieco się&#8230; zmniejszą. Na szczęście mężczyznom nie grożą podobne skutki długiego snu &#8211; przekonywała dr Joanna Bagniewska, w wystąpieniu, które przyniosło jej...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/05/pap-chomik.png"><img loading="lazy" class="alignleft size-full wp-image-664" src="https://jbagniewska.files.wordpress.com/2014/05/pap-chomik.png" alt="pap-chomik" width="500" height="531" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -246,12 +264,16 @@
 <p style="font-weight: inherit; font-style: inherit;">PAP &#8211; <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,400328,chomiczy-problem-ktory-mezczyznom-na-szczescie-nie-grozi.html">Nauka w Polsce</a></p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Joanna Bagniewska zwyciężczynią trzeciej polskiej edycji FameLab</title>
 		<link>/2014/05/11/joanna-bagniewska-zwyciezczynia-trzeciej-polskiej-edycji-famelab/</link>
-		<pubDate>Sun, 11 May 2014 20:25:10 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 11 May 2014 20:25:10 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[konkurs]]></category>
@@ -259,11 +281,11 @@
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[popularyzacja nauki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=625</guid>
-		<description><![CDATA[&#160; Dr Joanna Bagniewska zwyciężyła w finale trzeciej  polskiej edycji konkursu FameLab, który w sobotę odbył się w warszawskim Centrum Nauki Kopernik. W czerwcu będzie reprezentowała Polskę w światowym finale tego konkursu. &#160; FameLab to znany niemal na całym świecie konkursy talentów. Jednak zamiast piosenkarzy, tancerzy czy ekwilibrystów swoich sił próbują...]]></description>
-				<content:encoded><![CDATA[<p>&nbsp;</p>
-<div class="skrot shr-bookmarks-content information-content" style="font-weight: bold; color: #333333;"><a href="https://jbagniewska.files.wordpress.com/2014/05/pap-nauka.png"><img class="alignleft size-full wp-image-626" src="https://jbagniewska.files.wordpress.com/2014/05/pap-nauka.png" alt="pap-nauka" width="500" height="317" /></a></div>
+
+					<description><![CDATA[&#160; Dr Joanna Bagniewska zwyciężyła w finale trzeciej  polskiej edycji konkursu FameLab, który w sobotę odbył się w warszawskim Centrum Nauki Kopernik. W czerwcu będzie reprezentowała Polskę w światowym finale tego konkursu. &#160; FameLab to znany niemal na całym świecie konkursy talentów. Jednak zamiast piosenkarzy, tancerzy czy ekwilibrystów swoich sił próbują...]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<div class="skrot shr-bookmarks-content information-content" style="font-weight: bold; color: #333333;"><a href="https://jbagniewska.files.wordpress.com/2014/05/pap-nauka.png"><img loading="lazy" class="alignleft size-full wp-image-626" src="https://jbagniewska.files.wordpress.com/2014/05/pap-nauka.png" alt="pap-nauka" width="500" height="317" /></a></div>
 <div class="skrot shr-bookmarks-content information-content" style="font-weight: bold; color: #333333;">Dr Joanna Bagniewska zwyciężyła w finale trzeciej  polskiej edycji konkursu FameLab, który w sobotę odbył się w warszawskim Centrum Nauki Kopernik. W czerwcu będzie reprezentowała Polskę w światowym finale tego konkursu.</div>
 <p>&nbsp;</p>
 <div class="tresc information-content szablon-2" style="color: #333333;">
@@ -281,12 +303,16 @@
 <p><a href="https://wiadomosci.wp.pl/kat,1342,title,Joanna-Bagniewska-zwyciezczynia-trzeciej-polskiej-edycji-FameLab,wid,16594046,wiadomosc.html?ticaid=112bce&amp;_ticrsn=3">wp.pl</a></p>
 <p><a href="https://wiadomosci.onet.pl/warszawa/joanna-bagniewska-zwyciezczynia-trzeciej-polskiej-edycji-famelab/p4bfh">onet.pl</a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>W Cambridge zakończono &#8220;Polskie Perspektywy&#8221;</title>
 		<link>/2013/11/28/w-cambridge-zakonczono-polskie-perspektywy/</link>
-		<pubDate>Thu, 28 Nov 2013 21:03:12 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2013 21:03:12 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Cambridge University]]></category>
 		<category><![CDATA[Nauka w Polsce]]></category>
@@ -294,10 +320,10 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[polscy naukowcy]]></category>
 		<category><![CDATA[uniwersytety]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=428</guid>
-		<description><![CDATA[18 tys. sekund fascynujących prezentacji, ponad 170 uczestników, 24 przygotowane postery, 1100 zrobionych zdjęć i 777 &#8230; wypitych filiżanek kawy, to niektóre efekty konferencji Nauka. Polskie Perspektywy. Jej drugą edycję zorganizowano w brytyjskim Cambridge. &#160; Zorganizowana po raz drugi konferencja jest adresowana do młodych naukowców, doktorantów i studentów polskiego pochodzenia,...]]></description>
-				<content:encoded><![CDATA[<div><strong><a href="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png"><img class="alignnone wp-image-429" src="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png?w=500" alt="pap-persp" width="685" height="635" /></a></strong></div>
+
+					<description><![CDATA[18 tys. sekund fascynujących prezentacji, ponad 170 uczestników, 24 przygotowane postery, 1100 zrobionych zdjęć i 777 &#8230; wypitych filiżanek kawy, to niektóre efekty konferencji Nauka. Polskie Perspektywy. Jej drugą edycję zorganizowano w brytyjskim Cambridge. &#160; Zorganizowana po raz drugi konferencja jest adresowana do młodych naukowców, doktorantów i studentów polskiego pochodzenia,...]]></description>
+										<content:encoded><![CDATA[<div><strong><a href="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png"><img loading="lazy" class="alignnone wp-image-429" src="https://jbagniewska.files.wordpress.com/2013/12/pap-persp.png?w=500" alt="pap-persp" width="685" height="635" /></a></strong></div>
 <div><strong>18 tys. sekund fascynujących prezentacji, ponad 170 uczestników, 24 przygotowane postery, 1100 zrobionych zdjęć i 777 &#8230; wypitych filiżanek kawy, to niektóre efekty konferencji Nauka. Polskie Perspektywy. Jej drugą edycję zorganizowano w brytyjskim Cambridge.</strong></div>
 <p>&nbsp;</p>
 <p>Zorganizowana po raz drugi konferencja jest adresowana do młodych naukowców, doktorantów i studentów polskiego pochodzenia, którzy prowadzą swoje badania na uniwersytetach i w instytutach poza granicami Polski. Uczącym się za granicą studentom umożliwia spotkanie się, zbudowanie sieci kontaktów oraz podjęcie dyskusji na tematy związane z uczestnictwem Polski w rozwoju nauki i technologii.</p>
@@ -318,12 +344,16 @@
 <p><em> </em></p>
 <p>PAP &#8211; Nauka w Polsce</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Młoda Polka pomaga w powstrzymaniu inwazji norki nad Tamizą</title>
 		<link>/2012/10/25/mloda-polka-pomaga-w-powstrzymaniu-inwazji-norki-nad-tamiza/</link>
-		<pubDate>Wed, 24 Oct 2012 23:14:55 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2012 23:14:55 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[biotelemetria]]></category>
@@ -332,11 +362,11 @@
 		<category><![CDATA[norka amerykańska]]></category>
 		<category><![CDATA[PAP (Polska Agencja Prasowa)]]></category>
 		<category><![CDATA[polscy naukowcy]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=355</guid>
-		<description><![CDATA[Artykuł PAP – Nauka w Polsce: Niewielka, lecz niezwykle żarłoczna norka amerykańska ku przerażeniu ekologów rozprzestrzeniła się w Europie. Joanna Bagniewska- młoda zoolog z Uniwersytetu Oksfordzkiego &#8211; zbadała aktywność tego nieznośnego drapieżnika, co pomoże powstrzymać inwazję ssaków. &#8220;Norka amerykańska jest zwierzęciem ciekawym. To zwierzę ziemnowodne, które reprezentuje transformację stylu życia...]]></description>
-				<content:encoded><![CDATA[<p>Artykuł <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392567,mloda-polka-pomaga-w-powstrzymaniu-inwazji-norki-nad-tamiza.html">PAP – Nauka w Polsce</a>:</p>
-<p><a href="http://jbagniewska.files.wordpress.com/2013/07/pap-norka.png"><img class="alignnone size-large wp-image-356" src="http://jbagniewska.files.wordpress.com/2013/07/pap-norka.png?w=500" alt="pap-norka" width="500" height="450" /></a></p>
+
+					<description><![CDATA[Artykuł PAP – Nauka w Polsce: Niewielka, lecz niezwykle żarłoczna norka amerykańska ku przerażeniu ekologów rozprzestrzeniła się w Europie. Joanna Bagniewska- młoda zoolog z Uniwersytetu Oksfordzkiego &#8211; zbadała aktywność tego nieznośnego drapieżnika, co pomoże powstrzymać inwazję ssaków. &#8220;Norka amerykańska jest zwierzęciem ciekawym. To zwierzę ziemnowodne, które reprezentuje transformację stylu życia...]]></description>
+										<content:encoded><![CDATA[<p>Artykuł <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392567,mloda-polka-pomaga-w-powstrzymaniu-inwazji-norki-nad-tamiza.html">PAP – Nauka w Polsce</a>:</p>
+<p><a href="http://jbagniewska.files.wordpress.com/2013/07/pap-norka.png"><img loading="lazy" class="alignnone size-large wp-image-356" src="http://jbagniewska.files.wordpress.com/2013/07/pap-norka.png?w=500" alt="pap-norka" width="500" height="450" /></a></p>
 <div><strong>Niewielka, lecz niezwykle żarłoczna norka amerykańska ku przerażeniu ekologów rozprzestrzeniła się w Europie. Joanna Bagniewska- młoda zoolog z Uniwersytetu Oksfordzkiego &#8211; zbadała aktywność tego nieznośnego drapieżnika, co pomoże powstrzymać inwazję ssaków.</strong></div>
 <p>&#8220;Norka amerykańska jest zwierzęciem ciekawym. To zwierzę ziemnowodne, które reprezentuje transformację stylu życia między zwierzętami w pełni lądowymi, a całkowicie wodnymi. W Europie jest to jednak gatunek inwazyjny. Na początku XX w. był trend by sprowadzać tutaj coraz większe ilości norek do ferm futerkowych&#8221; – powiedziała PAP Joanna Bagniewska.</p>
 <p>Jednak po jakimś czasie norki z ferm uciekały, a część została wypuszczona, co doprowadziło do katastrofy ekologicznej. „Norki są drapieżnikami żarłocznymi. Pochłaniają wszystko, co im się nasunie pod zęby. Jest to bardzo duży problem dla ekologów, którzy zawsze zwracają uwagę na to, co robią norki nie tylko w Wielkiej Brytanii, ale i w całej Europie” – wyjaśniła rozmówczyni PAP.</p>
@@ -350,12 +380,16 @@
 <p>Wyniki swoich badań Joanna Bagniewska zaprezentowała podczas konferencji „Science. Polish Perspectives”, która między 19 a 21 października odbyła się na Uniwersytecie Oksfordzkim.<em> Jednym z patronów medialnych wydarzenia był serwis Nauka w Polsce – Polskiej Agencji Prasowej.</em></p>
 <p><a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392567,mloda-polka-pomaga-w-powstrzymaniu-inwazji-norki-nad-tamiza.html">PAP &#8211; Nauka w Polsce</a>, Ewelina Krajczyńska</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Polacy w Oksfordzie: ten uniwersytet otwiera wiele drzwi</title>
 		<link>/2012/10/22/polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi/</link>
-		<pubDate>Sun, 21 Oct 2012 23:05:13 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2012 23:05:13 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Nauka w Polsce]]></category>
 		<category><![CDATA[Oksford]]></category>
@@ -364,11 +398,11 @@
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[uniwersytety]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=350</guid>
-		<description><![CDATA[Artykuł PAP – Nauka w Polsce: Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi. „Poziom matematyki i informatyki w Oksfordzie nie...]]></description>
-				<content:encoded><![CDATA[<p>Artykuł <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392490,polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi.html">PAP – Nauka w Polsce</a>:</p>
-<p><a href="https://jbagniewska.files.wordpress.com/2013/07/papox.png"><img class="alignnone size-large wp-image-351" src="https://jbagniewska.files.wordpress.com/2013/07/papox.png?w=500" alt="papOx" width="500" height="452" /></a></p>
+
+					<description><![CDATA[Artykuł PAP – Nauka w Polsce: Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi. „Poziom matematyki i informatyki w Oksfordzie nie...]]></description>
+										<content:encoded><![CDATA[<p>Artykuł <a href="https://www.naukawpolsce.pap.pl/aktualnosci/news,392490,polacy-w-oksfordzie-ten-uniwersytet-otwiera-wiele-drzwi.html">PAP – Nauka w Polsce</a>:</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/07/papox.png"><img loading="lazy" class="alignnone size-large wp-image-351" src="https://jbagniewska.files.wordpress.com/2013/07/papox.png?w=500" alt="papOx" width="500" height="452" /></a></p>
 <div><strong>Codziennie chodzą tymi samymi ulicami co Oscar Wilde albo Tolkien, mogą wypić kawę z noblistą lub brytyjskim lordem i jest ich około 200. Polacy studiujący lub pracujący na Uniwersytecie Oksfordzkim przyznają: studia w Oksfordzie otwierają wiele drzwi.</strong></div>
 <p>„Poziom matematyki i informatyki w Oksfordzie nie jest wcale wyższy niż na polskich uczelniach. Matematyka jest taka sama w każdym języku. Jednak te uniwersytety – Oksford i Cambridge &#8211; nie tylko uczą, ale też wychowują. Moim zdaniem to jest największa różnica między polskimi i brytyjskimi uczelniami” &#8211; powiedział PAP Krzysztof Bar z Uniwersytetu w Oksfordzie.</p>
 <p>Jak wyjaśnił, możliwości rozwoju nie tylko pod względem naukowym, ale też osobowościowym, sportowym czy organizacyjnym w Oksfordzie są nieograniczone. „To jest też kwestia tradycji. Od stuleci misją Oksbridge (Oksfordu i Cambridge &#8211; PAP) było wychowywanie elity społeczeństwa brytyjskiego. Dlatego studenci mogą angażować się w działalność najróżniejszych stowarzyszeń czy np. grać w orkiestrze” &#8211; opisał Bar, prezes Oxford University Polish Society.</p>
@@ -387,6 +421,9 @@
 <p>Jedną z okazji do spotkania była konferencja „Science. Polish Perspectives”, która odbyła się w Oksfordzie między 19 a 21 października. Wzięło w niej udział blisko 150 polskich studentów i młodych uczonych studiujących na uczelniach brytyjskich, ale też w Austrii, Holandii czy Niemczech.</p>
 <p>Z Oxfordu Ewelina Krajczyńska</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

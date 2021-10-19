@@ -12,11 +12,13 @@
 	<atom:link href="/tag/polscy-studenci-w-uk/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:30:17 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,10 +30,11 @@
 	<item>
 		<title>Ściągnąć mądre głowy do Polski. Wywiad z dr Joanną Bagniewską</title>
 		<link>/2014/10/10/sciagnac-madre-glowy-do-polski-wywiad-z-dr-joanna-bagniewska/</link>
-		<pubDate>Fri, 10 Oct 2014 19:59:59 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
-				<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Społeczeństwo]]></category>
+		<pubDate>Fri, 10 Oct 2014 19:59:59 +0000</pubDate>
+				<category><![CDATA[O społeczeństwie]]></category>
+		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[NaTemat.pl]]></category>
 		<category><![CDATA[naukowcy]]></category>
 		<category><![CDATA[Oksford]]></category>
@@ -39,10 +42,10 @@
 		<category><![CDATA[polscy studenci w UK]]></category>
 		<category><![CDATA[polska nauka]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=819</guid>
-		<description><![CDATA[Wywiad w NaTemat.pl. O życiu akademickim w Wielkiej Brytanii i o tym, że nie znosi nudy z dr Joanną Bagniewską rozmawia Dorota Goliszewska. Ilu jest ludzi takich jak Pani, którzy przyjechali do Wielkiej Brytanii nie po pracę, ale po wiedzę? W szczytowym okresie na Wyspach uczyło się około 15 tys....]]></description>
-				<content:encoded><![CDATA[<p style="text-align: left;"><a href="https://jbagniewska.files.wordpress.com/2014/10/natemat.png"><img class="aligncenter size-full wp-image-820" src="https://jbagniewska.files.wordpress.com/2014/10/natemat.png" alt="natemat" width="500" height="263" /></a></p>
+
+					<description><![CDATA[Wywiad w NaTemat.pl. O życiu akademickim w Wielkiej Brytanii i o tym, że nie znosi nudy z dr Joanną Bagniewską rozmawia Dorota Goliszewska. Ilu jest ludzi takich jak Pani, którzy przyjechali do Wielkiej Brytanii nie po pracę, ale po wiedzę? W szczytowym okresie na Wyspach uczyło się około 15 tys....]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;"><a href="https://jbagniewska.files.wordpress.com/2014/10/natemat.png"><img loading="lazy" class="aligncenter size-full wp-image-820" src="https://jbagniewska.files.wordpress.com/2014/10/natemat.png" alt="natemat" width="500" height="263" /></a></p>
 <p style="text-align: left;"><em>Wywiad w <a href="https://obywatelski.natemat.pl/119713,sciagnac-madre-glowy-do-polski-wywiad-z-dr-joanna-bagniewska">NaTemat.pl</a>.</em></p>
 <p style="text-align: left;">O życiu akademickim w Wielkiej Brytanii i o tym, że nie znosi nudy z dr Joanną Bagniewską rozmawia Dorota Goliszewska.</p>
 <p style="text-align: left;"><span id="more-819"></span></p>
@@ -67,12 +70,16 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <p>***</p>
 <p>Dr Joanna Bagniewska &#8211; zoolog, wykładowca Nottingham Trent University, laureatka trzeciej polskiej edycji konkursu FameLab. Świeżo upieczona mężatka, dziewczyna, która nie usiedzi w jednym miejscu zbyt długo, zawsze musi być w ruchu, coś organizować.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Kongres polskich studentów w Wielkiej Brytanii</title>
 		<link>/2014/03/08/kongres-polskich-studentow-w-wielkiej-brytanii/</link>
-		<pubDate>Sat, 08 Mar 2014 23:16:09 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sat, 08 Mar 2014 23:16:09 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[kongres]]></category>
@@ -81,28 +88,32 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 		<category><![CDATA[radio]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[Wielka Brytania]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=587</guid>
-		<description><![CDATA[Rozmowa prowadzona przez Marię Wieczorkiewicz  &#8211; audycja radiowa.]]></description>
-				<content:encoded><![CDATA[<p><a href="https://external.polskieradio.pl/8/80/Artykul/164553,Kongres-polskich-studentow-w-Wielkiej-Brytanii"><img class="alignnone size-full wp-image-588" src="https://jbagniewska.files.wordpress.com/2014/04/pr-kongres.png" alt="PR-kongres" width="500" height="351" /></a></p>
+
+					<description><![CDATA[Rozmowa prowadzona przez Marię Wieczorkiewicz  &#8211; audycja radiowa.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://external.polskieradio.pl/8/80/Artykul/164553,Kongres-polskich-studentow-w-Wielkiej-Brytanii"><img loading="lazy" class="alignnone size-full wp-image-588" src="https://jbagniewska.files.wordpress.com/2014/04/pr-kongres.png" alt="PR-kongres" width="500" height="351" /></a></p>
 <p>Rozmowa prowadzona przez Marię Wieczorkiewicz  &#8211; <a href="https://external.polskieradio.pl/Player">audycja</a> radiowa.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Pszczoły lepiej niż psy potrafią wykrywać narkotyki i materiały wybuchowe</title>
 		<link>/2013/11/21/pszczoly-lepiej-niz-psy-potrafia-wykrywac-narkotyki-i-materialy-wybuchowe/</link>
-		<pubDate>Thu, 21 Nov 2013 23:33:40 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2013 23:33:40 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[nauka]]></category>
 		<category><![CDATA[nowe technologie]]></category>
 		<category><![CDATA[polscy studenci w UK]]></category>
 		<category><![CDATA[pszczoły]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=386</guid>
-		<description><![CDATA[Kojarzą się z miodem, lataniem, bzyczeniem, niekiedy bolesnym żądleniem. A mało kto wie, że mają także świetny węch &#8211; stokrotnie lepszy od psiego. Polska badaczka wie, jak przeszkolić te owady, by mogły np. zastąpić psy w służbie celnej. Psy mają swoje wady. &#8211; Ich szkolenie trwa długo i nie jest...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/11/gw-nauka.png"><img class="alignnone size-large wp-image-387" src="https://jbagniewska.files.wordpress.com/2013/11/gw-nauka.png?w=500" alt="GW-nauka" width="730" height="706" /></a></p>
+
+					<description><![CDATA[Kojarzą się z miodem, lataniem, bzyczeniem, niekiedy bolesnym żądleniem. A mało kto wie, że mają także świetny węch &#8211; stokrotnie lepszy od psiego. Polska badaczka wie, jak przeszkolić te owady, by mogły np. zastąpić psy w służbie celnej. Psy mają swoje wady. &#8211; Ich szkolenie trwa długo i nie jest...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/11/gw-nauka.png"><img loading="lazy" class="alignnone size-large wp-image-387" src="https://jbagniewska.files.wordpress.com/2013/11/gw-nauka.png?w=500" alt="GW-nauka" width="730" height="706" /></a></p>
 <div id="gazeta_article_lead"><strong>Kojarzą się z miodem, lataniem, bzyczeniem, niekiedy bolesnym żądleniem. A mało kto wie, że mają także świetny węch &#8211; stokrotnie lepszy od psiego. Polska badaczka wie, jak przeszkolić te owady, by mogły np. zastąpić psy w służbie celnej.</strong></div>
 <div id="gazeta_article_body">
 <div id="art">
@@ -126,12 +137,16 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <p>Joanna Bagniewska opowiadała o pszczołach wykrywających bomby na konferencji popularnonaukowej &#8220;Nauka. Polskie perspektywy&#8221;, która odbyła się 15-16 listopada w Cambridge w Wielkiej Brytanii. Spotkali się na niej młodzi polscy naukowcy, rozrzuceni po całym świecie, pracownicy najbardziej prestiżowych uczelni, którzy chcą się poznać, wyrobić kontakty i stworzyć zorganizowane środowisko. To wspólna inicjatywa stowarzyszeń polskich studentów z Cambridge i z Oksfordu. Na konferencję każdy uczestnik przygotował prezentację prowadzonych przez siebie badań. Odbyły się też warsztaty poświęcone pozyskiwaniu finansowania dla badań i przekuwaniu ich efektów w biznes. Głównym celem spotkania było jednak stworzenie tego, czego zawsze brakowało &#8211; zorganizowanego, wspierającego się wzajemnie polskiego naukowego środowiska za granicą. Więcej informacji na stronie <a href="https://www.polishperspectives.org/">www.polishperspectives.org</a></p>
 <p>Jacek Krywko &#8211; Gazeta Wyborcza/Nauka. Cały tekst <a href="https://wyborcza.pl/1,75476,14986707,Pszczoly_lepiej_niz_psy_potrafia_wykrywac_narkotyki.html#ixzz2ltK7mEYp">tutaj</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>M. Suskiewicz: Święto polskiej nauki</title>
 		<link>/2013/11/20/m-suskiewicz-swieto-polskiej-nauki/</link>
-		<pubDate>Wed, 20 Nov 2013 23:41:00 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2013 23:41:00 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Cambridge University]]></category>
 		<category><![CDATA[Jagielloński24]]></category>
@@ -140,10 +155,10 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 		<category><![CDATA[polscy studenci]]></category>
 		<category><![CDATA[polscy studenci w UK]]></category>
 		<category><![CDATA[polska nauka]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=397</guid>
-		<description><![CDATA[Może przydałoby się spojrzeć na tego typu inicjatywy z chłodnego dystansu, opisać ich zalety i wady, zastanowić się nad tym, co trwałego wnoszą one do polskiej nauki, zwłaszcza, że większość ich uczestników przebywa przecież za granicą i nie wiadomo, czy kiedykolwiek do Polski wróci. Może, ale na razie jestem w...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/11/jagielloc584ski24.png"><img class="alignnone size-large wp-image-398" src="https://jbagniewska.files.wordpress.com/2013/11/jagielloc584ski24.png?w=500" alt="Jagielloński24" width="729" height="414" /></a></p>
+
+					<description><![CDATA[Może przydałoby się spojrzeć na tego typu inicjatywy z chłodnego dystansu, opisać ich zalety i wady, zastanowić się nad tym, co trwałego wnoszą one do polskiej nauki, zwłaszcza, że większość ich uczestników przebywa przecież za granicą i nie wiadomo, czy kiedykolwiek do Polski wróci. Może, ale na razie jestem w...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2013/11/jagielloc584ski24.png"><img loading="lazy" class="alignnone size-large wp-image-398" src="https://jbagniewska.files.wordpress.com/2013/11/jagielloc584ski24.png?w=500" alt="Jagielloński24" width="729" height="414" /></a></p>
 <p><strong>Może przydałoby się spojrzeć na tego typu inicjatywy z chłodnego dystansu, opisać ich zalety i wady, zastanowić się nad tym, co trwałego wnoszą one do polskiej nauki, zwłaszcza, że większość ich uczestników przebywa przecież za granicą i nie wiadomo, czy kiedykolwiek do Polski wróci. Może, ale na razie jestem w stanie opisać tylko niesamowite wrażenie, jakie „Polskie perspektywy” na mnie wywarły: wrażenie niezwykłego, radosnego święta.</strong></p>
 <p>Piątek rano. Przyleciałem z deszczu, z szarości, z mgły, a tu, gdzie spodziewać się można było pogody jeszcze gorszej, nieprzeniknionych chmur i silnych wiatrów – świeci słońce. Jedziemy, powoli mijając tłumy pieszych i rowerzystów i zatrzymując się kilka razy na światłach, w tym raz, by przepuścić grupę dziewcząt w szkolnych mundurkach z kijami do hokeja na trawie w dłoniach. Czy od dawna jest tak ładnie? Od niedawna, a i wkrótce ma się znów zepsuć, odpowiada życzliwie taksówkarz, ciągnąc dalej z nabytą przez lata wprawą tę fascynującą rozmowę o pogodzie. Przyleciałem, widzi, z Europy, a skąd dokładnie? Anglia najwyraźniej nie leży w Europie. Cała podróż z dworca do Peterhouse, najstarszego college’u w Cambridge, gdzie odbywa się tegoroczna edycja konferencji „Science. Polish Perspectives – Nauka. Polskie Perspektywy”, trwa może pięć-dziesięć minut. Patrzę przez okno, a w głowie kłębią mi się zapamiętane z lektur historie dotyczące tego miasta. Gdzieś za rogiem musiało być kino – czy nadal istnieje? – do którego uciekał po wykładach zmęczony Ludwig Wittgenstein. Widzę w wyobraźni, jak siada w pierwszym rzędzie, przy samym ekranie i nerwowo wcina pączki. Gdzieś nad rzeką z kolei stać musi wielka, późnogotycka King’s College Chapel. Jedziemy powoli przez miasto, a mnie z egzaltacji zdaje się niemalże, że w szumie samochodu słyszę „Magnificat” napisany specjalnie dla King’s College Choir przez Sir Johna Tavenera, tego samego Sir Johna Tavenera, którego śmierć ogłosiły kilka dni wcześniej gazety i strony internetowe.</p>
 <p>Drugi obraz: sobota wieczór, Corpus Christi College, kolacja kończąca konferencję. Była łacińska modlitwa, teraz wszyscy zajęci są wyborem koloru wina. Portrety i malowane wzory Williama Morrisa na ścianach, światło świec, wieczorowe stroje, gołąb na talerzu. Ktoś mówi, że nieudany, ale nigdy w życiu nie jadłem gołębia, więc nie wiem, co odpowiedzieć. Poczciwy Wittgenstein słusznie argumentował w „Dociekaniach filozoficznych” – przeciwko scejntystom, pozytywistom i samemu sobie z czasów „Traktatu” – że jest wiele sensownych użyć języka. Sensownie można rozmawiać w czasie dnia o różnych dziedzinach nauki: biologii, biochemii, fizyce, inżynierii, psychologii, ekonomii, ale sensownie można rozmawiać też wieczorem przy kolacji o gołębiu. Na żadnej innej konferencji nie widziałem, muszę przyznać, tak ożywionego życia towarzyskiego, tak naturalnie toczonych rozmów, tak dobrej atmosfery. Niezastąpieni główni organizatorzy, Tomasz Cebo (Cambridge) i Magdalena Richter (Instytut Biochemii i Biofizyki PAN, Warszawa i Cambridge), wznoszą toast za uczestników, jakiś czas później Michał Leszczyński reprezentujący London School of Economics Polish Society wygłasza z kolei długi toast za organizatorów, do których należą jeszcze Kinga Pławik, Paweł Jaworski, Ewelina Gregolińska, Piotr Oleśkiewicz i Aleksandra Kołodziejczyk, wszyscy z Cambridge bądź Oksfordu, oprócz Pawła Jaworskiego, który studiował na Politechnice Gdańskiej, a także w Chinach i na Tajwanie. Kieliszki z winem wędrują w górę, wybuchają długie brawa. Na sam koniec w naszej części sali wznosimy jeszcze parę dodatkowych, prywatnych toastów wyjętą spod stołu polską wódką.</p>
@@ -167,6 +182,9 @@ Nie lubię nudy i nie umiem stać w miejscu. Teraz jednocześnie organizuję swo
 <p>&nbsp;</p>
 <p>Tekst Marcina Suskiewicza dostępny <a href="https://jagiellonski24.pl/2013/11/20/m-suskiewicz-swieto-polskiej-nauki/">tutaj</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

@@ -12,11 +12,13 @@
 	<atom:link href="/tag/women-in-research/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jun 2018 10:19:34 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,16 +30,17 @@
 	<item>
 		<title>Women in Research Blog: 10 Questions with Joanna Bagniewska</title>
 		<link>/2016/11/11/women-in-research-blog-10-questions-with-joanna-bagniewska/</link>
-		<pubDate>Fri, 11 Nov 2016 11:13:21 +0000</pubDate>
+		
 		<dc:creator><![CDATA[blu]]></dc:creator>
+		<pubDate>Fri, 11 Nov 2016 11:13:21 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[ecology]]></category>
 		<category><![CDATA[Women in Research]]></category>
 		<category><![CDATA[women in STEM]]></category>
-
 		<guid isPermaLink="false">/?p=2496</guid>
-		<description><![CDATA[From Women in Research Joanna Bagniewska, 31, from Poland is a Teaching Fellow at the School of Biological Sciences, University of Reading, UK. She is a zoologist specializing in ecology ad conservation. She works on invasive species, i.e. species that have been brought, accidentally or intentionally, into new areas, and...]]></description>
-				<content:encoded><![CDATA[<header class="entry-header"></header>
+
+					<description><![CDATA[From Women in Research Joanna Bagniewska, 31, from Poland is a Teaching Fellow at the School of Biological Sciences, University of Reading, UK. She is a zoologist specializing in ecology ad conservation. She works on invasive species, i.e. species that have been brought, accidentally or intentionally, into new areas, and...]]></description>
+										<content:encoded><![CDATA[<header class="entry-header"></header>
 <div class="entry-content">
 <p><em>From <a href="https://womeninresearchblog.wordpress.com/2016/11/06/joanna-poland/">Women in Research</a></em></p>
 <p>Joanna Bagniewska, 31, from Poland is a <a href="https://www.reading.ac.uk/biologicalsciences/about/staff/j-m-bagniewska.aspx">Teaching Fellow at the School of Biological Sciences, University of Reading</a>, UK.</p>
@@ -95,6 +98,9 @@
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

@@ -12,11 +12,13 @@
 	<atom:link href="/tag/kurier-gdynski/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Jun 2018 23:04:31 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,18 @@
 	<item>
 		<title>Gdyńskie wesele pani Joanny</title>
 		<link>/2015/04/21/gdynskie-wesele-pani-joanny/</link>
-		<pubDate>Tue, 21 Apr 2015 22:39:24 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2015 22:39:24 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Kongres Obywatelski]]></category>
 		<category><![CDATA[Kurier Gdyński]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1026</guid>
-		<description><![CDATA[Tekst Szymona Zięby z Kuriera Gdyńskiego Joanna Bagniewska o sobie mówi: zoolożka, rocznik 1984. Urodziła się w Gdańsku, dzieciństwo spędziła we Włoszech, Tajlandii i Chinach.  Skończyła III LO im. Marynarki Wojennej w Gdyni. Dziśjest wykładowcą University of Reading w Wielkiej Brytanii. Działa również na rzecz społeczności polskich studentów w Wielkiej Brytanii....]]></description>
-				<content:encoded><![CDATA[<div style="text-align:justify;"><em>Tekst Szymona Zięby z</em> <em><a href="https://jbagniewska.files.wordpress.com/2015/04/kurier_gdynski_14_04_2015-20.pdf">Kuriera Gdyńskiego</a></em></div>
+
+					<description><![CDATA[Tekst Szymona Zięby z Kuriera Gdyńskiego Joanna Bagniewska o sobie mówi: zoolożka, rocznik 1984. Urodziła się w Gdańsku, dzieciństwo spędziła we Włoszech, Tajlandii i Chinach.  Skończyła III LO im. Marynarki Wojennej w Gdyni. Dziśjest wykładowcą University of Reading w Wielkiej Brytanii. Działa również na rzecz społeczności polskich studentów w Wielkiej Brytanii....]]></description>
+										<content:encoded><![CDATA[<div style="text-align:justify;"><em>Tekst Szymona Zięby z</em> <em><a href="https://jbagniewska.files.wordpress.com/2015/04/kurier_gdynski_14_04_2015-20.pdf">Kuriera Gdyńskiego</a></em></div>
 <div style="text-align:justify;"></div>
 <div style="text-align:justify;"></div>
 <div style="text-align:justify;">Joanna Bagniewska o sobie mówi: <span class="il">zoolożka</span>, <span class="il">rocznik</span> 1984. Urodziła się w Gdańsku, dzieciństwo spędziła we Włoszech, Tajlandii i Chinach.  Skończyła III LO im. Marynarki Wojennej w Gdyni. Dziśjest wykładowcą University of Reading w Wielkiej Brytanii. Działa również na rzecz społeczności polskich studentów w Wielkiej Brytanii. Jej celem jest zacieśnienie współpracy między polskimi naukowcami pracującymi za granicą a ośrodkami badawczymi w Polsce. Od zeszłego roku zaangażowana w działalność Kongresu Obywatelskiego – płaszczyzny samodoskonalenia Polaków. Wystąpi na VIII Pomorskim Kongresie Obywatelskim 18 kwietnia 2015 r. na Politechnice Gdańskiej. W rozmowie z „Kurierem Gdyńskim” słynna naukowiec opowiada o swojej historii, związkachz naszym miastem i jej „wielkim gdyńskim weselu”.<br />
@@ -66,6 +68,9 @@ Na jej gdyńskim weselu z oksfordczykiem z Australii, którego zaraziła miłoś
 <p style="text-align:justify;">Od zeszłego roku Bagniewska zaangażowana jest w działalność Kongresu Obywatelskiego. To długofalowy projekt, którego celem jest uczynienie z Polski lepszego miejsca do pracy i życia. W jego ramach organizowane są dwa wydarzenia: w Gdańsku i Warszawie. Uczestników tych spotkań łączy to, że losy kraju nie są im obojętne. Jak twierdzą, wspólnie „wyprzedzają przyszłość” i zastanawiają się nad rozwojem Polski. Wśród nich jest Joanna Bagniewska, która wystąpi na VIII Pomorskim Kongresie Obywatelskim 18 kwietnia 2015 r. na Politechnice Gdańskiej. Jego tematem będzie jakość życia na Pomorzu. Badaczka, która od lat mieszka zagranicą z pewnością opowie, jak wygląda Pomorze i Polska w oczach obcokrajowców.</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

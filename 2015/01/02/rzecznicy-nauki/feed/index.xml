@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Rzecznicy nauki</title>
+	<title>
+	Comments on: Rzecznicy nauki	</title>
 	<atom:link href="/2015/01/02/rzecznicy-nauki/feed/" rel="self" type="application/rss+xml" />
 	<link>/2015/01/02/rzecznicy-nauki/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:54:46 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sun, 10 Jun 2018 11:11:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

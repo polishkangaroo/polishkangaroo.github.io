@@ -12,11 +12,13 @@
 	<atom:link href="/tag/galapagos/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 11:47:24 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>Galapagos. Wyspy ewolucji</title>
 		<link>/2014/07/19/galapagos-wyspy-ewolucji/</link>
-		<pubDate>Sat, 19 Jul 2014 15:30:56 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sat, 19 Jul 2014 15:30:56 +0000</pubDate>
 				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -39,13 +42,13 @@
 		<category><![CDATA[gatunek inwazyjny]]></category>
 		<category><![CDATA[Gazeta Wyborcza]]></category>
 		<category><![CDATA[ochrona gatunków]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/2014/07/19/galapagos-wyspy-ewolucji/</guid>
-		<description><![CDATA[Mój artykuł w Gazecie Wyborczej. Kiedy w 2006 r. odbierałam grant badawczy rodziny Karola Darwina z rąk jego praprawnuczek, Phyllidy i Camilli Barlow, nie spodziewałam się, że zaledwie pół roku później znajdę się na wyspach Galapagos, mekce każdego zoologa, miejscu, które zainspirowało Darwina do stworzenia teorii selekcji naturalnej. I miejscu,...]]></description>
-				<content:encoded><![CDATA[<div id="artykul" style="text-align:justify;"><em>Mój artykuł w <a href="https://wyborcza.pl/piatekekstra/1,139341,16338988,Galapagos__Wyspy_ewolucji.html">Gazecie Wyborczej</a></em>.</div>
+
+					<description><![CDATA[Mój artykuł w Gazecie Wyborczej. Kiedy w 2006 r. odbierałam grant badawczy rodziny Karola Darwina z rąk jego praprawnuczek, Phyllidy i Camilli Barlow, nie spodziewałam się, że zaledwie pół roku później znajdę się na wyspach Galapagos, mekce każdego zoologa, miejscu, które zainspirowało Darwina do stworzenia teorii selekcji naturalnej. I miejscu,...]]></description>
+										<content:encoded><![CDATA[<div id="artykul" style="text-align:justify;"><em>Mój artykuł w <a href="https://wyborcza.pl/piatekekstra/1,139341,16338988,Galapagos__Wyspy_ewolucji.html">Gazecie Wyborczej</a></em>.</div>
 <div style="text-align:justify;"></div>
 <div style="text-align:justify;">
-<figure id="attachment_179" style="width: 671px" class="wp-caption alignleft"><a href="https://jbagniewska.files.wordpress.com/2013/04/p1030380a.jpg"><img class=" wp-image-179" src="https://jbagniewska.files.wordpress.com/2013/04/p1030380a.jpg" alt="Marine iguanas expel the excess of salt ingested during foraging in the sea by sneezing it out once they are back on land." width="671" height="503" /></a><figcaption class="wp-caption-text">Marine iguanas expel the excess of salt ingested during foraging in the sea by sneezing it out once they are back on land.</figcaption></figure>
+<figure id="attachment_179" aria-describedby="caption-attachment-179" style="width: 671px" class="wp-caption alignleft"><a href="https://jbagniewska.files.wordpress.com/2013/04/p1030380a.jpg"><img loading="lazy" class=" wp-image-179" src="https://jbagniewska.files.wordpress.com/2013/04/p1030380a.jpg" alt="Marine iguanas expel the excess of salt ingested during foraging in the sea by sneezing it out once they are back on land." width="671" height="503" /></a><figcaption id="caption-attachment-179" class="wp-caption-text">Marine iguanas expel the excess of salt ingested during foraging in the sea by sneezing it out once they are back on land.</figcaption></figure>
 </div>
 <div style="text-align:justify;">Kiedy w 2006 r. odbierałam grant badawczy rodziny Karola Darwina z rąk jego praprawnuczek, Phyllidy i Camilli Barlow, nie spodziewałam się, że zaledwie pół roku później znajdę się na wyspach Galapagos, mekce każdego zoologa, miejscu, które zainspirowało Darwina do stworzenia teorii selekcji naturalnej. I miejscu, w którym ewolucję udowodnili naukowo Peter i Rosemary Grantowie.Archipelag Galapagos odwiedziłam dwa razy. Zwierząt tu dużo, różnorodnych i często, szczerze mówiąc, dziwacznych. Nurkujące jaszczurki, ptaki o szyjach-balonach, pingwiny nie w śniegu, tylko pod kaktusem, kormorany-nieloty Ten zbiór cudaków zamieszkuje dziewiętnaście wysp i pomniejsze wysepki &#8211; pochodzenia wulkanicznego &#8211; równie różnorodne jak ich mieszkańcy.</div>
 <p><span id="more-751"></span></p>
@@ -79,6 +82,9 @@
 <p style="text-align:justify;">Największym niebezpieczeństwem są jednak gatunki sprowadzone przez człowieka &#8211; szczury, świnie, a zwłaszcza kozy. Kozy potrafią zjeść wszystko (na moich oczach jedna zjadła kiedyś drzwi! Wprawdzie ze sklejki, a nie litego drewna, ale i tak był to imponujący wyczyn). Kozy funkcjonują jak buldożery &#8211; zjadają całą roślinność, kopytkami zadeptują ziemię, obgryzają korę drzew, powodując ich usychanie. Równają z ziemią naturalne środowisko unikalnych galapagoskich żółwi, rodzimych ptaków i owadów. Rozmnażają się błyskawicznie, dlatego niektóre wyspy, na przykład Isabela, były przez nie zupełnie skolonizowane. Pozbycie się kóz z Isabeli nie było łatwe &#8211; podłoże wyspy to ostre jak brzytwa skały, zdrewniałe krzaki pokryte są cierniami. Znalezienie kóz nie jest proste, dlatego szukano z helikoptera, jednak po ich usunięciu zawsze pozostawało kilka pojedynczych sztuk, które znów zaczynały się rozmnażać. Zbiegów tropiono psami. Te wyposażone były w specjalne buciki, żeby nie poraniły łap na skałach. W końcu wykorzystano tzw. kozy Judasze. Są to wysterylizowane kozy wyposażone w obroże z nadajnikiem. Koza Judasz przemierza wyspę w poszukiwaniu kozich znajomych &#8211; na jej nieszczęście dzięki nadajnikowi namierzają ją strzelcy i dobijają rozproszone po wyspie zwierzęta. Koza Judasz idzie zatem dalej, szukając kolejnych bratnich dusz, zdradzając tym samym ich położenie. To, niestety, kolejny przykład tego, jak za ludzki brak odpowiedzialności karę ponoszą zwierzęta.</p>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

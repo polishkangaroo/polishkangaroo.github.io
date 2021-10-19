@@ -12,11 +12,13 @@
 	<atom:link href="/tag/football/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:37:54 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,18 +30,19 @@
 	<item>
 		<title>Can science save football? Boffins believe they can make the beautiful game more beautiful</title>
 		<link>/2016/04/27/can-science-save-football-boffins-believe-they-can-make-the-beautiful-game-more-beautiful/</link>
-		<pubDate>Wed, 27 Apr 2016 19:17:50 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Wed, 27 Apr 2016 19:17:50 +0000</pubDate>
 				<category><![CDATA[In English]]></category>
 		<category><![CDATA[Science communication]]></category>
 		<category><![CDATA[Football]]></category>
 		<category><![CDATA[Oxford]]></category>
 		<category><![CDATA[Oxford Times]]></category>
 		<category><![CDATA[science]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1394</guid>
-		<description><![CDATA[An article by Peter Hughes in The Oxford Times AS 33,000 Oxford United fans packed the stands at Wembley this month, many were praying for victory. But a football-mad Oxford scientist has suggested that loving the beautiful game is more of a science than a religion. Science Oxford&#8217;s creative director...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>An article by Peter Hughes in <a href="https://www.oxfordtimes.co.uk/news/14420894.Can_science_save_football__Boffins_believe_they_can_make_the_beautiful_game_more_beautiful/">The Oxford Times</a></em></p>
+
+					<description><![CDATA[An article by Peter Hughes in The Oxford Times AS 33,000 Oxford United fans packed the stands at Wembley this month, many were praying for victory. But a football-mad Oxford scientist has suggested that loving the beautiful game is more of a science than a religion. Science Oxford&#8217;s creative director...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>An article by Peter Hughes in <a href="https://www.oxfordtimes.co.uk/news/14420894.Can_science_save_football__Boffins_believe_they_can_make_the_beautiful_game_more_beautiful/">The Oxford Times</a></em></p>
 <p style="text-align: justify;">AS 33,000 Oxford United fans packed the stands at Wembley this month, many were praying for victory.</p>
 <p style="text-align: justify;">But a football-mad Oxford scientist has suggested that loving the beautiful game is more of a science than a religion.</p>
 <p style="text-align: justify;">Science Oxford&#8217;s creative director Quentin Cooper joined a panel of footie-loving celebrity scientists to debate how scientific improvements could make the beautiful game even more beautiful.</p>
@@ -62,6 +65,9 @@
 <p style="text-align: justify;">&#8220;I&#8217;ve been to a game with Marcus du Sautoy &#8211; he’s not just sitting there thinking about numbers, he’s up and shouting in the stands.</p>
 <p style="text-align: justify;">&#8220;Lots of scientists are very passionate about the game.&#8221;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

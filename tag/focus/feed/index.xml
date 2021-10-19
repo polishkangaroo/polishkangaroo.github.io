@@ -12,11 +12,13 @@
 	<atom:link href="/tag/focus/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Oct 2021 23:14:21 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>Disney się myli. Sprawdź, jak bajki naginają prawa biologii</title>
 		<link>/2016/10/16/disney-sie-myli-sprawdz-jak-bajki-naginaja-prawa-biologii/</link>
-		<pubDate>Sun, 16 Oct 2016 19:00:28 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 19:00:28 +0000</pubDate>
 				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -38,10 +41,10 @@
 		<category><![CDATA[Gdzie jest Nemo?]]></category>
 		<category><![CDATA[Król lew]]></category>
 		<category><![CDATA[Księga Dżungli]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1602</guid>
-		<description><![CDATA[Mój artykuł w Magazynie Focus &#124; Bohaterami filmu „Gdzie jest Nemo” są dwa błazenki – Marlin i jego synek Nemo. Zgodnie z biologicznym mechanizmem Marlin powinien zmienić płeć na żeńską, a Nemo byłby jego partnerem seksualnym&#8230; Disney nie dla dzieci? Jako zoolog postaram się przybliżyć najbardziej jaskrawe nieścisłości z popularnych filmów...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój artykuł w <a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">Magazynie Focus</a></em><a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105"> </a><a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">|</a></p>
+
+					<description><![CDATA[Mój artykuł w Magazynie Focus&#160;&#124; Bohaterami filmu „Gdzie jest Nemo” są dwa błazenki – Marlin i jego synek Nemo. Zgodnie z biologicznym mechanizmem Marlin powinien zmienić płeć na żeńską, a Nemo byłby jego partnerem seksualnym&#8230; Disney nie dla dzieci? Jako zoolog postaram się przybliżyć najbardziej jaskrawe nieścisłości z popularnych filmów...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>Mój artykuł w <a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">Magazynie Focus</a></em><a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">&nbsp;</a><a href="https://www.focus.pl/przyroda/disney-si-myli-sprawd-jak-bajki-naginaj-prawa-biologii-14105">|</a></p>
 <div id="gallery-thumbnails" class="bxslider" style="text-align: justify;">
 <div><strong>Bohaterami filmu „Gdzie jest Nemo” są dwa błazenki – Marlin i jego synek Nemo. Zgodnie z biologicznym mechanizmem Marlin powinien zmienić płeć na żeńską, a Nemo byłby jego partnerem seksualnym&#8230; Disney nie dla dzieci?</strong></div>
 <div></div>
@@ -49,7 +52,7 @@
 <p style="text-align: justify;">Jako zoolog postaram się przybliżyć najbardziej jaskrawe nieścisłości z popularnych filmów Disneya. Ale uwaga, po lekturze tego artykułu „Księga dżungli”, „Król Lew” i „Gdzie jest Nemo” już nigdy nie będą takie same – czytacie na własną odpowiedzialność&#8230;</p>
 <p><span id="more-1602"></span></p>
 <p style="text-align: justify;"><strong>Księga dżungli</strong><br />
-Na pierwszy ogień weźmy „Księgę dżungli”. Pamiętacie zapewne Mowgliego – „ludzkie szczenię” wychowane przez wilki. Najlepszym przyjacielem i nauczycielem chłopca jest kudłaty niedźwiedź Baloo. Na podstawie opisu jego zwyczajów (żywi się owocami, owadami i korzonkami) oraz jego miejsca występowania (akcja „Księgi dżungli” toczy się w Seoni w indyjskim stanie Madhya Pradesh) możemy wywnioskować, ze to niedźwiedź wargacz. Ten gatunek to bardzo zły kandydat na opiekuna małego chłopca. Wargacze, mimo przyjacielskiego  wyglądu, są zaskakująco agresywne. Zachowują  się nieprzewidywalnie i atakują niemal bez powodu.</p>
+Na pierwszy ogień weźmy „Księgę dżungli”. Pamiętacie zapewne Mowgliego – „ludzkie szczenię” wychowane przez wilki. Najlepszym przyjacielem i nauczycielem chłopca jest kudłaty niedźwiedź Baloo. Na podstawie opisu jego zwyczajów (żywi się owocami, owadami i korzonkami) oraz jego miejsca występowania (akcja „Księgi dżungli” toczy się w Seoni w indyjskim stanie Madhya Pradesh) możemy wywnioskować, ze to niedźwiedź wargacz. Ten gatunek to bardzo zły kandydat na opiekuna małego chłopca. Wargacze, mimo przyjacielskiego&nbsp; wyglądu, są zaskakująco agresywne. Zachowują&nbsp; się nieprzewidywalnie i atakują niemal bez powodu.</p>
 <p style="text-align: justify;">Podczas trwającego pięć lat badania przeprowadzonego w Madhya Pradesh odnotowano 48 wypadków śmiertelnych spowodowanych przez wargacze. Dla porównania, w całej Ameryce Północnej liczba ofiar śmiertelnych niedźwiedzi grizzly wyniosła ok. 100 w ciągu całego XX wieku. Autorzy indyjskiego badania twierdzą, że między 1989 a 1994 r. wargacze z Madhya Pradesh zaatakowały 735 osób. To ponad dwa razy więcej niż wypadki spowodowane przez lamparty, tygrysy i słonie – razem wzięte! Innymi słowy, złowrogi tygrys Shere Khan przy Baloo to niezbyt groźny kotek.</p>
 <p style="text-align: justify;">Za postać Baloo odpowiada autor książkowej „Księgi dżungli”, czyli Rudyard Kipling. Natomiast śpiewający Król Louie z filmu to wymysł Disneya. Jest ogromnym orangutanem, a te małpy pochodzą z Borneo i Sumatry. Król Louie musiałby więc przepłynąć przez ocean jakieś 3 tys. km, a potem przejść jeszcze 1 tys. km po ladzie, aby spotkać się z Mowglim w centrum Indii.</p>
 <p style="text-align: justify;"><strong>Król Lew</strong><br />
@@ -59,18 +62,22 @@ drogi. Jak się tam znalazły?</p>
 <p style="text-align: justify;">Jednak prawdziwy powód, dla którego takie małżeństwo byłoby niewskazane, jest inny. Aby go zrozumieć, przyjrzyjmy się biologii lwów. Samce tego gatunku – nawet szlachetny Mufasa – po objęciu przywództwa nad stadem zabijają młode swojego poprzednika. Dzięki temu samice mogą prędzej wejść w ruję, a samiec alfa ma pewność, ze wszystkie lwiątka są jego potomstwem. W filmie widzimy tylko jednego dominującego samca – Mufase. Jego brat Skaza nie ma własnego haremu. Wszystkie inne dorosłe lwy to samice. Ponieważ Simba i Nala są w jednym wieku, możemy wywnioskować, ze są bratem i siostrą.</p>
 <p style="text-align: justify;"><strong>Gdzie jest Nemo?</strong><br />
 Jeszcze większe zamieszanie panuje w rodzinie sympatycznych rybek. Na początku filmu „Gdzie jest Nemo?” para błazenków – samiec Marlin i samica Coral – oczekują potomstwa.</p>
-<p style="text-align: justify;">Po złożeniu ikry przez mamę tata opiekuje się jajeczkami, tak jak to ma miejsce w naturze. Niestety, zaraz pojawia się zła barakuda i jednym kłapnięciem paszczy pozera jajeczka wraz z Coral. Tatuś zostaje sam, z ostatnim jajeczkiem,  czyli małym Nemo. W tym momencie Disney pomija dość istotną kwestię. Samice błazenków są większe od samców, a rozmnaża się największa, dominująca samica. Jej partnerem zostaje największy samiec, druga co do wielkości ryba w stadzie. Co ciekawe,<br />
+<p style="text-align: justify;">Po złożeniu ikry przez mamę tata opiekuje się jajeczkami, tak jak to ma miejsce w naturze. Niestety, zaraz pojawia się zła barakuda i jednym kłapnięciem paszczy pozera jajeczka wraz z Coral. Tatuś zostaje sam, z ostatnim jajeczkiem,&nbsp; czyli małym Nemo. W tym momencie Disney pomija dość istotną kwestię. Samice błazenków są większe od samców, a rozmnaża się największa, dominująca samica. Jej partnerem zostaje największy samiec, druga co do wielkości ryba w stadzie. Co ciekawe,<br />
 u tego gatunku występuje zjawisko zwane hermafrodytyzmem sekwencyjnym. Wszystkie błazenki zaczynają życie jako samczyki, a dopiero później mogą zmienić płeć z męskiej na żeńską.</p>
 <p style="text-align: justify;">Jeśli dominująca samica ginie, jej miejsce w stadzie zajmuje druga co do wielkości ryba. Najczęściej jest to samiec, który zmienia płeć i staje się samica – a jej (jego?) partnerem zostaje kolejny rozmiarem błazenek.</p>
 <p style="text-align: justify;">I tu zaczyna się seksualna łamigłówka. Po śmierci partnerki Marlin, jako druga co do wielkości ryba, powinien zmienić płeć, czyli zostać nową mamusią Nemo!</p>
 <p style="text-align: justify;">Nie koniec na tym: ponieważ w filmie nie widać innych błazenków, Nemo jest kolejną pod względem rozmiaru ryba tego gatunku. A zatem, zgodnie z biologicznym mechanizmem, powinien zostać mężem swego tatusia, który stał się mamusią&#8230;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Dlaczego naukowcy grzebią w kupach?</title>
 		<link>/2015/08/30/dlaczego-naukowcy-grzebia-w-kupach/</link>
-		<pubDate>Sun, 30 Aug 2015 19:34:09 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 30 Aug 2015 19:34:09 +0000</pubDate>
 				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
@@ -79,10 +86,10 @@ u tego gatunku występuje zjawisko zwane hermafrodytyzmem sekwencyjnym. Wszystki
 		<category><![CDATA[hormony]]></category>
 		<category><![CDATA[ssaki]]></category>
 		<category><![CDATA[zwierzęta]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1321</guid>
-		<description><![CDATA[Mój tekst w magazynie Focus, tu w wersji pdf. Badając kupę niedźwiedzia brunatnego możemy poznać nie tylko jego dietę, ale i stan zdrowia. Wystarczy sprawdzić, czy w fekaliach są pasożyty lub ich jaja, zrobić analizę bakteryjną albo zmierzyć poziom hormonów. BEW Uczeni kochają kupy. Tyle w nich ciekawych informacji! Zoolog...]]></description>
-				<content:encoded><![CDATA[<div class="author">
+
+					<description><![CDATA[Mój tekst w magazynie Focus, tu w wersji pdf. Badając kupę niedźwiedzia brunatnego możemy poznać nie tylko jego dietę, ale i stan zdrowia. Wystarczy sprawdzić, czy w fekaliach są pasożyty lub ich jaja, zrobić analizę bakteryjną albo zmierzyć poziom hormonów. BEW Uczeni kochają kupy. Tyle w nich ciekawych informacji! Zoolog...]]></description>
+										<content:encoded><![CDATA[<div class="author">
 <div class="author_desc">
 <p style="text-align:justify;"><em>Mój tekst w magazynie <a href="https://www.focus.pl/przyroda/dlaczego-naukowcy-grzebia-w-kupach-12888">Focus</a>, tu w <a href="https://jbagniewska.files.wordpress.com/2015/08/f08przyr-kupy.pdf">wersji pdf</a>.</em></p>
 <div id="___plusone_0" style="text-align:justify;"><img src="https://www.focus.pl/upload/galleries/16/badajac-kupe-niedzwiedzia-brunatnego-16857_l.jpg" alt="Dlaczego naukowcy grzebią w kupach?" /><em>Badając kupę niedźwiedzia brunatnego możemy poznać nie tylko jego dietę, ale i stan zdrowia. Wystarczy sprawdzić, czy w fekaliach są pasożyty lub ich jaja, zrobić analizę bakteryjną albo zmierzyć poziom hormonów.</em> <small>BEW</small></div>
@@ -106,22 +113,26 @@ u tego gatunku występuje zjawisko zwane hermafrodytyzmem sekwencyjnym. Wszystki
 </div>
 <p style="text-align:justify;"><!--more--></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>10 zwierzęcych terrorystów</title>
 		<link>/2015/04/28/10-zwierzecych-terrorystow/</link>
-		<pubDate>Mon, 27 Apr 2015 23:20:38 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2015 23:20:38 +0000</pubDate>
 				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Focus]]></category>
 		<category><![CDATA[gatunek inwazyjny]]></category>
 		<category><![CDATA[ochrona gatunków]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1036</guid>
-		<description><![CDATA[Mój tekst w Magazynie Focus Są doskonale przystosowani do ataku, niewybredni, radzą sobie w każdej sytuacji. I sami ich sprowadziliśmy na nasz teren! Oto dziesiątka wyjątkowo szkodliwych gatunków inwazyjnych. Część z nich sprowadziliśmy celowo – jak króliki do Australii, na które chcieli polować angielscy osadnicy. Inne, jak szczury na statkach, trafiły...]]></description>
-				<content:encoded><![CDATA[<div class="pic_no" style="text-align: justify;"><em>Mój tekst w <a href="https://www.focus.pl/przyroda/10-zwierzecych-terrorystow-12434">Magazynie Focus</a></em></div>
+
+					<description><![CDATA[Mój tekst w Magazynie Focus Są doskonale przystosowani do ataku, niewybredni, radzą sobie w każdej sytuacji. I sami ich sprowadziliśmy na nasz teren! Oto dziesiątka wyjątkowo szkodliwych gatunków inwazyjnych. Część z nich sprowadziliśmy celowo – jak króliki do Australii, na które chcieli polować angielscy osadnicy. Inne, jak szczury na statkach, trafiły...]]></description>
+										<content:encoded><![CDATA[<div class="pic_no" style="text-align: justify;"><em>Mój tekst w <a href="https://www.focus.pl/przyroda/10-zwierzecych-terrorystow-12434">Magazynie Focus</a></em></div>
 <div class="pic_no" style="text-align: justify;"></div>
 <div class="inner_article" style="text-align: justify;">
 <p><strong>Są doskonale przystosowani do ataku, niewybredni, radzą sobie w każdej sytuacji. I sami ich sprowadziliśmy na nasz teren! Oto dziesiątka wyjątkowo szkodliwych gatunków inwazyjnych.</strong></p>
@@ -163,36 +174,44 @@ u tego gatunku występuje zjawisko zwane hermafrodytyzmem sekwencyjnym. Wszystki
 </div>
 </div>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Rzecznicy nauki</title>
 		<link>/2015/01/02/rzecznicy-nauki/</link>
-		<pubDate>Fri, 02 Jan 2015 17:07:44 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 02 Jan 2015 17:07:44 +0000</pubDate>
 				<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Focus]]></category>
 		<category><![CDATA[Rzecznicy Nauki]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=846</guid>
-		<description><![CDATA[Z wielką przyjemnością informuję, że biorę udział w programie Rzecznicy Nauki, w którym popularyzatorzy nauki (tacy jak ja) mają okazję pracować z doświadczonymi dziennikarzami naukowymi. Program startuje dzięki Centrum Nauki Kopernik, organizatorowi konkursu FameLab Poland. Moim mentorem został Jan Stradowski z Focusa i TOK FM &#8211; tu więcej informacji.]]></description>
-				<content:encoded><![CDATA[<p>Z wielką przyjemnością informuję, że biorę udział w programie Rzecznicy Nauki, w którym popularyzatorzy nauki (tacy jak ja) mają okazję pracować z doświadczonymi dziennikarzami naukowymi. Program startuje dzięki Centrum Nauki Kopernik, organizatorowi konkursu FameLab Poland. Moim mentorem został Jan Stradowski z Focusa i TOK FM &#8211; tu <a href="https://www.focus.pl/czlowiek/wystartowal-program-rzecznicy-nauki-blog-11999">więcej informacji</a>.</p>
+
+					<description><![CDATA[Z wielką przyjemnością informuję, że biorę udział w programie Rzecznicy Nauki, w którym popularyzatorzy nauki (tacy jak ja) mają okazję pracować z doświadczonymi dziennikarzami naukowymi. Program startuje dzięki Centrum Nauki Kopernik, organizatorowi konkursu FameLab Poland. Moim mentorem został Jan Stradowski z Focusa i TOK FM &#8211; tu więcej informacji.]]></description>
+										<content:encoded><![CDATA[<p>Z wielką przyjemnością informuję, że biorę udział w programie Rzecznicy Nauki, w którym popularyzatorzy nauki (tacy jak ja) mają okazję pracować z doświadczonymi dziennikarzami naukowymi. Program startuje dzięki Centrum Nauki Kopernik, organizatorowi konkursu FameLab Poland. Moim mentorem został Jan Stradowski z Focusa i TOK FM &#8211; tu <a href="https://www.focus.pl/czlowiek/wystartowal-program-rzecznicy-nauki-blog-11999">więcej informacji</a>.</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Focus: Jak bronią się rośliny?</title>
 		<link>/2014/03/03/focus-jak-bronia-sie-rosliny/</link>
-		<pubDate>Mon, 03 Mar 2014 23:07:13 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 23:07:13 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[FameLab]]></category>
 		<category><![CDATA[Focus]]></category>
 		<category><![CDATA[komunikacja roślin]]></category>
 		<category><![CDATA[rośliny]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=573</guid>
-		<description><![CDATA[Czy wiesz, że niektóre rośliny potrafią krzyczeć, gdy ktoś je ugryzie? Posłuchaj wystąpienia dr Joanny Bagniewskiej, która wzięła udział w półfinale konkursu FameLab i dowiedz się więcej! Dr Joanna Bagniewska jest zoolożką. Jej doktorat na Uniwersytecie Oksfordzkim dotyczył biotelemetrii, czyli dyskretnego podglądactwa prywatnego życia dzikich zwierząt. Dotychczas prowadziła badania na kretoszczurach...]]></description>
-				<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/03/focus.png"><img class="alignnone wp-image-574 size-full" src="https://jbagniewska.files.wordpress.com/2014/03/focus.png" alt="focus" width="500" height="391" /></a></p>
+
+					<description><![CDATA[Czy wiesz, że niektóre rośliny potrafią krzyczeć, gdy ktoś je ugryzie? Posłuchaj wystąpienia dr Joanny Bagniewskiej, która wzięła udział w półfinale konkursu FameLab i dowiedz się więcej! Dr Joanna Bagniewska jest zoolożką. Jej doktorat na Uniwersytecie Oksfordzkim dotyczył biotelemetrii, czyli dyskretnego podglądactwa prywatnego życia dzikich zwierząt. Dotychczas prowadziła badania na kretoszczurach...]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/03/focus.png"><img loading="lazy" class="alignnone wp-image-574 size-full" src="https://jbagniewska.files.wordpress.com/2014/03/focus.png" alt="focus" width="500" height="391" /></a></p>
 <p>Czy wiesz, że niektóre rośliny potrafią krzyczeć, gdy ktoś je ugryzie? Posłuchaj wystąpienia dr Joanny Bagniewskiej, która wzięła udział w półfinale konkursu FameLab i dowiedz się więcej!</p>
 <div></div>
 <p>Dr Joanna Bagniewska jest zoolożką. Jej doktorat na Uniwersytecie Oksfordzkim dotyczył biotelemetrii, czyli dyskretnego podglądactwa prywatnego życia dzikich zwierząt. Dotychczas prowadziła badania na kretoszczurach (Teksas), wombatach (Australia), szakalach i lisach (RPA) oraz norkach (UK). Jej ostatni projekt dotyczył wykrywania narkotyków przez pszczoły.</p>
@@ -200,6 +219,9 @@ u tego gatunku występuje zjawisko zwane hermafrodytyzmem sekwencyjnym. Wszystki
 <p>Dr Joanna Bagniewska jest także finalistką trzeciej polskiej edycji międzynarodowego konkursu FameLab. Zobacz jej wystąpienie z półfinału konkursu, który odbył się 1 marca 2014 r. w Centrum Nauki Kopernik!</p>
 <p><a href="https://www.focus.pl/przyroda/jak-bronia-sie-rosliny-10947">Focus.pl &#8211; Redakcja</a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

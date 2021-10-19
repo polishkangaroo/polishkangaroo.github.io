@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Ściągnąć mądre głowy do Polski. Wywiad z dr Joanną Bagniewską</title>
+	<title>
+	Comments on: Ściągnąć mądre głowy do Polski. Wywiad z dr Joanną Bagniewską	</title>
 	<atom:link href="/2014/10/10/sciagnac-madre-glowy-do-polski-wywiad-z-dr-joanna-bagniewska/feed/" rel="self" type="application/rss+xml" />
 	<link>/2014/10/10/sciagnac-madre-glowy-do-polski-wywiad-z-dr-joanna-bagniewska/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:55:47 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sun, 10 Jun 2018 11:15:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

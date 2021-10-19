@@ -12,11 +12,13 @@
 	<atom:link href="/tag/elab-magazine/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Jun 2018 22:20:33 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,16 +30,17 @@
 	<item>
 		<title>Studia, czyli wychodzimy ze strefy komfortu</title>
 		<link>/2016/10/18/studia-czyli-wychodzimy-ze-strefy-komfortu/</link>
-		<pubDate>Tue, 18 Oct 2016 22:41:47 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2016 22:41:47 +0000</pubDate>
 				<category><![CDATA[Moje teksty]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Elab Magazine]]></category>
 		<category><![CDATA[studia zagraniczne]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1630</guid>
-		<description><![CDATA[Mój tekst na blogu Elab Magazine Studia to czas na poszukiwania, eksperymenty, zrywy. Jak podjąć takie wyzwanie w sposób najbardziej produktywny i perspektywiczny? Kontakty Uniwersytet jest świetnym miejscem do budowania przyszłościowych relacji. Nie ograniczaj się do znajomych z roku. Wiele uczelni organizuje programy mentoringowe lub spotkania z absolwentami – skorzystaj...]]></description>
-				<content:encoded><![CDATA[<p dir="ltr" style="text-align:justify;"><em><strong>Mój tekst na blogu <a href="https://elabmag.pl/article/337-studia,-czyli-wychodzimy-ze-strefy-komfortu">Elab Magazine</a></strong></em></p>
+
+					<description><![CDATA[Mój tekst na blogu Elab Magazine Studia to czas na poszukiwania, eksperymenty, zrywy. Jak podjąć takie wyzwanie w sposób najbardziej produktywny i perspektywiczny? Kontakty Uniwersytet jest świetnym miejscem do budowania przyszłościowych relacji. Nie ograniczaj się do znajomych z roku. Wiele uczelni organizuje programy mentoringowe lub spotkania z absolwentami – skorzystaj...]]></description>
+										<content:encoded><![CDATA[<p dir="ltr" style="text-align:justify;"><em><strong>Mój tekst na blogu <a href="https://elabmag.pl/article/337-studia,-czyli-wychodzimy-ze-strefy-komfortu">Elab Magazine</a></strong></em></p>
 <p dir="ltr" style="text-align:justify;"><strong>Studia to czas na poszukiwania, eksperymenty, zrywy. Jak podjąć takie wyzwanie w sposób najbardziej produktywny i perspektywiczny?</strong></p>
 <p dir="ltr" style="text-align:justify;"><strong>Kontakty</strong></p>
 <p dir="ltr" style="text-align:justify;">Uniwersytet jest świetnym miejscem do budowania przyszłościowych relacji. Nie ograniczaj się do znajomych z roku. Wiele uczelni organizuje programy mentoringowe lub spotkania z absolwentami – skorzystaj z nich, takie kontakty procentują.</p>
@@ -52,6 +55,9 @@
 <p style="text-align:justify;"><strong>Spotkajcie Joannę Bagniewską na Festivalu Edukacji Zagranicznej na stanowisku Oxford &amp; Cambridge, już 22 października! Porozmawiajcie o tym jak to jest studiować na Oxfordzie i wysłuchajcie mowy motywacyjnej o 15:45 na Scenie Głównej.</strong></p>
 <p style="text-align:justify;"><strong>Joanna przylatuje specjalnie dla Was na EEF! Więcej o Festivalu: <a href="https://www.eef-elabfundacja.pl/">www.eef-elabfundacja.pl</a></strong></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

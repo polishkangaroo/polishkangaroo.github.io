@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Open season for female scientists</title>
+	<title>
+	Comments on: Open season for female scientists	</title>
 	<atom:link href="/2015/07/28/open-season-for-female-scientists/feed/" rel="self" type="application/rss+xml" />
 	<link>/2015/07/28/open-season-for-female-scientists/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:54:58 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<lastBuildDate>Sun, 17 Oct 2021 22:03:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>

@@ -12,11 +12,13 @@
 	<atom:link href="/tag/radio-praga/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Jun 2018 22:50:56 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,26 +30,29 @@
 	<item>
 		<title>Chce mi się z Tobą gadać #53: z Joanną Bagniewską o świecie zwierząt i ekologii</title>
 		<link>/2015/07/04/chce-mi-sie-z-toba-gadac-53-z-joanna-bagniewska-o-swiecie-zwierzat-i-ekologii/</link>
-		<pubDate>Sat, 04 Jul 2015 15:43:24 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sat, 04 Jul 2015 15:43:24 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[O popularyzacji nauki]]></category>
 		<category><![CDATA[O zwierzętach]]></category>
 		<category><![CDATA[Po polsku]]></category>
-		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Radio]]></category>
 		<category><![CDATA[Australia]]></category>
 		<category><![CDATA[badania]]></category>
 		<category><![CDATA[radio]]></category>
 		<category><![CDATA[Radio Praga]]></category>
 		<category><![CDATA[zoologia]]></category>
-
 		<guid isPermaLink="false">http://joannabagniewska.com/?p=1075</guid>
-		<description><![CDATA[Rozmowa Agaty Koczowskiej w Radiu Praga Wśród zwierząt najbardziej lubi te ładne i puchate, dlatego długo szukała sobie miejsca na wydziale biologicznym, gdzie królowały pierwotniaki, pantofelki i mitochondria. Jak ryba w wodzie czuje się w międzynarodowym środowisku, realizowała projekty w Ameryce, Australii i Republice Południowej Afryki. Wierzy, że jako naukowiec ma...]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><em><a href="https://radiopraga.pl/archiwum-audio/839-53-z-joanna-bagniewska-o-swiecie-zwierzat-i-ekologii">Rozmowa Agaty Koczowskiej w Radiu Praga</a> </em></p>
+
+					<description><![CDATA[Rozmowa Agaty Koczowskiej w Radiu Praga Wśród zwierząt najbardziej lubi te ładne i puchate, dlatego długo szukała sobie miejsca na wydziale biologicznym, gdzie królowały pierwotniaki, pantofelki i mitochondria. Jak ryba w wodzie czuje się w międzynarodowym środowisku, realizowała projekty w Ameryce, Australii i Republice Południowej Afryki. Wierzy, że jako naukowiec ma...]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em><a href="https://radiopraga.pl/archiwum-audio/839-53-z-joanna-bagniewska-o-swiecie-zwierzat-i-ekologii">Rozmowa Agaty Koczowskiej w Radiu Praga</a> </em></p>
 <p style="text-align: justify;">Wśród zwierząt najbardziej lubi te ładne i puchate, dlatego długo szukała sobie miejsca na wydziale biologicznym, gdzie królowały pierwotniaki, pantofelki i mitochondria. Jak ryba w wodzie czuje się w międzynarodowym środowisku, realizowała projekty w Ameryce, Australii i Republice Południowej Afryki. Wierzy, że jako naukowiec ma misję do spełnienia, a jej zawodowym credo jest dążenie do prawdy. Joanna Bagniewska jest zoolożką i popularyzatorką nauki. Wykładowczyni na brytyjskim University of Reading. Doktor nauk przyrodniczych na Uniwersytecie w Oksfordzie. Zwyciężczyni polskiej edycji popularyzującego naukę FameLab 2014, awansowała do najlepszej dziesiątki światowego finału konkursu i zdobyła nagrodę laureatów poprzednich edycji. Mówczyni na TEDxWarsaw 2013. Ambasadorka The Kings Foundation wspierającej utalentowanych studentów z Polski w procesach rekrutacyjnych na najbardziej prestiżowe uczelnie świata. Jedna z organizatorek konferencji Science Polish Perspectives. Autorka artykułów popularnonaukowych m.in. do Gazety Wyborczej i czasopisma Focus.</p>
 <p style="text-align: justify;"><a href="https://radiopraga.pl/archiwum-audio/839-53-z-joanna-bagniewska-o-swiecie-zwierzat-i-ekologii">Link do rozmowy</a></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

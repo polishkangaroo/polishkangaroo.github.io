@@ -12,11 +12,13 @@
 	<atom:link href="/tag/federacja-polskich-stowaryszen-studenckich-w-uk/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jun 2018 12:24:05 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,8 +30,9 @@
 	<item>
 		<title>W awangardzie &#8211; VIII Kongres Polskich Stowarzyszeń Studenckich</title>
 		<link>/2015/03/02/w-awangardzie-viii-kongres-polskich-stowarzyszen-studenckich/</link>
-		<pubDate>Mon, 02 Mar 2015 20:32:17 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2015 20:32:17 +0000</pubDate>
 				<category><![CDATA[O mojej pracy]]></category>
 		<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Angora]]></category>
@@ -38,17 +41,21 @@
 		<category><![CDATA[Polacy w UK]]></category>
 		<category><![CDATA[Polacy za granicą]]></category>
 		<category><![CDATA[polscy studenci]]></category>
-
 		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=876</guid>
-		<description><![CDATA[Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku Angora (pdf tekstu po kliknięciu w link).]]></description>
-				<content:encoded><![CDATA[<p>Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku <em><a href="https://jbagniewska.files.wordpress.com/2015/03/angora_2015-10_77.pdf">Angora</a></em> (pdf tekstu po kliknięciu w link).<span id="more-876"></span></p>
+
+					<description><![CDATA[Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku Angora (pdf tekstu po kliknięciu w link).]]></description>
+										<content:encoded><![CDATA[<p>Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku <em><a href="https://jbagniewska.files.wordpress.com/2015/03/angora_2015-10_77.pdf">Angora</a></em> (pdf tekstu po kliknięciu w link).<span id="more-876"></span></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 		<item>
 		<title>Dziennik Polski: Studenci mają głos</title>
 		<link>/2014/03/20/dziennik-polski-studenci-maja-glos/</link>
-		<pubDate>Thu, 20 Mar 2014 23:26:19 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2014 23:26:19 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Dziennik Polski]]></category>
 		<category><![CDATA[Federacja Polskich Stowaryszeń Studenckich w UK]]></category>
@@ -58,10 +65,10 @@
 		<category><![CDATA[Tydzień Polski]]></category>
 		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
 		<category><![CDATA[Wielka Brytania]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=577</guid>
-		<description><![CDATA[Oxford. To miasto zdaje się być przesiąknięte atmosferą nauki. Może wydawać się, że od samego przebywania tutaj wiedza sama wchodzi do głowy. Od wieków pokolenia Brytyjczyków zdobywały tu wykształcenie. Obecnie uczy się tutaj również ok. 270 polskich studentów. Od wejścia Polski do Unii Europejskiej ta liczba polskich studentów w Oxfordzie...]]></description>
-				<content:encoded><![CDATA[<p><b><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png"><img class="alignnone size-full wp-image-578" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png" alt="dziennikPL-kongres" width="500" height="341" /></a></b></p>
+
+					<description><![CDATA[Oxford. To miasto zdaje się być przesiąknięte atmosferą nauki. Może wydawać się, że od samego przebywania tutaj wiedza sama wchodzi do głowy. Od wieków pokolenia Brytyjczyków zdobywały tu wykształcenie. Obecnie uczy się tutaj również ok. 270 polskich studentów. Od wejścia Polski do Unii Europejskiej ta liczba polskich studentów w Oxfordzie...]]></description>
+										<content:encoded><![CDATA[<p><b><a href="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png"><img loading="lazy" class="alignnone size-full wp-image-578" src="https://jbagniewska.files.wordpress.com/2014/03/dziennikpl-kongres.png" alt="dziennikPL-kongres" width="500" height="341" /></a></b></p>
 <p><b>Oxford. To miasto zdaje się być przesiąknięte atmosferą nauki. Może wydawać się, że od samego przebywania tutaj wiedza sama wchodzi do głowy. Od wieków pokolenia Brytyjczyków zdobywały tu wykształcenie.</b></p>
 <p>Obecnie uczy się tutaj również ok. 270 polskich studentów. Od wejścia Polski do Unii Europejskiej ta liczba polskich studentów w Oxfordzie z roku na roku rośnie. Ale nie samą nauką człowiek żyje – ci młodzi ludzie są przecież są ambitni, aktywni i mają wiele do powiedzenia na różne tematy. Chcą zmieniać świat na lepsze. W celu realizowania tych ambicji już po raz 7. Zorganizowano Congress of Polish Student Societies.</p>
 <p>– Historia zatoczyła koło, ponieważ pierwszy kongres został zorganizowany tu w Oxfordzie w 2008 roku i również wtedy był obecny na nim minister Sikorski. Jest to zupełnie oddolna inicjatywa, nieco zainspirowana przez profesora Pełczyńskiego, wykładowcy i byłego rektora Pembroke College. Odczuwaliśmy potrzebę zorganizowania wydarzenia, które będzie się odbywało regularnie, na którym będziemy mogli się spotkać ze studentami z innych uczelni, poznać się, porozmawiać o problemach i perspektywach. Organizacja kongresu spoczywa w całości na studentach, zarówno pod względem finansowym, jak i merytorycznym, jako że od początku była to inicjatywa studencka i taką pozostała do dzisiaj – mówił Krzysztof Bar, prezes Federacji Polskich Stowarzyszeń Studenckich w Wielkiej Brytanii, jeden z twórców kongresu, jak wyrażają się o nim koledzy „ideolog tego, w co wszyscy wierzymy”, a także absolwent Oxfordu, obecnie doktorant zgłębiający tajniki komputerów kwantowy.</p>
@@ -98,6 +105,9 @@
 <p><a href="https://www.dziennikpolski.co.uk/artykuly/2014/03/14/studenci-maja-glos/">Magdalena Grzymkowska</a></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>

@@ -12,11 +12,13 @@
 	<atom:link href="/tag/innowacyjnosc/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>zoologist &#124; science communicator </description>
-	<lastBuildDate>Mon, 11 Jun 2018 11:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 May 2018 21:13:33 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
@@ -28,19 +30,23 @@
 	<item>
 		<title>Krótki wywiad z Kongresu Obywatelskiego</title>
 		<link>/2015/01/02/krotki-wywiad-z-kongresu-obywatelskiego/</link>
-		<pubDate>Fri, 02 Jan 2015 17:11:11 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 02 Jan 2015 17:11:11 +0000</pubDate>
 				<category><![CDATA[Po polsku]]></category>
 		<category><![CDATA[Video]]></category>
 		<category><![CDATA[innowacyjność]]></category>
 		<category><![CDATA[Kongres Obywatelski]]></category>
 		<category><![CDATA[sukces]]></category>
-
 		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=849</guid>
-		<description><![CDATA[Udało mi się zacytować Nielsa Bohra!]]></description>
-				<content:encoded><![CDATA[<p>Udało mi się zacytować Nielsa Bohra!</p>
-<p><iframe width="790" height="444" src="https://www.youtube.com/embed/yOhH2o_GmPk?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+					<description><![CDATA[Udało mi się zacytować Nielsa Bohra!]]></description>
+										<content:encoded><![CDATA[<p>Udało mi się zacytować Nielsa Bohra!</p>
+<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/yOhH2o_GmPk?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 ]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>
